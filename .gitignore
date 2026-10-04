@@ -1,0 +1,26 @@
+
+
+@"
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Large datasets
+*.zip
+marathi_dataset/
+
+# Generated analysis files
+*.json
+*.csv
+
+# VS Code
+.vscode/
+"@ | Set-Content .gitignore
