@@ -1,0 +1,15 @@
+file,duration,total_words,low_score_words,low_score_percent,average_score,minimum_score,quality
+good_01.wav,60.0,91,3,3.3,0.93,0.301,REVIEW
+good_02.wav,120.0,191,4,2.09,0.925,0.102,REVIEW
+good_03.wav,180.0,270,11,4.07,0.921,0.161,REVIEW
+good_04.wav,180.008,368,1,0.27,0.964,0.178,GOOD
+good_05.wav,180.0,286,2,0.7,0.944,0.455,GOOD
+good_06.wav,119.998,213,13,6.1,0.909,0.01,REVIEW
+good_07.wav,120.0,269,11,4.09,0.91,0.0,REVIEW
+good_08.wav,120.0,273,13,4.76,0.917,0.0,REVIEW
+good_09.wav,120.0,277,1,0.36,0.958,0.001,GOOD
+good_13.wav,180.0,435,24,5.52,0.873,0.001,REVIEW
+good_14.wav,60.0,152,4,2.63,0.925,0.036,REVIEW
+good_15.wav,90.41,242,12,4.96,0.887,0.001,REVIEW
+good_16.wav,60.0,165,39,23.64,0.735,0.012,POOR
+good_17.wav,120.0,378,21,5.56,0.897,0.0,REVIEW
