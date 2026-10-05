@@ -1,0 +1,1070 @@
+{
+  "file": "good_14.wav",
+  "duration": 60.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "and",
+      "start": 0.36,
+      "end": 0.44,
+      "score": 0.818
+    },
+    {
+      "index": 1,
+      "word": "say,",
+      "start": 0.5,
+      "end": 0.64,
+      "score": 0.952
+    },
+    {
+      "index": 2,
+      "word": "well",
+      "start": 0.68,
+      "end": 0.8,
+      "score": 0.233
+    },
+    {
+      "index": 3,
+      "word": "let's",
+      "start": 0.82,
+      "end": 1.02,
+      "score": 0.628
+    },
+    {
+      "index": 4,
+      "word": "just",
+      "start": 1.1,
+      "end": 1.34,
+      "score": 0.752
+    },
+    {
+      "index": 5,
+      "word": "get",
+      "start": 1.42,
+      "end": 1.581,
+      "score": 0.92
+    },
+    {
+      "index": 6,
+      "word": "it",
+      "start": 1.601,
+      "end": 1.701,
+      "score": 0.959
+    },
+    {
+      "index": 7,
+      "word": "over",
+      "start": 1.761,
+      "end": 1.981,
+      "score": 0.927
+    },
+    {
+      "index": 8,
+      "word": "with.",
+      "start": 2.041,
+      "end": 2.261,
+      "score": 0.862
+    },
+    {
+      "index": 9,
+      "word": "But",
+      "start": 3.001,
+      "end": 3.121,
+      "score": 0.769
+    },
+    {
+      "index": 10,
+      "word": "Richard",
+      "start": 3.181,
+      "end": 3.481,
+      "score": 0.965
+    },
+    {
+      "index": 11,
+      "word": "Trumka",
+      "start": 3.521,
+      "end": 3.881,
+      "score": 0.796
+    },
+    {
+      "index": 12,
+      "word": "would",
+      "start": 4.081,
+      "end": 4.221,
+      "score": 0.935
+    },
+    {
+      "index": 13,
+      "word": "never",
+      "start": 4.321,
+      "end": 4.562,
+      "score": 0.995
+    },
+    {
+      "index": 14,
+      "word": "adopt",
+      "start": 4.722,
+      "end": 5.102,
+      "score": 0.994
+    },
+    {
+      "index": 15,
+      "word": "that",
+      "start": 5.142,
+      "end": 5.362,
+      "score": 0.943
+    },
+    {
+      "index": 16,
+      "word": "attitude",
+      "start": 5.522,
+      "end": 6.102,
+      "score": 0.988
+    },
+    {
+      "index": 17,
+      "word": "when",
+      "start": 6.142,
+      "end": 6.282,
+      "score": 0.995
+    },
+    {
+      "index": 18,
+      "word": "he",
+      "start": 6.322,
+      "end": 6.382,
+      "score": 0.913
+    },
+    {
+      "index": 19,
+      "word": "was",
+      "start": 6.462,
+      "end": 6.582,
+      "score": 0.983
+    },
+    {
+      "index": 20,
+      "word": "there",
+      "start": 6.642,
+      "end": 6.842,
+      "score": 0.97
+    },
+    {
+      "index": 21,
+      "word": "working",
+      "start": 7.302,
+      "end": 7.783,
+      "score": 0.894
+    },
+    {
+      "index": 22,
+      "word": "for",
+      "start": 8.023,
+      "end": 8.203,
+      "score": 0.758
+    },
+    {
+      "index": 23,
+      "word": "the",
+      "start": 8.263,
+      "end": 8.343,
+      "score": 0.943
+    },
+    {
+      "index": 24,
+      "word": "workers.",
+      "start": 8.403,
+      "end": 8.943,
+      "score": 0.988
+    },
+    {
+      "index": 25,
+      "word": "It",
+      "start": 9.783,
+      "end": 9.883,
+      "score": 0.212
+    },
+    {
+      "index": 26,
+      "word": "was",
+      "start": 10.684,
+      "end": 10.804,
+      "score": 0.943
+    },
+    {
+      "index": 27,
+      "word": "unsurpassed",
+      "start": 10.984,
+      "end": 11.724,
+      "score": 0.911
+    },
+    {
+      "index": 28,
+      "word": "titan",
+      "start": 11.784,
+      "end": 12.144,
+      "score": 0.781
+    },
+    {
+      "index": 29,
+      "word": "of",
+      "start": 12.264,
+      "end": 12.344,
+      "score": 0.994
+    },
+    {
+      "index": 30,
+      "word": "the",
+      "start": 12.364,
+      "end": 12.444,
+      "score": 0.926
+    },
+    {
+      "index": 31,
+      "word": "labor",
+      "start": 12.484,
+      "end": 12.764,
+      "score": 0.984
+    },
+    {
+      "index": 32,
+      "word": "movement.",
+      "start": 12.844,
+      "end": 13.344,
+      "score": 0.997
+    },
+    {
+      "index": 33,
+      "word": "A",
+      "start": 13.805,
+      "end": 13.825,
+      "score": 0.993
+    },
+    {
+      "index": 34,
+      "word": "third-generation",
+      "start": 13.945,
+      "end": 14.785,
+      "score": 0.987
+    },
+    {
+      "index": 35,
+      "word": "coal",
+      "start": 14.865,
+      "end": 15.125,
+      "score": 0.687
+    },
+    {
+      "index": 36,
+      "word": "miner,",
+      "start": 15.205,
+      "end": 15.605,
+      "score": 0.997
+    },
+    {
+      "index": 37,
+      "word": "he",
+      "start": 16.065,
+      "end": 16.125,
+      "score": 0.943
+    },
+    {
+      "index": 38,
+      "word": "dedicated",
+      "start": 16.546,
+      "end": 17.046,
+      "score": 0.997
+    },
+    {
+      "index": 39,
+      "word": "his",
+      "start": 17.086,
+      "end": 17.206,
+      "score": 0.987
+    },
+    {
+      "index": 40,
+      "word": "life",
+      "start": 17.286,
+      "end": 17.566,
+      "score": 0.999
+    },
+    {
+      "index": 41,
+      "word": "for",
+      "start": 17.846,
+      "end": 17.926,
+      "score": 0.036
+    },
+    {
+      "index": 42,
+      "word": "the",
+      "start": 17.946,
+      "end": 18.026,
+      "score": 0.8
+    },
+    {
+      "index": 43,
+      "word": "right",
+      "start": 18.106,
+      "end": 18.366,
+      "score": 0.981
+    },
+    {
+      "index": 44,
+      "word": "to",
+      "start": 18.466,
+      "end": 18.566,
+      "score": 0.99
+    },
+    {
+      "index": 45,
+      "word": "organize",
+      "start": 18.826,
+      "end": 19.527,
+      "score": 0.992
+    },
+    {
+      "index": 46,
+      "word": "from",
+      "start": 19.827,
+      "end": 19.947,
+      "score": 0.911
+    },
+    {
+      "index": 47,
+      "word": "his",
+      "start": 19.967,
+      "end": 20.087,
+      "score": 0.945
+    },
+    {
+      "index": 48,
+      "word": "work",
+      "start": 20.187,
+      "end": 20.407,
+      "score": 0.998
+    },
+    {
+      "index": 49,
+      "word": "at",
+      "start": 20.447,
+      "end": 20.487,
+      "score": 0.096
+    },
+    {
+      "index": 50,
+      "word": "the",
+      "start": 20.507,
+      "end": 20.567,
+      "score": 0.847
+    },
+    {
+      "index": 51,
+      "word": "United",
+      "start": 20.627,
+      "end": 20.927,
+      "score": 0.908
+    },
+    {
+      "index": 52,
+      "word": "Mine",
+      "start": 20.987,
+      "end": 21.247,
+      "score": 0.915
+    },
+    {
+      "index": 53,
+      "word": "Workers",
+      "start": 21.287,
+      "end": 21.767,
+      "score": 0.996
+    },
+    {
+      "index": 54,
+      "word": "of",
+      "start": 22.267,
+      "end": 22.327,
+      "score": 0.995
+    },
+    {
+      "index": 55,
+      "word": "America",
+      "start": 22.367,
+      "end": 22.888,
+      "score": 0.989
+    },
+    {
+      "index": 56,
+      "word": "to",
+      "start": 23.608,
+      "end": 23.668,
+      "score": 0.954
+    },
+    {
+      "index": 57,
+      "word": "his",
+      "start": 23.748,
+      "end": 23.848,
+      "score": 0.939
+    },
+    {
+      "index": 58,
+      "word": "decade-long",
+      "start": 23.928,
+      "end": 24.708,
+      "score": 0.894
+    },
+    {
+      "index": 59,
+      "word": "leadership",
+      "start": 24.848,
+      "end": 25.308,
+      "score": 0.975
+    },
+    {
+      "index": 60,
+      "word": "at",
+      "start": 25.468,
+      "end": 25.549,
+      "score": 0.903
+    },
+    {
+      "index": 61,
+      "word": "the",
+      "start": 25.569,
+      "end": 25.649,
+      "score": 0.952
+    },
+    {
+      "index": 62,
+      "word": "AFL-CIO.",
+      "start": 25.669,
+      "end": 27.049,
+      "score": 0.809
+    },
+    {
+      "index": 63,
+      "word": "In",
+      "start": 27.549,
+      "end": 27.629,
+      "score": 0.991
+    },
+    {
+      "index": 64,
+      "word": "everything",
+      "start": 27.769,
+      "end": 28.189,
+      "score": 0.975
+    },
+    {
+      "index": 65,
+      "word": "he",
+      "start": 28.229,
+      "end": 28.289,
+      "score": 0.992
+    },
+    {
+      "index": 66,
+      "word": "did,",
+      "start": 28.389,
+      "end": 28.65,
+      "score": 0.998
+    },
+    {
+      "index": 67,
+      "word": "Richard",
+      "start": 29.27,
+      "end": 29.51,
+      "score": 0.978
+    },
+    {
+      "index": 68,
+      "word": "Trumka",
+      "start": 29.53,
+      "end": 29.85,
+      "score": 0.838
+    },
+    {
+      "index": 69,
+      "word": "was",
+      "start": 29.91,
+      "end": 30.05,
+      "score": 0.981
+    },
+    {
+      "index": 70,
+      "word": "always",
+      "start": 30.25,
+      "end": 30.65,
+      "score": 0.914
+    },
+    {
+      "index": 71,
+      "word": "thinking",
+      "start": 30.79,
+      "end": 31.15,
+      "score": 0.996
+    },
+    {
+      "index": 72,
+      "word": "about",
+      "start": 31.31,
+      "end": 31.611,
+      "score": 0.978
+    },
+    {
+      "index": 73,
+      "word": "the",
+      "start": 31.691,
+      "end": 31.791,
+      "score": 0.84
+    },
+    {
+      "index": 74,
+      "word": "workers,",
+      "start": 31.871,
+      "end": 32.491,
+      "score": 0.972
+    },
+    {
+      "index": 75,
+      "word": "what",
+      "start": 33.471,
+      "end": 33.651,
+      "score": 0.935
+    },
+    {
+      "index": 76,
+      "word": "can",
+      "start": 33.791,
+      "end": 33.911,
+      "score": 0.992
+    },
+    {
+      "index": 77,
+      "word": "we",
+      "start": 33.951,
+      "end": 34.011,
+      "score": 0.989
+    },
+    {
+      "index": 78,
+      "word": "do",
+      "start": 34.091,
+      "end": 34.171,
+      "score": 0.996
+    },
+    {
+      "index": 79,
+      "word": "to",
+      "start": 34.291,
+      "end": 34.331,
+      "score": 0.979
+    },
+    {
+      "index": 80,
+      "word": "give",
+      "start": 34.411,
+      "end": 34.572,
+      "score": 0.998
+    },
+    {
+      "index": 81,
+      "word": "them",
+      "start": 34.592,
+      "end": 34.712,
+      "score": 0.96
+    },
+    {
+      "index": 82,
+      "word": "more",
+      "start": 34.772,
+      "end": 34.932,
+      "score": 0.973
+    },
+    {
+      "index": 83,
+      "word": "certainty",
+      "start": 35.012,
+      "end": 35.432,
+      "score": 0.973
+    },
+    {
+      "index": 84,
+      "word": "in",
+      "start": 35.512,
+      "end": 35.552,
+      "score": 0.977
+    },
+    {
+      "index": 85,
+      "word": "their",
+      "start": 35.572,
+      "end": 35.712,
+      "score": 0.992
+    },
+    {
+      "index": 86,
+      "word": "lives",
+      "start": 35.792,
+      "end": 36.232,
+      "score": 0.996
+    },
+    {
+      "index": 87,
+      "word": "in",
+      "start": 36.272,
+      "end": 36.332,
+      "score": 0.99
+    },
+    {
+      "index": 88,
+      "word": "terms",
+      "start": 36.372,
+      "end": 36.612,
+      "score": 0.997
+    },
+    {
+      "index": 89,
+      "word": "of",
+      "start": 36.652,
+      "end": 36.712,
+      "score": 0.994
+    },
+    {
+      "index": 90,
+      "word": "good",
+      "start": 36.792,
+      "end": 36.992,
+      "score": 0.999
+    },
+    {
+      "index": 91,
+      "word": "pay,",
+      "start": 37.112,
+      "end": 37.392,
+      "score": 0.987
+    },
+    {
+      "index": 92,
+      "word": "jobs,",
+      "start": 37.533,
+      "end": 37.893,
+      "score": 0.997
+    },
+    {
+      "index": 93,
+      "word": "benefits,",
+      "start": 37.973,
+      "end": 38.473,
+      "score": 0.999
+    },
+    {
+      "index": 94,
+      "word": "and",
+      "start": 39.013,
+      "end": 39.113,
+      "score": 0.988
+    },
+    {
+      "index": 95,
+      "word": "working",
+      "start": 39.173,
+      "end": 39.573,
+      "score": 0.967
+    },
+    {
+      "index": 96,
+      "word": "conditions.",
+      "start": 39.613,
+      "end": 40.313,
+      "score": 0.995
+    },
+    {
+      "index": 97,
+      "word": "Richard",
+      "start": 40.774,
+      "end": 41.014,
+      "score": 0.95
+    },
+    {
+      "index": 98,
+      "word": "Trumka",
+      "start": 41.034,
+      "end": 41.394,
+      "score": 0.801
+    },
+    {
+      "index": 99,
+      "word": "was",
+      "start": 41.474,
+      "end": 41.594,
+      "score": 0.926
+    },
+    {
+      "index": 100,
+      "word": "a",
+      "start": 41.654,
+      "end": 41.674,
+      "score": 0.957
+    },
+    {
+      "index": 101,
+      "word": "great",
+      "start": 41.754,
+      "end": 41.994,
+      "score": 0.99
+    },
+    {
+      "index": 102,
+      "word": "patriot,",
+      "start": 42.394,
+      "end": 42.934,
+      "score": 0.992
+    },
+    {
+      "index": 103,
+      "word": "and",
+      "start": 43.394,
+      "end": 43.494,
+      "score": 0.96
+    },
+    {
+      "index": 104,
+      "word": "he",
+      "start": 43.515,
+      "end": 43.555,
+      "score": 0.981
+    },
+    {
+      "index": 105,
+      "word": "fought",
+      "start": 43.655,
+      "end": 43.915,
+      "score": 0.896
+    },
+    {
+      "index": 106,
+      "word": "always",
+      "start": 44.015,
+      "end": 44.315,
+      "score": 0.991
+    },
+    {
+      "index": 107,
+      "word": "to",
+      "start": 44.355,
+      "end": 44.435,
+      "score": 0.991
+    },
+    {
+      "index": 108,
+      "word": "strengthen",
+      "start": 44.515,
+      "end": 44.915,
+      "score": 0.966
+    },
+    {
+      "index": 109,
+      "word": "the",
+      "start": 44.935,
+      "end": 45.015,
+      "score": 0.958
+    },
+    {
+      "index": 110,
+      "word": "middle",
+      "start": 45.035,
+      "end": 45.255,
+      "score": 0.974
+    },
+    {
+      "index": 111,
+      "word": "class,",
+      "start": 45.275,
+      "end": 45.615,
+      "score": 0.977
+    },
+    {
+      "index": 112,
+      "word": "as",
+      "start": 45.695,
+      "end": 45.795,
+      "score": 0.989
+    },
+    {
+      "index": 113,
+      "word": "I",
+      "start": 45.915,
+      "end": 45.935,
+      "score": 0.991
+    },
+    {
+      "index": 114,
+      "word": "said,",
+      "start": 45.995,
+      "end": 46.215,
+      "score": 0.992
+    },
+    {
+      "index": 115,
+      "word": "and",
+      "start": 46.636,
+      "end": 46.736,
+      "score": 0.976
+    },
+    {
+      "index": 116,
+      "word": "lift",
+      "start": 46.776,
+      "end": 46.976,
+      "score": 0.907
+    },
+    {
+      "index": 117,
+      "word": "up",
+      "start": 47.016,
+      "end": 47.116,
+      "score": 0.998
+    },
+    {
+      "index": 118,
+      "word": "those",
+      "start": 47.176,
+      "end": 47.476,
+      "score": 0.986
+    },
+    {
+      "index": 119,
+      "word": "who",
+      "start": 47.476,
+      "end": 47.556,
+      "score": 0.979
+    },
+    {
+      "index": 120,
+      "word": "aspire",
+      "start": 47.636,
+      "end": 48.176,
+      "score": 0.854
+    },
+    {
+      "index": 121,
+      "word": "to",
+      "start": 48.256,
+      "end": 48.336,
+      "score": 0.877
+    },
+    {
+      "index": 122,
+      "word": "it,",
+      "start": 48.416,
+      "end": 48.496,
+      "score": 0.989
+    },
+    {
+      "index": 123,
+      "word": "understanding",
+      "start": 48.636,
+      "end": 49.356,
+      "score": 0.974
+    },
+    {
+      "index": 124,
+      "word": "that",
+      "start": 49.376,
+      "end": 49.496,
+      "score": 0.992
+    },
+    {
+      "index": 125,
+      "word": "the",
+      "start": 49.537,
+      "end": 49.617,
+      "score": 0.989
+    },
+    {
+      "index": 126,
+      "word": "middle",
+      "start": 49.657,
+      "end": 49.877,
+      "score": 0.923
+    },
+    {
+      "index": 127,
+      "word": "class,",
+      "start": 49.917,
+      "end": 50.317,
+      "score": 0.953
+    },
+    {
+      "index": 128,
+      "word": "again,",
+      "start": 50.857,
+      "end": 51.197,
+      "score": 0.996
+    },
+    {
+      "index": 129,
+      "word": "which",
+      "start": 51.277,
+      "end": 51.417,
+      "score": 0.997
+    },
+    {
+      "index": 130,
+      "word": "is",
+      "start": 51.457,
+      "end": 51.537,
+      "score": 0.991
+    },
+    {
+      "index": 131,
+      "word": "the",
+      "start": 51.577,
+      "end": 51.657,
+      "score": 0.879
+    },
+    {
+      "index": 132,
+      "word": "backbone",
+      "start": 51.677,
+      "end": 52.137,
+      "score": 0.984
+    },
+    {
+      "index": 133,
+      "word": "of",
+      "start": 52.157,
+      "end": 52.217,
+      "score": 0.993
+    },
+    {
+      "index": 134,
+      "word": "our",
+      "start": 52.257,
+      "end": 52.357,
+      "score": 0.874
+    },
+    {
+      "index": 135,
+      "word": "democracy,",
+      "start": 52.397,
+      "end": 53.018,
+      "score": 0.959
+    },
+    {
+      "index": 136,
+      "word": "has",
+      "start": 53.618,
+      "end": 53.798,
+      "score": 0.895
+    },
+    {
+      "index": 137,
+      "word": "a",
+      "start": 53.838,
+      "end": 53.858,
+      "score": 0.988
+    },
+    {
+      "index": 138,
+      "word": "union",
+      "start": 54.018,
+      "end": 54.318,
+      "score": 0.997
+    },
+    {
+      "index": 139,
+      "word": "label",
+      "start": 54.558,
+      "end": 54.918,
+      "score": 0.782
+    },
+    {
+      "index": 140,
+      "word": "on",
+      "start": 55.178,
+      "end": 55.338,
+      "score": 0.994
+    },
+    {
+      "index": 141,
+      "word": "it.",
+      "start": 55.398,
+      "end": 55.498,
+      "score": 0.995
+    },
+    {
+      "index": 142,
+      "word": "Richard",
+      "start": 56.139,
+      "end": 56.459,
+      "score": 0.947
+    },
+    {
+      "index": 143,
+      "word": "carried",
+      "start": 56.519,
+      "end": 56.919,
+      "score": 0.833
+    },
+    {
+      "index": 144,
+      "word": "his",
+      "start": 56.959,
+      "end": 57.099,
+      "score": 0.893
+    },
+    {
+      "index": 145,
+      "word": "values",
+      "start": 57.159,
+      "end": 57.579,
+      "score": 0.995
+    },
+    {
+      "index": 146,
+      "word": "into",
+      "start": 57.619,
+      "end": 57.779,
+      "score": 0.995
+    },
+    {
+      "index": 147,
+      "word": "other",
+      "start": 57.859,
+      "end": 58.059,
+      "score": 0.97
+    },
+    {
+      "index": 148,
+      "word": "realms",
+      "start": 58.099,
+      "end": 58.439,
+      "score": 0.831
+    },
+    {
+      "index": 149,
+      "word": "of",
+      "start": 58.499,
+      "end": 58.54,
+      "score": 0.995
+    },
+    {
+      "index": 150,
+      "word": "public",
+      "start": 58.6,
+      "end": 58.88,
+      "score": 0.933
+    },
+    {
+      "index": 151,
+      "word": "policy.",
+      "start": 58.92,
+      "end": 59.42,
+      "score": 0.996
+    }
+  ]
+}

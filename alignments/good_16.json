@@ -1,0 +1,1161 @@
+{
+  "file": "good_16.wav",
+  "duration": 60.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "desecrated,",
+      "start": 0.02,
+      "end": 0.6,
+      "score": 0.328
+    },
+    {
+      "index": 1,
+      "word": "blood",
+      "start": 1.18,
+      "end": 1.46,
+      "score": 0.664
+    },
+    {
+      "index": 2,
+      "word": "has",
+      "start": 1.561,
+      "end": 1.701,
+      "score": 0.18
+    },
+    {
+      "index": 3,
+      "word": "been",
+      "start": 1.761,
+      "end": 1.901,
+      "score": 0.222
+    },
+    {
+      "index": 4,
+      "word": "spilled",
+      "start": 2.001,
+      "end": 2.481,
+      "score": 0.19
+    },
+    {
+      "index": 5,
+      "word": "in",
+      "start": 2.841,
+      "end": 2.881,
+      "score": 0.198
+    },
+    {
+      "index": 6,
+      "word": "the",
+      "start": 2.901,
+      "end": 2.961,
+      "score": 0.148
+    },
+    {
+      "index": 7,
+      "word": "hallways.",
+      "start": 3.001,
+      "end": 3.521,
+      "score": 0.144
+    },
+    {
+      "index": 8,
+      "word": "I",
+      "start": 5.522,
+      "end": 5.542,
+      "score": 0.44
+    },
+    {
+      "index": 9,
+      "word": "was",
+      "start": 5.582,
+      "end": 5.742,
+      "score": 0.481
+    },
+    {
+      "index": 10,
+      "word": "with",
+      "start": 5.862,
+      "end": 6.062,
+      "score": 0.647
+    },
+    {
+      "index": 11,
+      "word": "octogenarian",
+      "start": 6.622,
+      "end": 7.422,
+      "score": 0.872
+    },
+    {
+      "index": 12,
+      "word": "members",
+      "start": 7.482,
+      "end": 7.823,
+      "score": 0.992
+    },
+    {
+      "index": 13,
+      "word": "of",
+      "start": 7.843,
+      "end": 7.903,
+      "score": 0.972
+    },
+    {
+      "index": 14,
+      "word": "this",
+      "start": 7.923,
+      "end": 8.063,
+      "score": 0.983
+    },
+    {
+      "index": 15,
+      "word": "chamber",
+      "start": 8.143,
+      "end": 8.523,
+      "score": 0.978
+    },
+    {
+      "index": 16,
+      "word": "that",
+      "start": 8.723,
+      "end": 8.863,
+      "score": 0.962
+    },
+    {
+      "index": 17,
+      "word": "needed",
+      "start": 8.923,
+      "end": 9.163,
+      "score": 0.985
+    },
+    {
+      "index": 18,
+      "word": "to",
+      "start": 9.203,
+      "end": 9.263,
+      "score": 0.975
+    },
+    {
+      "index": 19,
+      "word": "have",
+      "start": 9.343,
+      "end": 9.683,
+      "score": 0.961
+    },
+    {
+      "index": 20,
+      "word": "troops",
+      "start": 10.483,
+      "end": 10.944,
+      "score": 0.958
+    },
+    {
+      "index": 21,
+      "word": "and",
+      "start": 11.144,
+      "end": 11.264,
+      "score": 0.97
+    },
+    {
+      "index": 22,
+      "word": "police",
+      "start": 11.344,
+      "end": 11.804,
+      "score": 0.997
+    },
+    {
+      "index": 23,
+      "word": "stabilize",
+      "start": 12.104,
+      "end": 12.744,
+      "score": 0.988
+    },
+    {
+      "index": 24,
+      "word": "them",
+      "start": 12.804,
+      "end": 12.984,
+      "score": 0.992
+    },
+    {
+      "index": 25,
+      "word": "to",
+      "start": 13.464,
+      "end": 13.525,
+      "score": 0.994
+    },
+    {
+      "index": 26,
+      "word": "get",
+      "start": 13.585,
+      "end": 13.725,
+      "score": 0.995
+    },
+    {
+      "index": 27,
+      "word": "down",
+      "start": 13.765,
+      "end": 13.985,
+      "score": 0.976
+    },
+    {
+      "index": 28,
+      "word": "the",
+      "start": 14.005,
+      "end": 14.085,
+      "score": 0.941
+    },
+    {
+      "index": 29,
+      "word": "stairs",
+      "start": 14.165,
+      "end": 14.645,
+      "score": 0.968
+    },
+    {
+      "index": 30,
+      "word": "at",
+      "start": 14.925,
+      "end": 14.985,
+      "score": 0.97
+    },
+    {
+      "index": 31,
+      "word": "a",
+      "start": 15.025,
+      "end": 15.045,
+      "score": 0.967
+    },
+    {
+      "index": 32,
+      "word": "time",
+      "start": 15.125,
+      "end": 15.405,
+      "score": 0.984
+    },
+    {
+      "index": 33,
+      "word": "when",
+      "start": 15.425,
+      "end": 15.525,
+      "score": 0.99
+    },
+    {
+      "index": 34,
+      "word": "a",
+      "start": 15.585,
+      "end": 15.605,
+      "score": 0.987
+    },
+    {
+      "index": 35,
+      "word": "lot",
+      "start": 15.705,
+      "end": 15.885,
+      "score": 0.976
+    },
+    {
+      "index": 36,
+      "word": "of",
+      "start": 15.905,
+      "end": 15.965,
+      "score": 0.991
+    },
+    {
+      "index": 37,
+      "word": "our",
+      "start": 16.005,
+      "end": 16.105,
+      "score": 0.987
+    },
+    {
+      "index": 38,
+      "word": "staffs",
+      "start": 16.165,
+      "end": 16.566,
+      "score": 0.847
+    },
+    {
+      "index": 39,
+      "word": "were",
+      "start": 16.626,
+      "end": 16.766,
+      "score": 0.992
+    },
+    {
+      "index": 40,
+      "word": "panicked",
+      "start": 16.806,
+      "end": 17.246,
+      "score": 0.714
+    },
+    {
+      "index": 41,
+      "word": "and",
+      "start": 17.306,
+      "end": 17.406,
+      "score": 0.913
+    },
+    {
+      "index": 42,
+      "word": "under",
+      "start": 17.726,
+      "end": 17.906,
+      "score": 0.986
+    },
+    {
+      "index": 43,
+      "word": "their",
+      "start": 17.926,
+      "end": 18.046,
+      "score": 0.976
+    },
+    {
+      "index": 44,
+      "word": "desks",
+      "start": 18.106,
+      "end": 18.446,
+      "score": 0.882
+    },
+    {
+      "index": 45,
+      "word": "and",
+      "start": 18.486,
+      "end": 18.546,
+      "score": 0.282
+    },
+    {
+      "index": 46,
+      "word": "not",
+      "start": 18.586,
+      "end": 18.726,
+      "score": 0.993
+    },
+    {
+      "index": 47,
+      "word": "knowing",
+      "start": 18.746,
+      "end": 18.986,
+      "score": 0.976
+    },
+    {
+      "index": 48,
+      "word": "what",
+      "start": 19.006,
+      "end": 19.106,
+      "score": 0.984
+    },
+    {
+      "index": 49,
+      "word": "was",
+      "start": 19.126,
+      "end": 19.206,
+      "score": 0.981
+    },
+    {
+      "index": 50,
+      "word": "gonna",
+      "start": 19.226,
+      "end": 19.386,
+      "score": 0.683
+    },
+    {
+      "index": 51,
+      "word": "happen",
+      "start": 19.406,
+      "end": 19.667,
+      "score": 0.967
+    },
+    {
+      "index": 52,
+      "word": "to",
+      "start": 19.707,
+      "end": 19.747,
+      "score": 0.968
+    },
+    {
+      "index": 53,
+      "word": "them.",
+      "start": 19.787,
+      "end": 19.907,
+      "score": 0.332
+    },
+    {
+      "index": 54,
+      "word": "It",
+      "start": 20.147,
+      "end": 20.187,
+      "score": 0.943
+    },
+    {
+      "index": 55,
+      "word": "was",
+      "start": 20.207,
+      "end": 20.307,
+      "score": 0.923
+    },
+    {
+      "index": 56,
+      "word": "ugly",
+      "start": 20.347,
+      "end": 20.607,
+      "score": 0.888
+    },
+    {
+      "index": 57,
+      "word": "today.",
+      "start": 20.667,
+      "end": 20.907,
+      "score": 0.979
+    },
+    {
+      "index": 58,
+      "word": "But",
+      "start": 22.387,
+      "end": 22.467,
+      "score": 0.752
+    },
+    {
+      "index": 59,
+      "word": "you",
+      "start": 22.487,
+      "end": 22.548,
+      "score": 0.811
+    },
+    {
+      "index": 60,
+      "word": "know",
+      "start": 22.548,
+      "end": 22.648,
+      "score": 0.577
+    },
+    {
+      "index": 61,
+      "word": "what?",
+      "start": 22.668,
+      "end": 22.868,
+      "score": 0.139
+    },
+    {
+      "index": 62,
+      "word": "It",
+      "start": 23.168,
+      "end": 23.268,
+      "score": 0.409
+    },
+    {
+      "index": 63,
+      "word": "turns",
+      "start": 23.428,
+      "end": 23.708,
+      "score": 0.621
+    },
+    {
+      "index": 64,
+      "word": "out",
+      "start": 23.788,
+      "end": 23.988,
+      "score": 0.832
+    },
+    {
+      "index": 65,
+      "word": "that",
+      "start": 24.088,
+      "end": 24.268,
+      "score": 0.812
+    },
+    {
+      "index": 66,
+      "word": "when",
+      "start": 24.648,
+      "end": 24.788,
+      "score": 0.978
+    },
+    {
+      "index": 67,
+      "word": "something's",
+      "start": 24.908,
+      "end": 25.388,
+      "score": 0.893
+    },
+    {
+      "index": 68,
+      "word": "ugly,",
+      "start": 25.448,
+      "end": 25.729,
+      "score": 0.973
+    },
+    {
+      "index": 69,
+      "word": "talking",
+      "start": 25.849,
+      "end": 26.149,
+      "score": 0.947
+    },
+    {
+      "index": 70,
+      "word": "about",
+      "start": 26.149,
+      "end": 26.329,
+      "score": 0.869
+    },
+    {
+      "index": 71,
+      "word": "beauty",
+      "start": 26.429,
+      "end": 26.709,
+      "score": 0.971
+    },
+    {
+      "index": 72,
+      "word": "isn't",
+      "start": 26.789,
+      "end": 26.969,
+      "score": 0.729
+    },
+    {
+      "index": 73,
+      "word": "just",
+      "start": 26.989,
+      "end": 27.129,
+      "score": 0.858
+    },
+    {
+      "index": 74,
+      "word": "permissible.",
+      "start": 27.229,
+      "end": 27.889,
+      "score": 0.675
+    },
+    {
+      "index": 75,
+      "word": "Talking",
+      "start": 28.53,
+      "end": 28.71,
+      "score": 0.056
+    },
+    {
+      "index": 76,
+      "word": "about",
+      "start": 28.71,
+      "end": 28.85,
+      "score": 0.192
+    },
+    {
+      "index": 77,
+      "word": "beauty",
+      "start": 28.93,
+      "end": 29.21,
+      "score": 0.695
+    },
+    {
+      "index": 78,
+      "word": "is",
+      "start": 29.33,
+      "end": 29.45,
+      "score": 0.69
+    },
+    {
+      "index": 79,
+      "word": "obligatory",
+      "start": 29.61,
+      "end": 30.31,
+      "score": 0.894
+    },
+    {
+      "index": 80,
+      "word": "in",
+      "start": 30.59,
+      "end": 30.65,
+      "score": 0.424
+    },
+    {
+      "index": 81,
+      "word": "a",
+      "start": 30.69,
+      "end": 30.71,
+      "score": 0.858
+    },
+    {
+      "index": 82,
+      "word": "time",
+      "start": 30.79,
+      "end": 30.99,
+      "score": 0.987
+    },
+    {
+      "index": 83,
+      "word": "like",
+      "start": 31.01,
+      "end": 31.17,
+      "score": 0.974
+    },
+    {
+      "index": 84,
+      "word": "that.",
+      "start": 31.19,
+      "end": 31.43,
+      "score": 0.907
+    },
+    {
+      "index": 85,
+      "word": "Why?",
+      "start": 31.771,
+      "end": 32.071,
+      "score": 0.622
+    },
+    {
+      "index": 86,
+      "word": "Why",
+      "start": 32.811,
+      "end": 32.931,
+      "score": 0.923
+    },
+    {
+      "index": 87,
+      "word": "would",
+      "start": 32.951,
+      "end": 33.071,
+      "score": 0.857
+    },
+    {
+      "index": 88,
+      "word": "we",
+      "start": 33.091,
+      "end": 33.151,
+      "score": 0.97
+    },
+    {
+      "index": 89,
+      "word": "talk",
+      "start": 33.211,
+      "end": 33.391,
+      "score": 0.987
+    },
+    {
+      "index": 90,
+      "word": "about",
+      "start": 33.431,
+      "end": 33.631,
+      "score": 0.976
+    },
+    {
+      "index": 91,
+      "word": "beauty",
+      "start": 33.691,
+      "end": 33.971,
+      "score": 0.945
+    },
+    {
+      "index": 92,
+      "word": "after",
+      "start": 34.311,
+      "end": 34.512,
+      "score": 0.989
+    },
+    {
+      "index": 93,
+      "word": "the",
+      "start": 34.532,
+      "end": 34.612,
+      "score": 0.984
+    },
+    {
+      "index": 94,
+      "word": "ugliness",
+      "start": 34.672,
+      "end": 35.072,
+      "score": 0.879
+    },
+    {
+      "index": 95,
+      "word": "of",
+      "start": 35.112,
+      "end": 35.172,
+      "score": 0.647
+    },
+    {
+      "index": 96,
+      "word": "today?",
+      "start": 35.212,
+      "end": 35.532,
+      "score": 0.989
+    },
+    {
+      "index": 97,
+      "word": "Because",
+      "start": 36.632,
+      "end": 36.892,
+      "score": 0.618
+    },
+    {
+      "index": 98,
+      "word": "our",
+      "start": 36.932,
+      "end": 37.012,
+      "score": 0.888
+    },
+    {
+      "index": 99,
+      "word": "kids",
+      "start": 37.072,
+      "end": 37.332,
+      "score": 0.988
+    },
+    {
+      "index": 100,
+      "word": "need",
+      "start": 37.392,
+      "end": 37.533,
+      "score": 0.973
+    },
+    {
+      "index": 101,
+      "word": "to",
+      "start": 37.573,
+      "end": 37.633,
+      "score": 0.796
+    },
+    {
+      "index": 102,
+      "word": "know",
+      "start": 37.673,
+      "end": 37.953,
+      "score": 0.746
+    },
+    {
+      "index": 103,
+      "word": "that",
+      "start": 38.793,
+      "end": 38.933,
+      "score": 0.12
+    },
+    {
+      "index": 104,
+      "word": "this",
+      "start": 39.273,
+      "end": 39.453,
+      "score": 0.3
+    },
+    {
+      "index": 105,
+      "word": "isn't",
+      "start": 39.553,
+      "end": 39.853,
+      "score": 0.115
+    },
+    {
+      "index": 106,
+      "word": "what",
+      "start": 39.933,
+      "end": 40.053,
+      "score": 0.16
+    },
+    {
+      "index": 107,
+      "word": "America",
+      "start": 40.093,
+      "end": 40.554,
+      "score": 0.195
+    },
+    {
+      "index": 108,
+      "word": "is.",
+      "start": 40.734,
+      "end": 41.154,
+      "score": 0.104
+    },
+    {
+      "index": 109,
+      "word": "What",
+      "start": 41.574,
+      "end": 41.674,
+      "score": 0.282
+    },
+    {
+      "index": 110,
+      "word": "happened",
+      "start": 41.734,
+      "end": 42.074,
+      "score": 0.416
+    },
+    {
+      "index": 111,
+      "word": "today",
+      "start": 42.114,
+      "end": 42.554,
+      "score": 0.798
+    },
+    {
+      "index": 112,
+      "word": "isn't",
+      "start": 43.034,
+      "end": 43.314,
+      "score": 0.516
+    },
+    {
+      "index": 113,
+      "word": "what",
+      "start": 43.354,
+      "end": 43.474,
+      "score": 0.807
+    },
+    {
+      "index": 114,
+      "word": "America",
+      "start": 43.515,
+      "end": 43.875,
+      "score": 0.945
+    },
+    {
+      "index": 115,
+      "word": "is.",
+      "start": 44.015,
+      "end": 44.355,
+      "score": 0.879
+    },
+    {
+      "index": 116,
+      "word": "They've",
+      "start": 44.815,
+      "end": 44.995,
+      "score": 0.648
+    },
+    {
+      "index": 117,
+      "word": "been",
+      "start": 44.995,
+      "end": 45.135,
+      "score": 0.883
+    },
+    {
+      "index": 118,
+      "word": "given",
+      "start": 45.175,
+      "end": 45.375,
+      "score": 0.992
+    },
+    {
+      "index": 119,
+      "word": "a",
+      "start": 45.435,
+      "end": 45.455,
+      "score": 0.961
+    },
+    {
+      "index": 120,
+      "word": "glorious",
+      "start": 45.555,
+      "end": 46.055,
+      "score": 0.994
+    },
+    {
+      "index": 121,
+      "word": "inheritance.",
+      "start": 46.095,
+      "end": 46.756,
+      "score": 0.942
+    },
+    {
+      "index": 122,
+      "word": "This",
+      "start": 46.796,
+      "end": 46.876,
+      "score": 0.178
+    },
+    {
+      "index": 123,
+      "word": "is",
+      "start": 46.876,
+      "end": 46.916,
+      "score": 0.427
+    },
+    {
+      "index": 124,
+      "word": "the",
+      "start": 46.936,
+      "end": 46.996,
+      "score": 0.679
+    },
+    {
+      "index": 125,
+      "word": "fifty",
+      "start": 47.076,
+      "end": 47.296,
+      "score": 0.019
+    },
+    {
+      "index": 126,
+      "word": "ninth",
+      "start": 47.376,
+      "end": 47.656,
+      "score": 0.124
+    },
+    {
+      "index": 127,
+      "word": "presidential",
+      "start": 47.736,
+      "end": 48.256,
+      "score": 0.958
+    },
+    {
+      "index": 128,
+      "word": "election.",
+      "start": 48.296,
+      "end": 48.676,
+      "score": 0.947
+    },
+    {
+      "index": 129,
+      "word": "If",
+      "start": 49.096,
+      "end": 49.156,
+      "score": 0.986
+    },
+    {
+      "index": 130,
+      "word": "the",
+      "start": 49.176,
+      "end": 49.256,
+      "score": 0.899
+    },
+    {
+      "index": 131,
+      "word": "vice",
+      "start": 49.256,
+      "end": 49.456,
+      "score": 0.998
+    },
+    {
+      "index": 132,
+      "word": "president",
+      "start": 49.476,
+      "end": 49.817,
+      "score": 0.986
+    },
+    {
+      "index": 133,
+      "word": "wasn't",
+      "start": 49.857,
+      "end": 50.057,
+      "score": 0.494
+    },
+    {
+      "index": 134,
+      "word": "the",
+      "start": 50.077,
+      "end": 50.157,
+      "score": 0.957
+    },
+    {
+      "index": 135,
+      "word": "chair",
+      "start": 50.217,
+      "end": 50.477,
+      "score": 0.919
+    },
+    {
+      "index": 136,
+      "word": "and",
+      "start": 50.557,
+      "end": 50.637,
+      "score": 0.974
+    },
+    {
+      "index": 137,
+      "word": "if",
+      "start": 50.657,
+      "end": 50.737,
+      "score": 0.991
+    },
+    {
+      "index": 138,
+      "word": "the",
+      "start": 50.777,
+      "end": 50.857,
+      "score": 0.917
+    },
+    {
+      "index": 139,
+      "word": "president",
+      "start": 50.917,
+      "end": 51.237,
+      "score": 0.994
+    },
+    {
+      "index": 140,
+      "word": "pro-champ",
+      "start": 51.277,
+      "end": 51.697,
+      "score": 0.619
+    },
+    {
+      "index": 141,
+      "word": "was,",
+      "start": 51.737,
+      "end": 51.917,
+      "score": 0.917
+    },
+    {
+      "index": 142,
+      "word": "I'd",
+      "start": 51.977,
+      "end": 52.037,
+      "score": 0.043
+    },
+    {
+      "index": 143,
+      "word": "have",
+      "start": 52.037,
+      "end": 52.137,
+      "score": 0.262
+    },
+    {
+      "index": 144,
+      "word": "made",
+      "start": 52.157,
+      "end": 52.337,
+      "score": 0.931
+    },
+    {
+      "index": 145,
+      "word": "some",
+      "start": 52.377,
+      "end": 52.538,
+      "score": 0.994
+    },
+    {
+      "index": 146,
+      "word": "joke",
+      "start": 52.618,
+      "end": 52.898,
+      "score": 0.973
+    },
+    {
+      "index": 147,
+      "word": "that",
+      "start": 52.938,
+      "end": 53.078,
+      "score": 0.97
+    },
+    {
+      "index": 148,
+      "word": "Chuck",
+      "start": 53.498,
+      "end": 53.678,
+      "score": 0.603
+    },
+    {
+      "index": 149,
+      "word": "Grassley",
+      "start": 53.718,
+      "end": 54.078,
+      "score": 0.708
+    },
+    {
+      "index": 150,
+      "word": "has",
+      "start": 54.558,
+      "end": 54.698,
+      "score": 0.863
+    },
+    {
+      "index": 151,
+      "word": "voted",
+      "start": 54.778,
+      "end": 55.038,
+      "score": 0.992
+    },
+    {
+      "index": 152,
+      "word": "and",
+      "start": 55.078,
+      "end": 55.158,
+      "score": 0.337
+    },
+    {
+      "index": 153,
+      "word": "two-thirds",
+      "start": 55.198,
+      "end": 55.679,
+      "score": 0.849
+    },
+    {
+      "index": 154,
+      "word": "of",
+      "start": 55.699,
+      "end": 55.739,
+      "score": 0.926
+    },
+    {
+      "index": 155,
+      "word": "those",
+      "start": 55.759,
+      "end": 55.919,
+      "score": 0.845
+    },
+    {
+      "index": 156,
+      "word": "fifty",
+      "start": 55.959,
+      "end": 56.179,
+      "score": 0.018
+    },
+    {
+      "index": 157,
+      "word": "nine",
+      "start": 56.239,
+      "end": 56.479,
+      "score": 0.012
+    },
+    {
+      "index": 158,
+      "word": "presidential",
+      "start": 56.479,
+      "end": 57.019,
+      "score": 0.965
+    },
+    {
+      "index": 159,
+      "word": "elections?",
+      "start": 57.059,
+      "end": 57.499,
+      "score": 0.936
+    },
+    {
+      "index": 160,
+      "word": "I",
+      "start": 58.66,
+      "end": 58.68,
+      "score": 0.125
+    },
+    {
+      "index": 161,
+      "word": "don't",
+      "start": 58.7,
+      "end": 58.88,
+      "score": 0.05
+    },
+    {
+      "index": 162,
+      "word": "think",
+      "start": 59.0,
+      "end": 59.26,
+      "score": 0.173
+    },
+    {
+      "index": 163,
+      "word": "we",
+      "start": 59.7,
+      "end": 59.8,
+      "score": 0.093
+    },
+    {
+      "index": 164,
+      "word": "want.",
+      "start": 59.9,
+      "end": 60.0,
+      "score": 0.047
+    }
+  ]
+}

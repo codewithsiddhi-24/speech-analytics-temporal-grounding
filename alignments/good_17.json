@@ -1,0 +1,2652 @@
+{
+  "file": "good_17.wav",
+  "duration": 120.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "history",
+      "start": 0.02,
+      "end": 0.2,
+      "score": 0.318
+    },
+    {
+      "index": 1,
+      "word": "of",
+      "start": 0.22,
+      "end": 0.28,
+      "score": 0.037
+    },
+    {
+      "index": 2,
+      "word": "the",
+      "start": 0.3,
+      "end": 0.36,
+      "score": 0.697
+    },
+    {
+      "index": 3,
+      "word": "world",
+      "start": 0.42,
+      "end": 0.7,
+      "score": 0.882
+    },
+    {
+      "index": 4,
+      "word": "and",
+      "start": 0.74,
+      "end": 0.82,
+      "score": 0.482
+    },
+    {
+      "index": 5,
+      "word": "because",
+      "start": 0.82,
+      "end": 1.08,
+      "score": 0.875
+    },
+    {
+      "index": 6,
+      "word": "the",
+      "start": 1.1,
+      "end": 1.18,
+      "score": 0.769
+    },
+    {
+      "index": 7,
+      "word": "Constitution",
+      "start": 1.24,
+      "end": 2.12,
+      "score": 0.927
+    },
+    {
+      "index": 8,
+      "word": "is",
+      "start": 2.18,
+      "end": 2.26,
+      "score": 0.943
+    },
+    {
+      "index": 9,
+      "word": "the",
+      "start": 2.3,
+      "end": 2.4,
+      "score": 0.684
+    },
+    {
+      "index": 10,
+      "word": "greatest",
+      "start": 2.48,
+      "end": 2.96,
+      "score": 0.94
+    },
+    {
+      "index": 11,
+      "word": "political",
+      "start": 3.061,
+      "end": 3.541,
+      "score": 0.997
+    },
+    {
+      "index": 12,
+      "word": "document",
+      "start": 3.601,
+      "end": 4.241,
+      "score": 0.963
+    },
+    {
+      "index": 13,
+      "word": "that's",
+      "start": 4.501,
+      "end": 4.681,
+      "score": 0.84
+    },
+    {
+      "index": 14,
+      "word": "ever",
+      "start": 4.761,
+      "end": 4.941,
+      "score": 0.968
+    },
+    {
+      "index": 15,
+      "word": "been",
+      "start": 5.021,
+      "end": 5.161,
+      "score": 0.971
+    },
+    {
+      "index": 16,
+      "word": "written.",
+      "start": 5.181,
+      "end": 5.461,
+      "score": 0.977
+    },
+    {
+      "index": 17,
+      "word": "Most",
+      "start": 6.401,
+      "end": 6.641,
+      "score": 0.949
+    },
+    {
+      "index": 18,
+      "word": "governments",
+      "start": 6.701,
+      "end": 7.141,
+      "score": 0.951
+    },
+    {
+      "index": 19,
+      "word": "in",
+      "start": 7.181,
+      "end": 7.241,
+      "score": 0.993
+    },
+    {
+      "index": 20,
+      "word": "the",
+      "start": 7.261,
+      "end": 7.341,
+      "score": 0.904
+    },
+    {
+      "index": 21,
+      "word": "past",
+      "start": 7.401,
+      "end": 7.761,
+      "score": 0.988
+    },
+    {
+      "index": 22,
+      "word": "have",
+      "start": 7.801,
+      "end": 7.921,
+      "score": 0.696
+    },
+    {
+      "index": 23,
+      "word": "said",
+      "start": 7.941,
+      "end": 8.101,
+      "score": 0.974
+    },
+    {
+      "index": 24,
+      "word": "might",
+      "start": 8.161,
+      "end": 8.361,
+      "score": 0.986
+    },
+    {
+      "index": 25,
+      "word": "makes",
+      "start": 8.401,
+      "end": 8.621,
+      "score": 0.991
+    },
+    {
+      "index": 26,
+      "word": "right,",
+      "start": 8.701,
+      "end": 9.022,
+      "score": 0.908
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 9.502,
+      "end": 9.602,
+      "score": 0.96
+    },
+    {
+      "index": 28,
+      "word": "we",
+      "start": 9.622,
+      "end": 9.702,
+      "score": 0.988
+    },
+    {
+      "index": 29,
+      "word": "saw",
+      "start": 9.822,
+      "end": 10.022,
+      "score": 0.878
+    },
+    {
+      "index": 30,
+      "word": "some",
+      "start": 10.182,
+      "end": 10.362,
+      "score": 0.988
+    },
+    {
+      "index": 31,
+      "word": "of",
+      "start": 10.382,
+      "end": 10.442,
+      "score": 0.939
+    },
+    {
+      "index": 32,
+      "word": "that",
+      "start": 10.462,
+      "end": 10.682,
+      "score": 0.923
+    },
+    {
+      "index": 33,
+      "word": "Thooligan",
+      "start": 10.962,
+      "end": 11.482,
+      "score": 0.421
+    },
+    {
+      "index": 34,
+      "word": "nuttery",
+      "start": 11.502,
+      "end": 11.862,
+      "score": 0.54
+    },
+    {
+      "index": 35,
+      "word": "today.",
+      "start": 11.922,
+      "end": 12.242,
+      "score": 0.989
+    },
+    {
+      "index": 36,
+      "word": "Might",
+      "start": 12.822,
+      "end": 13.062,
+      "score": 0.947
+    },
+    {
+      "index": 37,
+      "word": "makes",
+      "start": 13.122,
+      "end": 13.382,
+      "score": 0.891
+    },
+    {
+      "index": 38,
+      "word": "right.",
+      "start": 13.462,
+      "end": 13.722,
+      "score": 0.875
+    },
+    {
+      "index": 39,
+      "word": "No,",
+      "start": 13.762,
+      "end": 13.822,
+      "score": 0.926
+    },
+    {
+      "index": 40,
+      "word": "it",
+      "start": 13.922,
+      "end": 13.982,
+      "score": 0.936
+    },
+    {
+      "index": 41,
+      "word": "doesn't.",
+      "start": 14.062,
+      "end": 14.482,
+      "score": 0.772
+    },
+    {
+      "index": 42,
+      "word": "God",
+      "start": 15.303,
+      "end": 15.643,
+      "score": 0.99
+    },
+    {
+      "index": 43,
+      "word": "gives",
+      "start": 15.743,
+      "end": 15.963,
+      "score": 0.914
+    },
+    {
+      "index": 44,
+      "word": "us",
+      "start": 16.003,
+      "end": 16.123,
+      "score": 0.658
+    },
+    {
+      "index": 45,
+      "word": "rights",
+      "start": 16.223,
+      "end": 16.523,
+      "score": 0.911
+    },
+    {
+      "index": 46,
+      "word": "by",
+      "start": 16.603,
+      "end": 16.743,
+      "score": 0.967
+    },
+    {
+      "index": 47,
+      "word": "nature,",
+      "start": 16.823,
+      "end": 17.243,
+      "score": 0.954
+    },
+    {
+      "index": 48,
+      "word": "and",
+      "start": 17.743,
+      "end": 17.843,
+      "score": 0.978
+    },
+    {
+      "index": 49,
+      "word": "government",
+      "start": 17.963,
+      "end": 18.363,
+      "score": 0.953
+    },
+    {
+      "index": 50,
+      "word": "is",
+      "start": 18.383,
+      "end": 18.443,
+      "score": 0.974
+    },
+    {
+      "index": 51,
+      "word": "just",
+      "start": 18.503,
+      "end": 18.703,
+      "score": 0.995
+    },
+    {
+      "index": 52,
+      "word": "our",
+      "start": 18.763,
+      "end": 18.843,
+      "score": 0.847
+    },
+    {
+      "index": 53,
+      "word": "shared",
+      "start": 18.963,
+      "end": 19.243,
+      "score": 0.908
+    },
+    {
+      "index": 54,
+      "word": "project",
+      "start": 19.363,
+      "end": 19.983,
+      "score": 0.935
+    },
+    {
+      "index": 55,
+      "word": "to",
+      "start": 20.063,
+      "end": 20.123,
+      "score": 0.99
+    },
+    {
+      "index": 56,
+      "word": "secure",
+      "start": 20.223,
+      "end": 20.643,
+      "score": 0.979
+    },
+    {
+      "index": 57,
+      "word": "those",
+      "start": 20.703,
+      "end": 20.963,
+      "score": 0.96
+    },
+    {
+      "index": 58,
+      "word": "rights.",
+      "start": 21.044,
+      "end": 21.464,
+      "score": 0.866
+    },
+    {
+      "index": 59,
+      "word": "America",
+      "start": 22.264,
+      "end": 22.764,
+      "score": 0.98
+    },
+    {
+      "index": 60,
+      "word": "has",
+      "start": 22.844,
+      "end": 23.004,
+      "score": 0.938
+    },
+    {
+      "index": 61,
+      "word": "always",
+      "start": 23.164,
+      "end": 23.544,
+      "score": 0.994
+    },
+    {
+      "index": 62,
+      "word": "been",
+      "start": 23.664,
+      "end": 23.844,
+      "score": 0.956
+    },
+    {
+      "index": 63,
+      "word": "about",
+      "start": 23.884,
+      "end": 24.124,
+      "score": 0.99
+    },
+    {
+      "index": 64,
+      "word": "what",
+      "start": 24.144,
+      "end": 24.284,
+      "score": 0.956
+    },
+    {
+      "index": 65,
+      "word": "we",
+      "start": 24.304,
+      "end": 24.384,
+      "score": 0.992
+    },
+    {
+      "index": 66,
+      "word": "choose",
+      "start": 24.524,
+      "end": 24.884,
+      "score": 0.881
+    },
+    {
+      "index": 67,
+      "word": "to",
+      "start": 24.944,
+      "end": 25.024,
+      "score": 0.966
+    },
+    {
+      "index": 68,
+      "word": "do",
+      "start": 25.144,
+      "end": 25.224,
+      "score": 0.965
+    },
+    {
+      "index": 69,
+      "word": "together,",
+      "start": 25.324,
+      "end": 25.764,
+      "score": 0.838
+    },
+    {
+      "index": 70,
+      "word": "the",
+      "start": 26.144,
+      "end": 26.204,
+      "score": 0.912
+    },
+    {
+      "index": 71,
+      "word": "way",
+      "start": 26.264,
+      "end": 26.384,
+      "score": 0.991
+    },
+    {
+      "index": 72,
+      "word": "we",
+      "start": 26.444,
+      "end": 26.524,
+      "score": 0.993
+    },
+    {
+      "index": 73,
+      "word": "reaffirm",
+      "start": 26.684,
+      "end": 27.345,
+      "score": 0.902
+    },
+    {
+      "index": 74,
+      "word": "our",
+      "start": 27.405,
+      "end": 27.505,
+      "score": 0.969
+    },
+    {
+      "index": 75,
+      "word": "constitutional",
+      "start": 27.545,
+      "end": 28.385,
+      "score": 0.989
+    },
+    {
+      "index": 76,
+      "word": "system",
+      "start": 28.465,
+      "end": 28.885,
+      "score": 0.999
+    },
+    {
+      "index": 77,
+      "word": "where",
+      "start": 29.265,
+      "end": 29.385,
+      "score": 0.837
+    },
+    {
+      "index": 78,
+      "word": "we've",
+      "start": 29.405,
+      "end": 29.525,
+      "score": 0.388
+    },
+    {
+      "index": 79,
+      "word": "got",
+      "start": 29.525,
+      "end": 29.665,
+      "score": 0.928
+    },
+    {
+      "index": 80,
+      "word": "some",
+      "start": 29.745,
+      "end": 29.925,
+      "score": 0.998
+    },
+    {
+      "index": 81,
+      "word": "governmental",
+      "start": 29.985,
+      "end": 30.385,
+      "score": 0.962
+    },
+    {
+      "index": 82,
+      "word": "tasks",
+      "start": 30.425,
+      "end": 31.005,
+      "score": 0.991
+    },
+    {
+      "index": 83,
+      "word": "and",
+      "start": 31.065,
+      "end": 31.145,
+      "score": 0.826
+    },
+    {
+      "index": 84,
+      "word": "we",
+      "start": 31.165,
+      "end": 31.225,
+      "score": 0.988
+    },
+    {
+      "index": 85,
+      "word": "all",
+      "start": 31.325,
+      "end": 31.445,
+      "score": 0.96
+    },
+    {
+      "index": 86,
+      "word": "in",
+      "start": 31.465,
+      "end": 31.505,
+      "score": 0.004
+    },
+    {
+      "index": 87,
+      "word": "this",
+      "start": 31.505,
+      "end": 31.645,
+      "score": 0.989
+    },
+    {
+      "index": 88,
+      "word": "body",
+      "start": 31.705,
+      "end": 31.885,
+      "score": 0.999
+    },
+    {
+      "index": 89,
+      "word": "could",
+      "start": 31.945,
+      "end": 32.065,
+      "score": 0.2
+    },
+    {
+      "index": 90,
+      "word": "do",
+      "start": 32.085,
+      "end": 32.145,
+      "score": 0.995
+    },
+    {
+      "index": 91,
+      "word": "better",
+      "start": 32.305,
+      "end": 32.545,
+      "score": 0.998
+    },
+    {
+      "index": 92,
+      "word": "at",
+      "start": 32.605,
+      "end": 32.685,
+      "score": 0.972
+    },
+    {
+      "index": 93,
+      "word": "those",
+      "start": 32.705,
+      "end": 32.905,
+      "score": 0.92
+    },
+    {
+      "index": 94,
+      "word": "governmental",
+      "start": 32.925,
+      "end": 33.366,
+      "score": 0.941
+    },
+    {
+      "index": 95,
+      "word": "tasks.",
+      "start": 33.386,
+      "end": 33.806,
+      "score": 0.901
+    },
+    {
+      "index": 96,
+      "word": "But",
+      "start": 34.006,
+      "end": 34.106,
+      "score": 0.997
+    },
+    {
+      "index": 97,
+      "word": "the",
+      "start": 34.126,
+      "end": 34.206,
+      "score": 0.977
+    },
+    {
+      "index": 98,
+      "word": "heart",
+      "start": 34.246,
+      "end": 34.446,
+      "score": 0.915
+    },
+    {
+      "index": 99,
+      "word": "of",
+      "start": 34.466,
+      "end": 34.526,
+      "score": 0.991
+    },
+    {
+      "index": 100,
+      "word": "America",
+      "start": 34.566,
+      "end": 35.146,
+      "score": 0.966
+    },
+    {
+      "index": 101,
+      "word": "is",
+      "start": 35.646,
+      "end": 35.706,
+      "score": 0.462
+    },
+    {
+      "index": 102,
+      "word": "that",
+      "start": 35.726,
+      "end": 35.886,
+      "score": 0.24
+    },
+    {
+      "index": 103,
+      "word": "government,",
+      "start": 35.946,
+      "end": 36.466,
+      "score": 0.929
+    },
+    {
+      "index": 104,
+      "word": "the",
+      "start": 36.886,
+      "end": 36.966,
+      "score": 0.991
+    },
+    {
+      "index": 105,
+      "word": "center",
+      "start": 37.006,
+      "end": 37.266,
+      "score": 0.823
+    },
+    {
+      "index": 106,
+      "word": "of",
+      "start": 37.306,
+      "end": 37.366,
+      "score": 0.992
+    },
+    {
+      "index": 107,
+      "word": "America",
+      "start": 37.406,
+      "end": 37.846,
+      "score": 0.996
+    },
+    {
+      "index": 108,
+      "word": "is",
+      "start": 37.946,
+      "end": 38.026,
+      "score": 0.82
+    },
+    {
+      "index": 109,
+      "word": "not",
+      "start": 38.086,
+      "end": 38.226,
+      "score": 0.994
+    },
+    {
+      "index": 110,
+      "word": "Washington",
+      "start": 38.286,
+      "end": 38.706,
+      "score": 0.967
+    },
+    {
+      "index": 111,
+      "word": "DC.",
+      "start": 38.746,
+      "end": 38.926,
+      "score": 0.771
+    },
+    {
+      "index": 112,
+      "word": "The",
+      "start": 39.067,
+      "end": 39.147,
+      "score": 0.976
+    },
+    {
+      "index": 113,
+      "word": "center",
+      "start": 39.187,
+      "end": 39.407,
+      "score": 0.839
+    },
+    {
+      "index": 114,
+      "word": "of",
+      "start": 39.427,
+      "end": 39.487,
+      "score": 0.986
+    },
+    {
+      "index": 115,
+      "word": "America",
+      "start": 39.527,
+      "end": 39.907,
+      "score": 0.995
+    },
+    {
+      "index": 116,
+      "word": "is",
+      "start": 39.947,
+      "end": 40.007,
+      "score": 0.68
+    },
+    {
+      "index": 117,
+      "word": "the",
+      "start": 40.047,
+      "end": 40.147,
+      "score": 0.966
+    },
+    {
+      "index": 118,
+      "word": "neighborhoods",
+      "start": 40.207,
+      "end": 40.887,
+      "score": 0.939
+    },
+    {
+      "index": 119,
+      "word": "where",
+      "start": 41.127,
+      "end": 41.247,
+      "score": 0.774
+    },
+    {
+      "index": 120,
+      "word": "three",
+      "start": 41.267,
+      "end": 41.407,
+      "score": 0.013
+    },
+    {
+      "index": 121,
+      "word": "hundred",
+      "start": 41.447,
+      "end": 41.667,
+      "score": 0.0
+    },
+    {
+      "index": 122,
+      "word": "thirty",
+      "start": 41.707,
+      "end": 41.887,
+      "score": 0.001
+    },
+    {
+      "index": 123,
+      "word": "million",
+      "start": 41.947,
+      "end": 42.207,
+      "score": 0.907
+    },
+    {
+      "index": 124,
+      "word": "Americans",
+      "start": 42.227,
+      "end": 42.647,
+      "score": 0.991
+    },
+    {
+      "index": 125,
+      "word": "are",
+      "start": 42.667,
+      "end": 42.747,
+      "score": 0.347
+    },
+    {
+      "index": 126,
+      "word": "raising",
+      "start": 42.767,
+      "end": 42.987,
+      "score": 0.79
+    },
+    {
+      "index": 127,
+      "word": "their",
+      "start": 42.987,
+      "end": 43.107,
+      "score": 0.972
+    },
+    {
+      "index": 128,
+      "word": "kids",
+      "start": 43.147,
+      "end": 43.407,
+      "score": 0.998
+    },
+    {
+      "index": 129,
+      "word": "and",
+      "start": 43.427,
+      "end": 43.507,
+      "score": 0.842
+    },
+    {
+      "index": 130,
+      "word": "trying",
+      "start": 43.507,
+      "end": 43.687,
+      "score": 0.764
+    },
+    {
+      "index": 131,
+      "word": "to",
+      "start": 43.707,
+      "end": 43.747,
+      "score": 0.98
+    },
+    {
+      "index": 132,
+      "word": "put",
+      "start": 43.787,
+      "end": 43.927,
+      "score": 0.996
+    },
+    {
+      "index": 133,
+      "word": "food",
+      "start": 43.967,
+      "end": 44.167,
+      "score": 0.998
+    },
+    {
+      "index": 134,
+      "word": "on",
+      "start": 44.227,
+      "end": 44.287,
+      "score": 0.996
+    },
+    {
+      "index": 135,
+      "word": "the",
+      "start": 44.307,
+      "end": 44.387,
+      "score": 0.988
+    },
+    {
+      "index": 136,
+      "word": "table",
+      "start": 44.427,
+      "end": 44.747,
+      "score": 0.998
+    },
+    {
+      "index": 137,
+      "word": "and",
+      "start": 44.967,
+      "end": 45.068,
+      "score": 0.922
+    },
+    {
+      "index": 138,
+      "word": "trying",
+      "start": 45.068,
+      "end": 45.268,
+      "score": 0.779
+    },
+    {
+      "index": 139,
+      "word": "to",
+      "start": 45.288,
+      "end": 45.328,
+      "score": 0.958
+    },
+    {
+      "index": 140,
+      "word": "love",
+      "start": 45.368,
+      "end": 45.528,
+      "score": 0.898
+    },
+    {
+      "index": 141,
+      "word": "their",
+      "start": 45.548,
+      "end": 45.668,
+      "score": 0.983
+    },
+    {
+      "index": 142,
+      "word": "neighbor.",
+      "start": 45.688,
+      "end": 45.988,
+      "score": 0.839
+    },
+    {
+      "index": 143,
+      "word": "That's",
+      "start": 46.188,
+      "end": 46.388,
+      "score": 0.835
+    },
+    {
+      "index": 144,
+      "word": "the",
+      "start": 46.448,
+      "end": 46.508,
+      "score": 0.972
+    },
+    {
+      "index": 145,
+      "word": "center",
+      "start": 46.568,
+      "end": 46.808,
+      "score": 0.726
+    },
+    {
+      "index": 146,
+      "word": "of",
+      "start": 46.828,
+      "end": 46.888,
+      "score": 0.985
+    },
+    {
+      "index": 147,
+      "word": "America.",
+      "start": 46.928,
+      "end": 47.328,
+      "score": 0.976
+    },
+    {
+      "index": 148,
+      "word": "We're",
+      "start": 47.608,
+      "end": 47.748,
+      "score": 0.636
+    },
+    {
+      "index": 149,
+      "word": "not",
+      "start": 47.768,
+      "end": 47.888,
+      "score": 0.995
+    },
+    {
+      "index": 150,
+      "word": "supposed",
+      "start": 47.908,
+      "end": 48.148,
+      "score": 0.874
+    },
+    {
+      "index": 151,
+      "word": "to",
+      "start": 48.148,
+      "end": 48.188,
+      "score": 0.965
+    },
+    {
+      "index": 152,
+      "word": "be",
+      "start": 48.188,
+      "end": 48.248,
+      "score": 0.943
+    },
+    {
+      "index": 153,
+      "word": "the",
+      "start": 48.288,
+      "end": 48.348,
+      "score": 0.989
+    },
+    {
+      "index": 154,
+      "word": "most",
+      "start": 48.368,
+      "end": 48.548,
+      "score": 0.953
+    },
+    {
+      "index": 155,
+      "word": "important",
+      "start": 48.588,
+      "end": 48.948,
+      "score": 0.978
+    },
+    {
+      "index": 156,
+      "word": "people",
+      "start": 48.968,
+      "end": 49.268,
+      "score": 0.951
+    },
+    {
+      "index": 157,
+      "word": "in",
+      "start": 49.308,
+      "end": 49.368,
+      "score": 0.99
+    },
+    {
+      "index": 158,
+      "word": "America.",
+      "start": 49.408,
+      "end": 49.808,
+      "score": 0.998
+    },
+    {
+      "index": 159,
+      "word": "We're",
+      "start": 50.128,
+      "end": 50.228,
+      "score": 0.786
+    },
+    {
+      "index": 160,
+      "word": "supposed",
+      "start": 50.228,
+      "end": 50.428,
+      "score": 0.501
+    },
+    {
+      "index": 161,
+      "word": "to",
+      "start": 50.448,
+      "end": 50.488,
+      "score": 0.904
+    },
+    {
+      "index": 162,
+      "word": "be",
+      "start": 50.508,
+      "end": 50.568,
+      "score": 0.986
+    },
+    {
+      "index": 163,
+      "word": "servant",
+      "start": 50.688,
+      "end": 51.009,
+      "score": 0.986
+    },
+    {
+      "index": 164,
+      "word": "leaders",
+      "start": 51.049,
+      "end": 51.329,
+      "score": 0.998
+    },
+    {
+      "index": 165,
+      "word": "who",
+      "start": 51.349,
+      "end": 51.429,
+      "score": 0.962
+    },
+    {
+      "index": 166,
+      "word": "try",
+      "start": 51.469,
+      "end": 51.609,
+      "score": 0.981
+    },
+    {
+      "index": 167,
+      "word": "to",
+      "start": 51.649,
+      "end": 51.689,
+      "score": 0.941
+    },
+    {
+      "index": 168,
+      "word": "maintain",
+      "start": 51.949,
+      "end": 52.389,
+      "score": 0.993
+    },
+    {
+      "index": 169,
+      "word": "a",
+      "start": 52.429,
+      "end": 52.449,
+      "score": 0.99
+    },
+    {
+      "index": 170,
+      "word": "framework",
+      "start": 52.529,
+      "end": 52.969,
+      "score": 0.996
+    },
+    {
+      "index": 171,
+      "word": "for",
+      "start": 53.029,
+      "end": 53.129,
+      "score": 0.991
+    },
+    {
+      "index": 172,
+      "word": "ordered",
+      "start": 53.229,
+      "end": 53.469,
+      "score": 0.915
+    },
+    {
+      "index": 173,
+      "word": "liberty,",
+      "start": 53.529,
+      "end": 53.869,
+      "score": 0.998
+    },
+    {
+      "index": 174,
+      "word": "so",
+      "start": 54.429,
+      "end": 54.489,
+      "score": 0.998
+    },
+    {
+      "index": 175,
+      "word": "that",
+      "start": 54.549,
+      "end": 54.649,
+      "score": 0.932
+    },
+    {
+      "index": 176,
+      "word": "there's",
+      "start": 54.669,
+      "end": 54.849,
+      "score": 0.841
+    },
+    {
+      "index": 177,
+      "word": "a",
+      "start": 54.869,
+      "end": 54.889,
+      "score": 0.987
+    },
+    {
+      "index": 178,
+      "word": "structure",
+      "start": 54.969,
+      "end": 55.589,
+      "score": 0.998
+    },
+    {
+      "index": 179,
+      "word": "that",
+      "start": 55.869,
+      "end": 56.009,
+      "score": 0.937
+    },
+    {
+      "index": 180,
+      "word": "back",
+      "start": 56.069,
+      "end": 56.309,
+      "score": 0.968
+    },
+    {
+      "index": 181,
+      "word": "home",
+      "start": 56.369,
+      "end": 56.569,
+      "score": 0.986
+    },
+    {
+      "index": 182,
+      "word": "where",
+      "start": 56.609,
+      "end": 56.749,
+      "score": 0.982
+    },
+    {
+      "index": 183,
+      "word": "they",
+      "start": 56.789,
+      "end": 56.949,
+      "score": 0.995
+    },
+    {
+      "index": 184,
+      "word": "live,",
+      "start": 57.05,
+      "end": 57.39,
+      "score": 0.999
+    },
+    {
+      "index": 185,
+      "word": "they",
+      "start": 57.73,
+      "end": 57.83,
+      "score": 0.952
+    },
+    {
+      "index": 186,
+      "word": "can",
+      "start": 57.87,
+      "end": 57.99,
+      "score": 0.996
+    },
+    {
+      "index": 187,
+      "word": "get",
+      "start": 58.05,
+      "end": 58.17,
+      "score": 0.999
+    },
+    {
+      "index": 188,
+      "word": "from",
+      "start": 58.23,
+      "end": 58.39,
+      "score": 0.996
+    },
+    {
+      "index": 189,
+      "word": "the",
+      "start": 58.43,
+      "end": 58.51,
+      "score": 0.974
+    },
+    {
+      "index": 190,
+      "word": "silver",
+      "start": 58.61,
+      "end": 58.93,
+      "score": 0.981
+    },
+    {
+      "index": 191,
+      "word": "frame",
+      "start": 59.03,
+      "end": 59.39,
+      "score": 0.964
+    },
+    {
+      "index": 192,
+      "word": "of",
+      "start": 59.43,
+      "end": 59.49,
+      "score": 0.995
+    },
+    {
+      "index": 193,
+      "word": "structure",
+      "start": 59.53,
+      "end": 59.97,
+      "score": 0.972
+    },
+    {
+      "index": 194,
+      "word": "and",
+      "start": 59.99,
+      "end": 60.05,
+      "score": 0.888
+    },
+    {
+      "index": 195,
+      "word": "order",
+      "start": 60.11,
+      "end": 60.33,
+      "score": 0.998
+    },
+    {
+      "index": 196,
+      "word": "to",
+      "start": 60.53,
+      "end": 60.59,
+      "score": 0.992
+    },
+    {
+      "index": 197,
+      "word": "the",
+      "start": 60.63,
+      "end": 60.71,
+      "score": 0.862
+    },
+    {
+      "index": 198,
+      "word": "golden",
+      "start": 60.77,
+      "end": 61.07,
+      "score": 0.997
+    },
+    {
+      "index": 199,
+      "word": "apple",
+      "start": 61.19,
+      "end": 61.51,
+      "score": 0.952
+    },
+    {
+      "index": 200,
+      "word": "at",
+      "start": 61.55,
+      "end": 61.61,
+      "score": 0.98
+    },
+    {
+      "index": 201,
+      "word": "the",
+      "start": 61.65,
+      "end": 61.71,
+      "score": 0.979
+    },
+    {
+      "index": 202,
+      "word": "center,",
+      "start": 61.85,
+      "end": 62.33,
+      "score": 0.938
+    },
+    {
+      "index": 203,
+      "word": "as",
+      "start": 62.67,
+      "end": 62.77,
+      "score": 0.988
+    },
+    {
+      "index": 204,
+      "word": "Washington",
+      "start": 62.83,
+      "end": 63.331,
+      "score": 0.998
+    },
+    {
+      "index": 205,
+      "word": "would",
+      "start": 63.371,
+      "end": 63.491,
+      "score": 0.955
+    },
+    {
+      "index": 206,
+      "word": "have",
+      "start": 63.511,
+      "end": 63.611,
+      "score": 0.972
+    },
+    {
+      "index": 207,
+      "word": "said",
+      "start": 63.651,
+      "end": 63.851,
+      "score": 0.748
+    },
+    {
+      "index": 208,
+      "word": "it,",
+      "start": 63.871,
+      "end": 63.971,
+      "score": 0.992
+    },
+    {
+      "index": 209,
+      "word": "which",
+      "start": 64.191,
+      "end": 64.331,
+      "score": 0.998
+    },
+    {
+      "index": 210,
+      "word": "is",
+      "start": 64.371,
+      "end": 64.431,
+      "score": 0.99
+    },
+    {
+      "index": 211,
+      "word": "the",
+      "start": 64.491,
+      "end": 64.571,
+      "score": 0.978
+    },
+    {
+      "index": 212,
+      "word": "things",
+      "start": 64.711,
+      "end": 65.011,
+      "score": 0.99
+    },
+    {
+      "index": 213,
+      "word": "that",
+      "start": 65.071,
+      "end": 65.211,
+      "score": 0.98
+    },
+    {
+      "index": 214,
+      "word": "they",
+      "start": 65.291,
+      "end": 65.431,
+      "score": 0.993
+    },
+    {
+      "index": 215,
+      "word": "build",
+      "start": 65.591,
+      "end": 65.871,
+      "score": 0.887
+    },
+    {
+      "index": 216,
+      "word": "together.",
+      "start": 65.951,
+      "end": 66.411,
+      "score": 0.761
+    },
+    {
+      "index": 217,
+      "word": "The",
+      "start": 66.931,
+      "end": 67.011,
+      "score": 0.955
+    },
+    {
+      "index": 218,
+      "word": "places",
+      "start": 67.051,
+      "end": 67.391,
+      "score": 0.999
+    },
+    {
+      "index": 219,
+      "word": "where",
+      "start": 67.431,
+      "end": 67.551,
+      "score": 0.984
+    },
+    {
+      "index": 220,
+      "word": "they",
+      "start": 67.571,
+      "end": 67.671,
+      "score": 0.995
+    },
+    {
+      "index": 221,
+      "word": "coach",
+      "start": 67.711,
+      "end": 67.951,
+      "score": 0.973
+    },
+    {
+      "index": 222,
+      "word": "Little",
+      "start": 68.031,
+      "end": 68.231,
+      "score": 0.831
+    },
+    {
+      "index": 223,
+      "word": "League,",
+      "start": 68.271,
+      "end": 68.511,
+      "score": 0.891
+    },
+    {
+      "index": 224,
+      "word": "the",
+      "start": 68.531,
+      "end": 68.591,
+      "score": 0.986
+    },
+    {
+      "index": 225,
+      "word": "places",
+      "start": 68.631,
+      "end": 69.012,
+      "score": 0.999
+    },
+    {
+      "index": 226,
+      "word": "where",
+      "start": 69.032,
+      "end": 69.172,
+      "score": 0.981
+    },
+    {
+      "index": 227,
+      "word": "they",
+      "start": 69.192,
+      "end": 69.292,
+      "score": 0.988
+    },
+    {
+      "index": 228,
+      "word": "invite",
+      "start": 69.312,
+      "end": 69.612,
+      "score": 0.973
+    },
+    {
+      "index": 229,
+      "word": "people",
+      "start": 69.652,
+      "end": 69.932,
+      "score": 0.998
+    },
+    {
+      "index": 230,
+      "word": "to",
+      "start": 69.972,
+      "end": 70.032,
+      "score": 0.993
+    },
+    {
+      "index": 231,
+      "word": "synagogue",
+      "start": 70.112,
+      "end": 70.572,
+      "score": 0.896
+    },
+    {
+      "index": 232,
+      "word": "or",
+      "start": 70.592,
+      "end": 70.652,
+      "score": 0.416
+    },
+    {
+      "index": 233,
+      "word": "church,",
+      "start": 70.692,
+      "end": 71.052,
+      "score": 0.973
+    },
+    {
+      "index": 234,
+      "word": "sometimes",
+      "start": 71.292,
+      "end": 71.732,
+      "score": 0.994
+    },
+    {
+      "index": 235,
+      "word": "the",
+      "start": 71.772,
+      "end": 71.832,
+      "score": 0.971
+    },
+    {
+      "index": 236,
+      "word": "big",
+      "start": 71.872,
+      "end": 72.012,
+      "score": 0.999
+    },
+    {
+      "index": 237,
+      "word": "things",
+      "start": 72.072,
+      "end": 72.252,
+      "score": 0.995
+    },
+    {
+      "index": 238,
+      "word": "we",
+      "start": 72.272,
+      "end": 72.332,
+      "score": 0.963
+    },
+    {
+      "index": 239,
+      "word": "do",
+      "start": 72.392,
+      "end": 72.452,
+      "score": 0.921
+    },
+    {
+      "index": 240,
+      "word": "together",
+      "start": 72.892,
+      "end": 73.212,
+      "score": 0.951
+    },
+    {
+      "index": 241,
+      "word": "are",
+      "start": 73.332,
+      "end": 73.452,
+      "score": 0.857
+    },
+    {
+      "index": 242,
+      "word": "governmental,",
+      "start": 73.492,
+      "end": 74.032,
+      "score": 0.995
+    },
+    {
+      "index": 243,
+      "word": "like",
+      "start": 74.452,
+      "end": 74.632,
+      "score": 0.994
+    },
+    {
+      "index": 244,
+      "word": "kicking",
+      "start": 74.692,
+      "end": 75.013,
+      "score": 0.707
+    },
+    {
+      "index": 245,
+      "word": "Hitler's",
+      "start": 75.013,
+      "end": 75.373,
+      "score": 0.871
+    },
+    {
+      "index": 246,
+      "word": "ass",
+      "start": 75.533,
+      "end": 75.813,
+      "score": 0.643
+    },
+    {
+      "index": 247,
+      "word": "or",
+      "start": 75.893,
+      "end": 75.953,
+      "score": 0.796
+    },
+    {
+      "index": 248,
+      "word": "like",
+      "start": 75.993,
+      "end": 76.133,
+      "score": 0.989
+    },
+    {
+      "index": 249,
+      "word": "going",
+      "start": 76.153,
+      "end": 76.373,
+      "score": 0.779
+    },
+    {
+      "index": 250,
+      "word": "to",
+      "start": 76.373,
+      "end": 76.433,
+      "score": 0.985
+    },
+    {
+      "index": 251,
+      "word": "the",
+      "start": 76.473,
+      "end": 76.533,
+      "score": 0.977
+    },
+    {
+      "index": 252,
+      "word": "moon.",
+      "start": 76.593,
+      "end": 76.913,
+      "score": 0.998
+    },
+    {
+      "index": 253,
+      "word": "Sometimes",
+      "start": 77.333,
+      "end": 77.593,
+      "score": 0.409
+    },
+    {
+      "index": 254,
+      "word": "there",
+      "start": 77.613,
+      "end": 77.753,
+      "score": 0.844
+    },
+    {
+      "index": 255,
+      "word": "is",
+      "start": 77.833,
+      "end": 77.973,
+      "score": 0.986
+    },
+    {
+      "index": 256,
+      "word": "governmental",
+      "start": 78.053,
+      "end": 78.573,
+      "score": 0.989
+    },
+    {
+      "index": 257,
+      "word": "stuff,",
+      "start": 78.633,
+      "end": 79.033,
+      "score": 0.939
+    },
+    {
+      "index": 258,
+      "word": "but",
+      "start": 79.413,
+      "end": 79.533,
+      "score": 0.998
+    },
+    {
+      "index": 259,
+      "word": "the",
+      "start": 79.573,
+      "end": 79.633,
+      "score": 0.99
+    },
+    {
+      "index": 260,
+      "word": "heart",
+      "start": 79.713,
+      "end": 79.933,
+      "score": 0.888
+    },
+    {
+      "index": 261,
+      "word": "of",
+      "start": 79.953,
+      "end": 80.013,
+      "score": 0.995
+    },
+    {
+      "index": 262,
+      "word": "America",
+      "start": 80.053,
+      "end": 80.593,
+      "score": 0.976
+    },
+    {
+      "index": 263,
+      "word": "is",
+      "start": 81.014,
+      "end": 81.094,
+      "score": 0.981
+    },
+    {
+      "index": 264,
+      "word": "about",
+      "start": 81.134,
+      "end": 81.314,
+      "score": 0.966
+    },
+    {
+      "index": 265,
+      "word": "places",
+      "start": 81.354,
+      "end": 81.674,
+      "score": 0.998
+    },
+    {
+      "index": 266,
+      "word": "where",
+      "start": 81.714,
+      "end": 81.834,
+      "score": 0.979
+    },
+    {
+      "index": 267,
+      "word": "Moms",
+      "start": 81.854,
+      "end": 82.134,
+      "score": 0.885
+    },
+    {
+      "index": 268,
+      "word": "and",
+      "start": 82.154,
+      "end": 82.234,
+      "score": 0.791
+    },
+    {
+      "index": 269,
+      "word": "dads",
+      "start": 82.254,
+      "end": 82.554,
+      "score": 0.96
+    },
+    {
+      "index": 270,
+      "word": "are",
+      "start": 82.574,
+      "end": 82.674,
+      "score": 0.63
+    },
+    {
+      "index": 271,
+      "word": "raising",
+      "start": 82.714,
+      "end": 83.034,
+      "score": 0.749
+    },
+    {
+      "index": 272,
+      "word": "kids,",
+      "start": 83.114,
+      "end": 83.614,
+      "score": 0.995
+    },
+    {
+      "index": 273,
+      "word": "and",
+      "start": 83.914,
+      "end": 83.994,
+      "score": 0.966
+    },
+    {
+      "index": 274,
+      "word": "we're",
+      "start": 84.014,
+      "end": 84.154,
+      "score": 0.785
+    },
+    {
+      "index": 275,
+      "word": "supposed",
+      "start": 84.174,
+      "end": 84.454,
+      "score": 0.946
+    },
+    {
+      "index": 276,
+      "word": "to",
+      "start": 84.474,
+      "end": 84.534,
+      "score": 0.983
+    },
+    {
+      "index": 277,
+      "word": "serve",
+      "start": 84.634,
+      "end": 84.914,
+      "score": 0.995
+    },
+    {
+      "index": 278,
+      "word": "them",
+      "start": 84.954,
+      "end": 85.134,
+      "score": 0.984
+    },
+    {
+      "index": 279,
+      "word": "by",
+      "start": 85.394,
+      "end": 85.494,
+      "score": 0.973
+    },
+    {
+      "index": 280,
+      "word": "maintaining",
+      "start": 85.534,
+      "end": 86.034,
+      "score": 0.968
+    },
+    {
+      "index": 281,
+      "word": "order",
+      "start": 86.114,
+      "end": 86.374,
+      "score": 0.994
+    },
+    {
+      "index": 282,
+      "word": "and",
+      "start": 86.634,
+      "end": 86.734,
+      "score": 0.875
+    },
+    {
+      "index": 283,
+      "word": "by",
+      "start": 86.734,
+      "end": 86.834,
+      "score": 0.984
+    },
+    {
+      "index": 284,
+      "word": "rejecting",
+      "start": 86.874,
+      "end": 87.395,
+      "score": 0.985
+    },
+    {
+      "index": 285,
+      "word": "violence.",
+      "start": 87.435,
+      "end": 87.975,
+      "score": 0.888
+    },
+    {
+      "index": 286,
+      "word": "You",
+      "start": 88.575,
+      "end": 88.655,
+      "score": 0.986
+    },
+    {
+      "index": 287,
+      "word": "can't",
+      "start": 88.695,
+      "end": 88.915,
+      "score": 0.855
+    },
+    {
+      "index": 288,
+      "word": "do",
+      "start": 88.995,
+      "end": 89.075,
+      "score": 0.957
+    },
+    {
+      "index": 289,
+      "word": "big",
+      "start": 89.215,
+      "end": 89.375,
+      "score": 0.992
+    },
+    {
+      "index": 290,
+      "word": "things",
+      "start": 89.455,
+      "end": 89.695,
+      "score": 0.986
+    },
+    {
+      "index": 291,
+      "word": "like",
+      "start": 89.755,
+      "end": 89.935,
+      "score": 0.956
+    },
+    {
+      "index": 292,
+      "word": "that",
+      "start": 89.955,
+      "end": 90.095,
+      "score": 0.967
+    },
+    {
+      "index": 293,
+      "word": "if",
+      "start": 90.135,
+      "end": 90.195,
+      "score": 0.956
+    },
+    {
+      "index": 294,
+      "word": "you",
+      "start": 90.215,
+      "end": 90.295,
+      "score": 0.663
+    },
+    {
+      "index": 295,
+      "word": "hate",
+      "start": 90.315,
+      "end": 90.455,
+      "score": 0.931
+    },
+    {
+      "index": 296,
+      "word": "your",
+      "start": 90.455,
+      "end": 90.555,
+      "score": 0.861
+    },
+    {
+      "index": 297,
+      "word": "neighbors.",
+      "start": 90.575,
+      "end": 90.975,
+      "score": 0.906
+    },
+    {
+      "index": 298,
+      "word": "You",
+      "start": 91.835,
+      "end": 91.935,
+      "score": 0.919
+    },
+    {
+      "index": 299,
+      "word": "can't",
+      "start": 92.015,
+      "end": 92.395,
+      "score": 0.733
+    },
+    {
+      "index": 300,
+      "word": "do",
+      "start": 92.595,
+      "end": 92.675,
+      "score": 0.864
+    },
+    {
+      "index": 301,
+      "word": "big",
+      "start": 92.995,
+      "end": 93.176,
+      "score": 0.966
+    },
+    {
+      "index": 302,
+      "word": "things",
+      "start": 93.296,
+      "end": 93.776,
+      "score": 0.89
+    },
+    {
+      "index": 303,
+      "word": "together",
+      "start": 94.216,
+      "end": 94.696,
+      "score": 0.913
+    },
+    {
+      "index": 304,
+      "word": "as",
+      "start": 94.796,
+      "end": 94.896,
+      "score": 0.954
+    },
+    {
+      "index": 305,
+      "word": "Americans",
+      "start": 94.956,
+      "end": 95.636,
+      "score": 0.956
+    },
+    {
+      "index": 306,
+      "word": "if",
+      "start": 95.916,
+      "end": 95.996,
+      "score": 0.993
+    },
+    {
+      "index": 307,
+      "word": "you",
+      "start": 96.016,
+      "end": 96.096,
+      "score": 0.963
+    },
+    {
+      "index": 308,
+      "word": "think",
+      "start": 96.096,
+      "end": 96.236,
+      "score": 0.928
+    },
+    {
+      "index": 309,
+      "word": "other",
+      "start": 96.316,
+      "end": 96.496,
+      "score": 0.988
+    },
+    {
+      "index": 310,
+      "word": "Americans",
+      "start": 96.556,
+      "end": 97.176,
+      "score": 0.99
+    },
+    {
+      "index": 311,
+      "word": "are",
+      "start": 97.356,
+      "end": 97.456,
+      "score": 0.945
+    },
+    {
+      "index": 312,
+      "word": "the",
+      "start": 97.456,
+      "end": 97.536,
+      "score": 0.975
+    },
+    {
+      "index": 313,
+      "word": "enemy.",
+      "start": 97.596,
+      "end": 97.836,
+      "score": 0.987
+    },
+    {
+      "index": 314,
+      "word": "Look,",
+      "start": 98.816,
+      "end": 98.976,
+      "score": 0.001
+    },
+    {
+      "index": 315,
+      "word": "there's",
+      "start": 99.157,
+      "end": 99.357,
+      "score": 0.779
+    },
+    {
+      "index": 316,
+      "word": "a",
+      "start": 99.397,
+      "end": 99.417,
+      "score": 0.929
+    },
+    {
+      "index": 317,
+      "word": "lot",
+      "start": 99.477,
+      "end": 99.677,
+      "score": 0.859
+    },
+    {
+      "index": 318,
+      "word": "of",
+      "start": 99.717,
+      "end": 99.777,
+      "score": 0.987
+    },
+    {
+      "index": 319,
+      "word": "uncertainty",
+      "start": 99.817,
+      "end": 100.397,
+      "score": 0.956
+    },
+    {
+      "index": 320,
+      "word": "about",
+      "start": 100.657,
+      "end": 100.897,
+      "score": 0.99
+    },
+    {
+      "index": 321,
+      "word": "the",
+      "start": 100.917,
+      "end": 100.997,
+      "score": 0.99
+    },
+    {
+      "index": 322,
+      "word": "future.",
+      "start": 101.057,
+      "end": 101.477,
+      "score": 0.993
+    },
+    {
+      "index": 323,
+      "word": "I",
+      "start": 101.777,
+      "end": 101.817,
+      "score": 0.812
+    },
+    {
+      "index": 324,
+      "word": "get",
+      "start": 101.897,
+      "end": 102.057,
+      "score": 0.905
+    },
+    {
+      "index": 325,
+      "word": "it.",
+      "start": 102.097,
+      "end": 102.177,
+      "score": 0.829
+    },
+    {
+      "index": 326,
+      "word": "There's",
+      "start": 102.597,
+      "end": 102.737,
+      "score": 0.114
+    },
+    {
+      "index": 327,
+      "word": "a",
+      "start": 102.777,
+      "end": 102.797,
+      "score": 0.728
+    },
+    {
+      "index": 328,
+      "word": "lot",
+      "start": 102.877,
+      "end": 103.097,
+      "score": 0.955
+    },
+    {
+      "index": 329,
+      "word": "that",
+      "start": 103.217,
+      "end": 103.357,
+      "score": 0.944
+    },
+    {
+      "index": 330,
+      "word": "does",
+      "start": 103.437,
+      "end": 103.677,
+      "score": 0.962
+    },
+    {
+      "index": 331,
+      "word": "need",
+      "start": 103.757,
+      "end": 103.897,
+      "score": 0.991
+    },
+    {
+      "index": 332,
+      "word": "to",
+      "start": 103.937,
+      "end": 103.997,
+      "score": 0.978
+    },
+    {
+      "index": 333,
+      "word": "be",
+      "start": 104.037,
+      "end": 104.097,
+      "score": 0.941
+    },
+    {
+      "index": 334,
+      "word": "rebuilt.",
+      "start": 104.217,
+      "end": 104.717,
+      "score": 0.905
+    },
+    {
+      "index": 335,
+      "word": "but",
+      "start": 105.498,
+      "end": 105.598,
+      "score": 0.924
+    },
+    {
+      "index": 336,
+      "word": "if",
+      "start": 105.618,
+      "end": 105.698,
+      "score": 0.99
+    },
+    {
+      "index": 337,
+      "word": "you're",
+      "start": 105.738,
+      "end": 105.898,
+      "score": 0.668
+    },
+    {
+      "index": 338,
+      "word": "angry",
+      "start": 105.978,
+      "end": 106.338,
+      "score": 0.923
+    },
+    {
+      "index": 339,
+      "word": "I",
+      "start": 106.938,
+      "end": 106.958,
+      "score": 0.983
+    },
+    {
+      "index": 340,
+      "word": "want",
+      "start": 106.978,
+      "end": 107.098,
+      "score": 0.775
+    },
+    {
+      "index": 341,
+      "word": "to",
+      "start": 107.118,
+      "end": 107.158,
+      "score": 0.432
+    },
+    {
+      "index": 342,
+      "word": "beg",
+      "start": 107.258,
+      "end": 107.478,
+      "score": 0.995
+    },
+    {
+      "index": 343,
+      "word": "you,",
+      "start": 107.538,
+      "end": 107.638,
+      "score": 0.917
+    },
+    {
+      "index": 344,
+      "word": "don't",
+      "start": 108.798,
+      "end": 109.058,
+      "score": 0.858
+    },
+    {
+      "index": 345,
+      "word": "let",
+      "start": 109.138,
+      "end": 109.298,
+      "score": 0.989
+    },
+    {
+      "index": 346,
+      "word": "the",
+      "start": 109.358,
+      "end": 109.418,
+      "score": 0.952
+    },
+    {
+      "index": 347,
+      "word": "screamers",
+      "start": 109.538,
+      "end": 110.258,
+      "score": 0.92
+    },
+    {
+      "index": 348,
+      "word": "who",
+      "start": 110.398,
+      "end": 110.478,
+      "score": 0.957
+    },
+    {
+      "index": 349,
+      "word": "monetize",
+      "start": 110.598,
+      "end": 111.279,
+      "score": 0.781
+    },
+    {
+      "index": 350,
+      "word": "hate",
+      "start": 111.339,
+      "end": 111.639,
+      "score": 0.959
+    },
+    {
+      "index": 351,
+      "word": "have",
+      "start": 111.999,
+      "end": 112.159,
+      "score": 0.987
+    },
+    {
+      "index": 352,
+      "word": "the",
+      "start": 112.179,
+      "end": 112.239,
+      "score": 0.979
+    },
+    {
+      "index": 353,
+      "word": "final",
+      "start": 112.299,
+      "end": 112.599,
+      "score": 0.947
+    },
+    {
+      "index": 354,
+      "word": "word.",
+      "start": 112.639,
+      "end": 112.979,
+      "score": 0.994
+    },
+    {
+      "index": 355,
+      "word": "Don't",
+      "start": 113.799,
+      "end": 113.999,
+      "score": 0.842
+    },
+    {
+      "index": 356,
+      "word": "let",
+      "start": 114.039,
+      "end": 114.199,
+      "score": 0.989
+    },
+    {
+      "index": 357,
+      "word": "nihilists",
+      "start": 114.459,
+      "end": 114.919,
+      "score": 0.376
+    },
+    {
+      "index": 358,
+      "word": "become",
+      "start": 115.059,
+      "end": 115.379,
+      "score": 0.996
+    },
+    {
+      "index": 359,
+      "word": "your",
+      "start": 115.399,
+      "end": 115.519,
+      "score": 0.988
+    },
+    {
+      "index": 360,
+      "word": "drug",
+      "start": 115.599,
+      "end": 115.819,
+      "score": 0.987
+    },
+    {
+      "index": 361,
+      "word": "dealers.",
+      "start": 115.899,
+      "end": 116.339,
+      "score": 0.99
+    },
+    {
+      "index": 362,
+      "word": "There",
+      "start": 116.619,
+      "end": 116.779,
+      "score": 0.989
+    },
+    {
+      "index": 363,
+      "word": "are",
+      "start": 116.819,
+      "end": 116.939,
+      "score": 0.911
+    },
+    {
+      "index": 364,
+      "word": "some",
+      "start": 116.979,
+      "end": 117.16,
+      "score": 0.997
+    },
+    {
+      "index": 365,
+      "word": "who",
+      "start": 117.18,
+      "end": 117.26,
+      "score": 0.942
+    },
+    {
+      "index": 366,
+      "word": "want",
+      "start": 117.32,
+      "end": 117.44,
+      "score": 0.483
+    },
+    {
+      "index": 367,
+      "word": "to",
+      "start": 117.46,
+      "end": 117.5,
+      "score": 0.482
+    },
+    {
+      "index": 368,
+      "word": "burn",
+      "start": 117.56,
+      "end": 117.72,
+      "score": 0.994
+    },
+    {
+      "index": 369,
+      "word": "it",
+      "start": 117.74,
+      "end": 117.82,
+      "score": 0.989
+    },
+    {
+      "index": 370,
+      "word": "all",
+      "start": 117.86,
+      "end": 117.98,
+      "score": 0.997
+    },
+    {
+      "index": 371,
+      "word": "down.",
+      "start": 118.02,
+      "end": 118.3,
+      "score": 0.998
+    },
+    {
+      "index": 372,
+      "word": "We",
+      "start": 118.48,
+      "end": 118.54,
+      "score": 0.996
+    },
+    {
+      "index": 373,
+      "word": "met",
+      "start": 118.62,
+      "end": 118.78,
+      "score": 0.998
+    },
+    {
+      "index": 374,
+      "word": "some",
+      "start": 118.88,
+      "end": 119.04,
+      "score": 0.997
+    },
+    {
+      "index": 375,
+      "word": "of",
+      "start": 119.06,
+      "end": 119.12,
+      "score": 0.989
+    },
+    {
+      "index": 376,
+      "word": "them",
+      "start": 119.14,
+      "end": 119.28,
+      "score": 0.914
+    },
+    {
+      "index": 377,
+      "word": "today.",
+      "start": 119.34,
+      "end": 119.68,
+      "score": 0.998
+    }
+  ]
+}

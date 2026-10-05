@@ -1,0 +1,643 @@
+{
+  "file": "good_01.wav",
+  "duration": 60.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "We",
+      "start": 0.9,
+      "end": 0.96,
+      "score": 0.999
+    },
+    {
+      "index": 1,
+      "word": "observe",
+      "start": 1.04,
+      "end": 1.46,
+      "score": 0.999
+    },
+    {
+      "index": 2,
+      "word": "today",
+      "start": 1.501,
+      "end": 1.881,
+      "score": 0.999
+    },
+    {
+      "index": 3,
+      "word": "not",
+      "start": 3.661,
+      "end": 3.941,
+      "score": 0.995
+    },
+    {
+      "index": 4,
+      "word": "a",
+      "start": 4.021,
+      "end": 4.041,
+      "score": 0.995
+    },
+    {
+      "index": 5,
+      "word": "victory",
+      "start": 4.161,
+      "end": 4.522,
+      "score": 0.999
+    },
+    {
+      "index": 6,
+      "word": "of",
+      "start": 4.622,
+      "end": 4.702,
+      "score": 0.979
+    },
+    {
+      "index": 7,
+      "word": "party,",
+      "start": 4.762,
+      "end": 5.082,
+      "score": 0.598
+    },
+    {
+      "index": 8,
+      "word": "but",
+      "start": 6.542,
+      "end": 6.662,
+      "score": 0.999
+    },
+    {
+      "index": 9,
+      "word": "a",
+      "start": 6.702,
+      "end": 6.722,
+      "score": 0.998
+    },
+    {
+      "index": 10,
+      "word": "celebration",
+      "start": 6.822,
+      "end": 7.482,
+      "score": 0.999
+    },
+    {
+      "index": 11,
+      "word": "of",
+      "start": 7.523,
+      "end": 7.583,
+      "score": 0.995
+    },
+    {
+      "index": 12,
+      "word": "freedom,",
+      "start": 7.643,
+      "end": 7.963,
+      "score": 0.999
+    },
+    {
+      "index": 13,
+      "word": "symbolizing",
+      "start": 9.243,
+      "end": 10.083,
+      "score": 0.972
+    },
+    {
+      "index": 14,
+      "word": "an",
+      "start": 10.143,
+      "end": 10.223,
+      "score": 0.82
+    },
+    {
+      "index": 15,
+      "word": "end",
+      "start": 10.323,
+      "end": 10.644,
+      "score": 0.996
+    },
+    {
+      "index": 16,
+      "word": "as",
+      "start": 11.844,
+      "end": 11.944,
+      "score": 0.997
+    },
+    {
+      "index": 17,
+      "word": "well",
+      "start": 12.024,
+      "end": 12.204,
+      "score": 0.989
+    },
+    {
+      "index": 18,
+      "word": "as",
+      "start": 12.224,
+      "end": 12.304,
+      "score": 0.997
+    },
+    {
+      "index": 19,
+      "word": "a",
+      "start": 12.384,
+      "end": 12.404,
+      "score": 0.994
+    },
+    {
+      "index": 20,
+      "word": "beginning,",
+      "start": 12.484,
+      "end": 12.924,
+      "score": 0.99
+    },
+    {
+      "index": 21,
+      "word": "signifying",
+      "start": 14.265,
+      "end": 15.005,
+      "score": 0.982
+    },
+    {
+      "index": 22,
+      "word": "renewal",
+      "start": 15.045,
+      "end": 15.485,
+      "score": 0.627
+    },
+    {
+      "index": 23,
+      "word": "as",
+      "start": 16.686,
+      "end": 16.786,
+      "score": 0.997
+    },
+    {
+      "index": 24,
+      "word": "well",
+      "start": 16.846,
+      "end": 17.006,
+      "score": 0.999
+    },
+    {
+      "index": 25,
+      "word": "as",
+      "start": 17.026,
+      "end": 17.126,
+      "score": 0.991
+    },
+    {
+      "index": 26,
+      "word": "change.",
+      "start": 17.186,
+      "end": 17.646,
+      "score": 0.942
+    },
+    {
+      "index": 27,
+      "word": "For",
+      "start": 18.946,
+      "end": 19.066,
+      "score": 0.996
+    },
+    {
+      "index": 28,
+      "word": "I",
+      "start": 19.306,
+      "end": 19.326,
+      "score": 0.989
+    },
+    {
+      "index": 29,
+      "word": "have",
+      "start": 19.366,
+      "end": 19.507,
+      "score": 0.961
+    },
+    {
+      "index": 30,
+      "word": "sworn",
+      "start": 19.547,
+      "end": 19.967,
+      "score": 0.963
+    },
+    {
+      "index": 31,
+      "word": "before",
+      "start": 20.027,
+      "end": 20.467,
+      "score": 0.976
+    },
+    {
+      "index": 32,
+      "word": "you",
+      "start": 20.527,
+      "end": 20.707,
+      "score": 0.979
+    },
+    {
+      "index": 33,
+      "word": "and",
+      "start": 21.707,
+      "end": 21.867,
+      "score": 0.995
+    },
+    {
+      "index": 34,
+      "word": "Almighty",
+      "start": 21.947,
+      "end": 22.387,
+      "score": 0.919
+    },
+    {
+      "index": 35,
+      "word": "God",
+      "start": 22.467,
+      "end": 22.848,
+      "score": 0.996
+    },
+    {
+      "index": 36,
+      "word": "the",
+      "start": 23.908,
+      "end": 23.988,
+      "score": 0.993
+    },
+    {
+      "index": 37,
+      "word": "same",
+      "start": 24.108,
+      "end": 24.608,
+      "score": 0.954
+    },
+    {
+      "index": 38,
+      "word": "solemn",
+      "start": 24.988,
+      "end": 25.368,
+      "score": 0.621
+    },
+    {
+      "index": 39,
+      "word": "oath,",
+      "start": 25.368,
+      "end": 27.169,
+      "score": 0.402
+    },
+    {
+      "index": 40,
+      "word": "our",
+      "start": 27.229,
+      "end": 28.009,
+      "score": 0.761
+    },
+    {
+      "index": 41,
+      "word": "century",
+      "start": 30.23,
+      "end": 30.67,
+      "score": 0.974
+    },
+    {
+      "index": 42,
+      "word": "and",
+      "start": 30.79,
+      "end": 30.93,
+      "score": 0.887
+    },
+    {
+      "index": 43,
+      "word": "three-quarters",
+      "start": 30.99,
+      "end": 31.711,
+      "score": 0.948
+    },
+    {
+      "index": 44,
+      "word": "ago.",
+      "start": 31.751,
+      "end": 31.931,
+      "score": 0.935
+    },
+    {
+      "index": 45,
+      "word": "The",
+      "start": 33.551,
+      "end": 33.651,
+      "score": 0.964
+    },
+    {
+      "index": 46,
+      "word": "world",
+      "start": 33.711,
+      "end": 34.151,
+      "score": 0.933
+    },
+    {
+      "index": 47,
+      "word": "is",
+      "start": 34.191,
+      "end": 34.271,
+      "score": 0.997
+    },
+    {
+      "index": 48,
+      "word": "very",
+      "start": 34.331,
+      "end": 34.552,
+      "score": 0.999
+    },
+    {
+      "index": 49,
+      "word": "different",
+      "start": 34.632,
+      "end": 34.992,
+      "score": 0.996
+    },
+    {
+      "index": 50,
+      "word": "now,",
+      "start": 35.032,
+      "end": 35.312,
+      "score": 0.993
+    },
+    {
+      "index": 51,
+      "word": "for",
+      "start": 36.912,
+      "end": 37.032,
+      "score": 0.973
+    },
+    {
+      "index": 52,
+      "word": "man",
+      "start": 37.092,
+      "end": 37.513,
+      "score": 0.994
+    },
+    {
+      "index": 53,
+      "word": "holds",
+      "start": 37.653,
+      "end": 38.073,
+      "score": 0.862
+    },
+    {
+      "index": 54,
+      "word": "in",
+      "start": 38.113,
+      "end": 38.173,
+      "score": 0.995
+    },
+    {
+      "index": 55,
+      "word": "his",
+      "start": 38.193,
+      "end": 38.333,
+      "score": 0.963
+    },
+    {
+      "index": 56,
+      "word": "mortal",
+      "start": 38.413,
+      "end": 38.733,
+      "score": 0.951
+    },
+    {
+      "index": 57,
+      "word": "hands",
+      "start": 38.793,
+      "end": 39.313,
+      "score": 0.974
+    },
+    {
+      "index": 58,
+      "word": "the",
+      "start": 40.514,
+      "end": 40.614,
+      "score": 0.889
+    },
+    {
+      "index": 59,
+      "word": "power",
+      "start": 40.714,
+      "end": 41.134,
+      "score": 0.98
+    },
+    {
+      "index": 60,
+      "word": "to",
+      "start": 41.234,
+      "end": 41.314,
+      "score": 0.998
+    },
+    {
+      "index": 61,
+      "word": "abolish",
+      "start": 41.414,
+      "end": 41.974,
+      "score": 0.931
+    },
+    {
+      "index": 62,
+      "word": "all",
+      "start": 43.214,
+      "end": 43.434,
+      "score": 0.96
+    },
+    {
+      "index": 63,
+      "word": "forms",
+      "start": 43.575,
+      "end": 44.095,
+      "score": 0.998
+    },
+    {
+      "index": 64,
+      "word": "of",
+      "start": 44.155,
+      "end": 44.235,
+      "score": 0.998
+    },
+    {
+      "index": 65,
+      "word": "human",
+      "start": 44.315,
+      "end": 44.615,
+      "score": 0.985
+    },
+    {
+      "index": 66,
+      "word": "poverty",
+      "start": 44.695,
+      "end": 45.075,
+      "score": 0.994
+    },
+    {
+      "index": 67,
+      "word": "and",
+      "start": 46.355,
+      "end": 46.495,
+      "score": 0.992
+    },
+    {
+      "index": 68,
+      "word": "all",
+      "start": 46.576,
+      "end": 46.736,
+      "score": 0.936
+    },
+    {
+      "index": 69,
+      "word": "forms",
+      "start": 46.856,
+      "end": 47.296,
+      "score": 0.998
+    },
+    {
+      "index": 70,
+      "word": "of",
+      "start": 47.336,
+      "end": 47.416,
+      "score": 0.997
+    },
+    {
+      "index": 71,
+      "word": "human",
+      "start": 47.476,
+      "end": 47.736,
+      "score": 0.998
+    },
+    {
+      "index": 72,
+      "word": "life.",
+      "start": 47.776,
+      "end": 48.116,
+      "score": 0.917
+    },
+    {
+      "index": 73,
+      "word": "And",
+      "start": 49.717,
+      "end": 49.857,
+      "score": 0.902
+    },
+    {
+      "index": 74,
+      "word": "yet",
+      "start": 49.917,
+      "end": 50.137,
+      "score": 0.999
+    },
+    {
+      "index": 75,
+      "word": "the",
+      "start": 50.237,
+      "end": 50.317,
+      "score": 0.985
+    },
+    {
+      "index": 76,
+      "word": "same",
+      "start": 50.437,
+      "end": 50.877,
+      "score": 0.995
+    },
+    {
+      "index": 77,
+      "word": "revolutionary",
+      "start": 51.317,
+      "end": 52.077,
+      "score": 0.998
+    },
+    {
+      "index": 78,
+      "word": "belief",
+      "start": 52.157,
+      "end": 52.518,
+      "score": 0.999
+    },
+    {
+      "index": 79,
+      "word": "for",
+      "start": 54.018,
+      "end": 54.198,
+      "score": 0.992
+    },
+    {
+      "index": 80,
+      "word": "which",
+      "start": 54.278,
+      "end": 54.518,
+      "score": 0.961
+    },
+    {
+      "index": 81,
+      "word": "our",
+      "start": 54.618,
+      "end": 54.738,
+      "score": 0.301
+    },
+    {
+      "index": 82,
+      "word": "forebears",
+      "start": 54.858,
+      "end": 55.519,
+      "score": 0.581
+    },
+    {
+      "index": 83,
+      "word": "fought",
+      "start": 55.599,
+      "end": 55.919,
+      "score": 0.589
+    },
+    {
+      "index": 84,
+      "word": "are",
+      "start": 57.099,
+      "end": 57.279,
+      "score": 0.328
+    },
+    {
+      "index": 85,
+      "word": "still",
+      "start": 57.319,
+      "end": 57.579,
+      "score": 0.91
+    },
+    {
+      "index": 86,
+      "word": "at",
+      "start": 57.619,
+      "end": 57.699,
+      "score": 0.861
+    },
+    {
+      "index": 87,
+      "word": "issue",
+      "start": 57.759,
+      "end": 58.099,
+      "score": 0.99
+    },
+    {
+      "index": 88,
+      "word": "around",
+      "start": 58.179,
+      "end": 58.52,
+      "score": 0.996
+    },
+    {
+      "index": 89,
+      "word": "the",
+      "start": 58.54,
+      "end": 58.62,
+      "score": 0.994
+    },
+    {
+      "index": 90,
+      "word": "globe.",
+      "start": 58.64,
+      "end": 59.06,
+      "score": 0.969
+    }
+  ]
+}

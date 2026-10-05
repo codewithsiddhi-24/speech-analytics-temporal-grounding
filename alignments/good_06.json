@@ -1,0 +1,1497 @@
+{
+  "file": "good_06.wav",
+  "duration": 119.998,
+  "words": [
+    {
+      "index": 0,
+      "word": "And",
+      "start": 6.781,
+      "end": 6.921,
+      "score": 0.881
+    },
+    {
+      "index": 1,
+      "word": "among",
+      "start": 6.981,
+      "end": 7.341,
+      "score": 0.989
+    },
+    {
+      "index": 2,
+      "word": "those",
+      "start": 7.421,
+      "end": 7.721,
+      "score": 0.987
+    },
+    {
+      "index": 3,
+      "word": "rights",
+      "start": 7.781,
+      "end": 8.241,
+      "score": 0.925
+    },
+    {
+      "index": 4,
+      "word": "are",
+      "start": 8.801,
+      "end": 8.921,
+      "score": 0.955
+    },
+    {
+      "index": 5,
+      "word": "the",
+      "start": 8.941,
+      "end": 9.021,
+      "score": 0.944
+    },
+    {
+      "index": 6,
+      "word": "right",
+      "start": 9.101,
+      "end": 9.421,
+      "score": 0.886
+    },
+    {
+      "index": 7,
+      "word": "to",
+      "start": 10.102,
+      "end": 10.182,
+      "score": 0.965
+    },
+    {
+      "index": 8,
+      "word": "speak",
+      "start": 10.362,
+      "end": 10.722,
+      "score": 0.98
+    },
+    {
+      "index": 9,
+      "word": "freely",
+      "start": 11.142,
+      "end": 11.542,
+      "score": 0.99
+    },
+    {
+      "index": 10,
+      "word": "and",
+      "start": 11.742,
+      "end": 11.862,
+      "score": 0.967
+    },
+    {
+      "index": 11,
+      "word": "the",
+      "start": 11.902,
+      "end": 11.982,
+      "score": 0.968
+    },
+    {
+      "index": 12,
+      "word": "right",
+      "start": 12.082,
+      "end": 12.402,
+      "score": 0.926
+    },
+    {
+      "index": 13,
+      "word": "to",
+      "start": 12.682,
+      "end": 12.782,
+      "score": 0.98
+    },
+    {
+      "index": 14,
+      "word": "be",
+      "start": 12.822,
+      "end": 12.902,
+      "score": 0.976
+    },
+    {
+      "index": 15,
+      "word": "heard.",
+      "start": 13.042,
+      "end": 13.422,
+      "score": 0.786
+    },
+    {
+      "index": 16,
+      "word": "Women",
+      "start": 14.062,
+      "end": 14.362,
+      "score": 0.926
+    },
+    {
+      "index": 17,
+      "word": "must",
+      "start": 14.462,
+      "end": 14.762,
+      "score": 0.996
+    },
+    {
+      "index": 18,
+      "word": "enjoy",
+      "start": 14.842,
+      "end": 15.222,
+      "score": 0.998
+    },
+    {
+      "index": 19,
+      "word": "the",
+      "start": 15.282,
+      "end": 15.342,
+      "score": 0.993
+    },
+    {
+      "index": 20,
+      "word": "rights",
+      "start": 15.402,
+      "end": 15.702,
+      "score": 0.949
+    },
+    {
+      "index": 21,
+      "word": "to",
+      "start": 15.742,
+      "end": 15.802,
+      "score": 0.99
+    },
+    {
+      "index": 22,
+      "word": "participate",
+      "start": 15.862,
+      "end": 16.583,
+      "score": 0.958
+    },
+    {
+      "index": 23,
+      "word": "fully",
+      "start": 16.703,
+      "end": 17.063,
+      "score": 0.996
+    },
+    {
+      "index": 24,
+      "word": "in",
+      "start": 17.303,
+      "end": 17.363,
+      "score": 0.997
+    },
+    {
+      "index": 25,
+      "word": "the",
+      "start": 17.383,
+      "end": 17.483,
+      "score": 0.993
+    },
+    {
+      "index": 26,
+      "word": "social",
+      "start": 17.603,
+      "end": 18.023,
+      "score": 0.945
+    },
+    {
+      "index": 27,
+      "word": "and",
+      "start": 18.083,
+      "end": 18.183,
+      "score": 0.944
+    },
+    {
+      "index": 28,
+      "word": "political",
+      "start": 18.243,
+      "end": 18.763,
+      "score": 0.982
+    },
+    {
+      "index": 29,
+      "word": "lives",
+      "start": 18.803,
+      "end": 19.163,
+      "score": 0.574
+    },
+    {
+      "index": 30,
+      "word": "of",
+      "start": 19.223,
+      "end": 19.283,
+      "score": 0.993
+    },
+    {
+      "index": 31,
+      "word": "their",
+      "start": 19.323,
+      "end": 19.483,
+      "score": 0.943
+    },
+    {
+      "index": 32,
+      "word": "countries",
+      "start": 19.563,
+      "end": 20.083,
+      "score": 0.943
+    },
+    {
+      "index": 33,
+      "word": "if",
+      "start": 20.183,
+      "end": 20.263,
+      "score": 0.998
+    },
+    {
+      "index": 34,
+      "word": "we",
+      "start": 20.363,
+      "end": 20.463,
+      "score": 0.997
+    },
+    {
+      "index": 35,
+      "word": "want",
+      "start": 20.603,
+      "end": 20.903,
+      "score": 0.998
+    },
+    {
+      "index": 36,
+      "word": "freedom",
+      "start": 21.003,
+      "end": 21.383,
+      "score": 0.914
+    },
+    {
+      "index": 37,
+      "word": "and",
+      "start": 21.563,
+      "end": 21.683,
+      "score": 0.99
+    },
+    {
+      "index": 38,
+      "word": "democracy",
+      "start": 21.723,
+      "end": 22.423,
+      "score": 0.91
+    },
+    {
+      "index": 39,
+      "word": "to",
+      "start": 22.543,
+      "end": 22.623,
+      "score": 0.991
+    },
+    {
+      "index": 40,
+      "word": "thrive",
+      "start": 22.743,
+      "end": 23.244,
+      "score": 0.99
+    },
+    {
+      "index": 41,
+      "word": "and",
+      "start": 23.384,
+      "end": 23.504,
+      "score": 0.995
+    },
+    {
+      "index": 42,
+      "word": "endure.",
+      "start": 23.564,
+      "end": 24.084,
+      "score": 0.947
+    },
+    {
+      "index": 43,
+      "word": "It",
+      "start": 24.964,
+      "end": 25.044,
+      "score": 0.99
+    },
+    {
+      "index": 44,
+      "word": "is",
+      "start": 25.084,
+      "end": 25.184,
+      "score": 0.99
+    },
+    {
+      "index": 45,
+      "word": "indefensible",
+      "start": 25.324,
+      "end": 26.224,
+      "score": 0.976
+    },
+    {
+      "index": 46,
+      "word": "that",
+      "start": 26.644,
+      "end": 26.784,
+      "score": 0.998
+    },
+    {
+      "index": 47,
+      "word": "many",
+      "start": 26.864,
+      "end": 27.084,
+      "score": 0.999
+    },
+    {
+      "index": 48,
+      "word": "women",
+      "start": 27.204,
+      "end": 27.544,
+      "score": 0.999
+    },
+    {
+      "index": 49,
+      "word": "in",
+      "start": 27.664,
+      "end": 27.744,
+      "score": 0.984
+    },
+    {
+      "index": 50,
+      "word": "nongovernmental",
+      "start": 27.824,
+      "end": 28.744,
+      "score": 0.999
+    },
+    {
+      "index": 51,
+      "word": "organizations",
+      "start": 28.844,
+      "end": 29.705,
+      "score": 0.989
+    },
+    {
+      "index": 52,
+      "word": "who",
+      "start": 29.745,
+      "end": 29.825,
+      "score": 0.996
+    },
+    {
+      "index": 53,
+      "word": "wish",
+      "start": 29.945,
+      "end": 30.165,
+      "score": 0.999
+    },
+    {
+      "index": 54,
+      "word": "to",
+      "start": 30.265,
+      "end": 30.325,
+      "score": 0.987
+    },
+    {
+      "index": 55,
+      "word": "participate",
+      "start": 30.385,
+      "end": 31.165,
+      "score": 0.997
+    },
+    {
+      "index": 56,
+      "word": "in",
+      "start": 31.185,
+      "end": 31.245,
+      "score": 0.994
+    },
+    {
+      "index": 57,
+      "word": "this",
+      "start": 31.285,
+      "end": 31.445,
+      "score": 0.996
+    },
+    {
+      "index": 58,
+      "word": "conference",
+      "start": 31.525,
+      "end": 32.045,
+      "score": 0.988
+    },
+    {
+      "index": 59,
+      "word": "have",
+      "start": 32.085,
+      "end": 32.245,
+      "score": 0.947
+    },
+    {
+      "index": 60,
+      "word": "not",
+      "start": 32.365,
+      "end": 32.605,
+      "score": 0.959
+    },
+    {
+      "index": 61,
+      "word": "been",
+      "start": 32.665,
+      "end": 32.825,
+      "score": 0.981
+    },
+    {
+      "index": 62,
+      "word": "able",
+      "start": 32.865,
+      "end": 33.125,
+      "score": 0.996
+    },
+    {
+      "index": 63,
+      "word": "to",
+      "start": 33.185,
+      "end": 33.265,
+      "score": 0.995
+    },
+    {
+      "index": 64,
+      "word": "attend",
+      "start": 33.365,
+      "end": 33.805,
+      "score": 0.995
+    },
+    {
+      "index": 65,
+      "word": "or",
+      "start": 33.945,
+      "end": 34.045,
+      "score": 0.994
+    },
+    {
+      "index": 66,
+      "word": "have",
+      "start": 34.105,
+      "end": 34.305,
+      "score": 0.978
+    },
+    {
+      "index": 67,
+      "word": "been",
+      "start": 34.345,
+      "end": 34.505,
+      "score": 0.984
+    },
+    {
+      "index": 68,
+      "word": "prohibited",
+      "start": 34.925,
+      "end": 35.645,
+      "score": 0.989
+    },
+    {
+      "index": 69,
+      "word": "from",
+      "start": 35.705,
+      "end": 35.865,
+      "score": 0.928
+    },
+    {
+      "index": 70,
+      "word": "fully",
+      "start": 35.985,
+      "end": 36.306,
+      "score": 0.943
+    },
+    {
+      "index": 71,
+      "word": "taking",
+      "start": 36.426,
+      "end": 36.826,
+      "score": 0.994
+    },
+    {
+      "index": 72,
+      "word": "part.",
+      "start": 36.906,
+      "end": 37.286,
+      "score": 0.998
+    },
+    {
+      "index": 73,
+      "word": "Let",
+      "start": 48.687,
+      "end": 48.847,
+      "score": 0.977
+    },
+    {
+      "index": 74,
+      "word": "me",
+      "start": 48.927,
+      "end": 49.007,
+      "score": 0.983
+    },
+    {
+      "index": 75,
+      "word": "be",
+      "start": 49.588,
+      "end": 49.668,
+      "score": 0.992
+    },
+    {
+      "index": 76,
+      "word": "clear.",
+      "start": 49.808,
+      "end": 50.208,
+      "score": 0.982
+    },
+    {
+      "index": 77,
+      "word": "Freedom",
+      "start": 51.008,
+      "end": 51.408,
+      "score": 0.951
+    },
+    {
+      "index": 78,
+      "word": "means",
+      "start": 51.548,
+      "end": 51.928,
+      "score": 0.997
+    },
+    {
+      "index": 79,
+      "word": "the",
+      "start": 52.008,
+      "end": 52.108,
+      "score": 0.975
+    },
+    {
+      "index": 80,
+      "word": "right",
+      "start": 52.228,
+      "end": 52.548,
+      "score": 0.936
+    },
+    {
+      "index": 81,
+      "word": "of",
+      "start": 52.628,
+      "end": 52.708,
+      "score": 0.996
+    },
+    {
+      "index": 82,
+      "word": "people",
+      "start": 52.808,
+      "end": 53.168,
+      "score": 0.984
+    },
+    {
+      "index": 83,
+      "word": "to",
+      "start": 53.268,
+      "end": 53.348,
+      "score": 0.987
+    },
+    {
+      "index": 84,
+      "word": "assemble,",
+      "start": 53.428,
+      "end": 54.108,
+      "score": 0.948
+    },
+    {
+      "index": 85,
+      "word": "organize,",
+      "start": 54.308,
+      "end": 55.048,
+      "score": 0.992
+    },
+    {
+      "index": 86,
+      "word": "and",
+      "start": 55.228,
+      "end": 55.368,
+      "score": 0.99
+    },
+    {
+      "index": 87,
+      "word": "debate",
+      "start": 55.408,
+      "end": 55.808,
+      "score": 0.951
+    },
+    {
+      "index": 88,
+      "word": "openly.",
+      "start": 55.929,
+      "end": 56.369,
+      "score": 0.997
+    },
+    {
+      "index": 89,
+      "word": "It",
+      "start": 57.029,
+      "end": 57.129,
+      "score": 0.997
+    },
+    {
+      "index": 90,
+      "word": "means",
+      "start": 57.189,
+      "end": 57.469,
+      "score": 0.985
+    },
+    {
+      "index": 91,
+      "word": "respecting",
+      "start": 57.529,
+      "end": 58.249,
+      "score": 0.971
+    },
+    {
+      "index": 92,
+      "word": "the",
+      "start": 58.289,
+      "end": 58.369,
+      "score": 0.991
+    },
+    {
+      "index": 93,
+      "word": "views",
+      "start": 58.409,
+      "end": 58.789,
+      "score": 0.927
+    },
+    {
+      "index": 94,
+      "word": "of",
+      "start": 58.849,
+      "end": 58.929,
+      "score": 0.998
+    },
+    {
+      "index": 95,
+      "word": "those",
+      "start": 58.989,
+      "end": 59.409,
+      "score": 0.94
+    },
+    {
+      "index": 96,
+      "word": "who",
+      "start": 59.429,
+      "end": 59.509,
+      "score": 0.998
+    },
+    {
+      "index": 97,
+      "word": "may",
+      "start": 59.589,
+      "end": 59.709,
+      "score": 0.994
+    },
+    {
+      "index": 98,
+      "word": "disagree",
+      "start": 59.789,
+      "end": 60.449,
+      "score": 0.994
+    },
+    {
+      "index": 99,
+      "word": "with",
+      "start": 60.549,
+      "end": 60.689,
+      "score": 0.985
+    },
+    {
+      "index": 100,
+      "word": "the",
+      "start": 60.709,
+      "end": 60.789,
+      "score": 0.965
+    },
+    {
+      "index": 101,
+      "word": "views",
+      "start": 60.849,
+      "end": 61.249,
+      "score": 0.983
+    },
+    {
+      "index": 102,
+      "word": "of",
+      "start": 61.369,
+      "end": 61.449,
+      "score": 0.998
+    },
+    {
+      "index": 103,
+      "word": "their",
+      "start": 61.489,
+      "end": 61.629,
+      "score": 0.914
+    },
+    {
+      "index": 104,
+      "word": "governments.",
+      "start": 61.689,
+      "end": 62.309,
+      "score": 0.983
+    },
+    {
+      "index": 105,
+      "word": "It",
+      "start": 62.87,
+      "end": 62.95,
+      "score": 0.998
+    },
+    {
+      "index": 106,
+      "word": "means",
+      "start": 63.01,
+      "end": 63.31,
+      "score": 0.999
+    },
+    {
+      "index": 107,
+      "word": "not",
+      "start": 63.41,
+      "end": 63.61,
+      "score": 0.998
+    },
+    {
+      "index": 108,
+      "word": "taking",
+      "start": 63.71,
+      "end": 64.09,
+      "score": 0.995
+    },
+    {
+      "index": 109,
+      "word": "citizens",
+      "start": 64.17,
+      "end": 64.65,
+      "score": 0.998
+    },
+    {
+      "index": 110,
+      "word": "away",
+      "start": 64.71,
+      "end": 64.99,
+      "score": 0.999
+    },
+    {
+      "index": 111,
+      "word": "from",
+      "start": 65.07,
+      "end": 65.23,
+      "score": 0.995
+    },
+    {
+      "index": 112,
+      "word": "their",
+      "start": 65.27,
+      "end": 65.41,
+      "score": 0.97
+    },
+    {
+      "index": 113,
+      "word": "loved",
+      "start": 65.53,
+      "end": 65.79,
+      "score": 0.998
+    },
+    {
+      "index": 114,
+      "word": "ones",
+      "start": 65.95,
+      "end": 66.23,
+      "score": 0.884
+    },
+    {
+      "index": 115,
+      "word": "and",
+      "start": 66.33,
+      "end": 66.45,
+      "score": 0.985
+    },
+    {
+      "index": 116,
+      "word": "jailing",
+      "start": 66.55,
+      "end": 66.97,
+      "score": 0.884
+    },
+    {
+      "index": 117,
+      "word": "them,",
+      "start": 67.03,
+      "end": 67.25,
+      "score": 0.958
+    },
+    {
+      "index": 118,
+      "word": "mistreating",
+      "start": 67.47,
+      "end": 68.15,
+      "score": 0.994
+    },
+    {
+      "index": 119,
+      "word": "them,",
+      "start": 68.19,
+      "end": 68.41,
+      "score": 0.994
+    },
+    {
+      "index": 120,
+      "word": "or",
+      "start": 68.57,
+      "end": 68.65,
+      "score": 0.998
+    },
+    {
+      "index": 121,
+      "word": "denying",
+      "start": 68.73,
+      "end": 69.331,
+      "score": 0.973
+    },
+    {
+      "index": 122,
+      "word": "them",
+      "start": 69.371,
+      "end": 69.631,
+      "score": 0.963
+    },
+    {
+      "index": 123,
+      "word": "their",
+      "start": 70.031,
+      "end": 70.191,
+      "score": 0.959
+    },
+    {
+      "index": 124,
+      "word": "freedom",
+      "start": 70.311,
+      "end": 70.731,
+      "score": 0.996
+    },
+    {
+      "index": 125,
+      "word": "or",
+      "start": 70.891,
+      "end": 70.991,
+      "score": 0.995
+    },
+    {
+      "index": 126,
+      "word": "dignity",
+      "start": 71.111,
+      "end": 71.571,
+      "score": 0.999
+    },
+    {
+      "index": 127,
+      "word": "because",
+      "start": 71.731,
+      "end": 72.151,
+      "score": 0.99
+    },
+    {
+      "index": 128,
+      "word": "of",
+      "start": 72.171,
+      "end": 72.251,
+      "score": 0.981
+    },
+    {
+      "index": 129,
+      "word": "the",
+      "start": 72.291,
+      "end": 72.371,
+      "score": 0.971
+    },
+    {
+      "index": 130,
+      "word": "peaceful",
+      "start": 72.511,
+      "end": 73.131,
+      "score": 0.923
+    },
+    {
+      "index": 131,
+      "word": "expression",
+      "start": 73.211,
+      "end": 73.911,
+      "score": 0.959
+    },
+    {
+      "index": 132,
+      "word": "of",
+      "start": 74.311,
+      "end": 74.411,
+      "score": 0.981
+    },
+    {
+      "index": 133,
+      "word": "their",
+      "start": 74.451,
+      "end": 74.591,
+      "score": 0.988
+    },
+    {
+      "index": 134,
+      "word": "ideas",
+      "start": 74.751,
+      "end": 75.211,
+      "score": 0.963
+    },
+    {
+      "index": 135,
+      "word": "and",
+      "start": 75.371,
+      "end": 75.471,
+      "score": 0.988
+    },
+    {
+      "index": 136,
+      "word": "opinions.",
+      "start": 75.531,
+      "end": 76.192,
+      "score": 0.992
+    },
+    {
+      "index": 137,
+      "word": "In",
+      "start": 83.573,
+      "end": 83.653,
+      "score": 0.699
+    },
+    {
+      "index": 138,
+      "word": "my",
+      "start": 83.693,
+      "end": 83.833,
+      "score": 0.745
+    },
+    {
+      "index": 139,
+      "word": "country,",
+      "start": 83.893,
+      "end": 84.273,
+      "score": 0.744
+    },
+    {
+      "index": 140,
+      "word": "we",
+      "start": 84.453,
+      "end": 84.533,
+      "score": 0.641
+    },
+    {
+      "index": 141,
+      "word": "recently",
+      "start": 84.653,
+      "end": 85.193,
+      "score": 0.99
+    },
+    {
+      "index": 142,
+      "word": "celebrated",
+      "start": 85.373,
+      "end": 86.013,
+      "score": 0.989
+    },
+    {
+      "index": 143,
+      "word": "the",
+      "start": 86.053,
+      "end": 86.133,
+      "score": 0.989
+    },
+    {
+      "index": 144,
+      "word": "seventy",
+      "start": 86.233,
+      "end": 86.593,
+      "score": 0.016
+    },
+    {
+      "index": 145,
+      "word": "fifth",
+      "start": 86.673,
+      "end": 86.913,
+      "score": 0.034
+    },
+    {
+      "index": 146,
+      "word": "anniversary",
+      "start": 87.033,
+      "end": 87.673,
+      "score": 0.908
+    },
+    {
+      "index": 147,
+      "word": "of",
+      "start": 87.753,
+      "end": 87.813,
+      "score": 0.991
+    },
+    {
+      "index": 148,
+      "word": "women's",
+      "start": 87.893,
+      "end": 88.253,
+      "score": 0.932
+    },
+    {
+      "index": 149,
+      "word": "suffrage.",
+      "start": 88.393,
+      "end": 88.954,
+      "score": 0.964
+    },
+    {
+      "index": 150,
+      "word": "It",
+      "start": 90.034,
+      "end": 90.134,
+      "score": 0.985
+    },
+    {
+      "index": 151,
+      "word": "took",
+      "start": 90.254,
+      "end": 90.514,
+      "score": 0.995
+    },
+    {
+      "index": 152,
+      "word": "one",
+      "start": 90.754,
+      "end": 90.934,
+      "score": 0.01
+    },
+    {
+      "index": 153,
+      "word": "hundred",
+      "start": 91.014,
+      "end": 91.634,
+      "score": 0.081
+    },
+    {
+      "index": 154,
+      "word": "fifty",
+      "start": 91.754,
+      "end": 92.214,
+      "score": 0.069
+    },
+    {
+      "index": 155,
+      "word": "years",
+      "start": 92.454,
+      "end": 93.014,
+      "score": 0.908
+    },
+    {
+      "index": 156,
+      "word": "after",
+      "start": 93.694,
+      "end": 93.934,
+      "score": 0.997
+    },
+    {
+      "index": 157,
+      "word": "the",
+      "start": 93.954,
+      "end": 94.034,
+      "score": 0.989
+    },
+    {
+      "index": 158,
+      "word": "signing",
+      "start": 94.114,
+      "end": 94.594,
+      "score": 0.875
+    },
+    {
+      "index": 159,
+      "word": "of",
+      "start": 94.614,
+      "end": 94.694,
+      "score": 0.957
+    },
+    {
+      "index": 160,
+      "word": "our",
+      "start": 94.754,
+      "end": 94.914,
+      "score": 0.925
+    },
+    {
+      "index": 161,
+      "word": "Declaration",
+      "start": 95.014,
+      "end": 95.715,
+      "score": 0.997
+    },
+    {
+      "index": 162,
+      "word": "of",
+      "start": 95.755,
+      "end": 95.815,
+      "score": 0.994
+    },
+    {
+      "index": 163,
+      "word": "Independence",
+      "start": 95.855,
+      "end": 96.675,
+      "score": 0.924
+    },
+    {
+      "index": 164,
+      "word": "for",
+      "start": 96.775,
+      "end": 96.955,
+      "score": 0.991
+    },
+    {
+      "index": 165,
+      "word": "women",
+      "start": 97.095,
+      "end": 97.475,
+      "score": 0.988
+    },
+    {
+      "index": 166,
+      "word": "to",
+      "start": 98.375,
+      "end": 98.455,
+      "score": 0.975
+    },
+    {
+      "index": 167,
+      "word": "win",
+      "start": 98.555,
+      "end": 98.835,
+      "score": 0.995
+    },
+    {
+      "index": 168,
+      "word": "the",
+      "start": 99.055,
+      "end": 99.135,
+      "score": 0.977
+    },
+    {
+      "index": 169,
+      "word": "right",
+      "start": 99.215,
+      "end": 99.535,
+      "score": 0.919
+    },
+    {
+      "index": 170,
+      "word": "to",
+      "start": 99.815,
+      "end": 99.915,
+      "score": 0.977
+    },
+    {
+      "index": 171,
+      "word": "vote.",
+      "start": 99.995,
+      "end": 100.415,
+      "score": 0.943
+    },
+    {
+      "index": 172,
+      "word": "It",
+      "start": 101.415,
+      "end": 101.495,
+      "score": 0.888
+    },
+    {
+      "index": 173,
+      "word": "took",
+      "start": 101.555,
+      "end": 101.735,
+      "score": 0.971
+    },
+    {
+      "index": 174,
+      "word": "seventy",
+      "start": 101.895,
+      "end": 102.316,
+      "score": 0.053
+    },
+    {
+      "index": 175,
+      "word": "two",
+      "start": 102.456,
+      "end": 102.636,
+      "score": 0.152
+    },
+    {
+      "index": 176,
+      "word": "years",
+      "start": 102.716,
+      "end": 103.076,
+      "score": 0.97
+    },
+    {
+      "index": 177,
+      "word": "of",
+      "start": 103.136,
+      "end": 103.216,
+      "score": 0.966
+    },
+    {
+      "index": 178,
+      "word": "organized",
+      "start": 103.416,
+      "end": 104.136,
+      "score": 0.901
+    },
+    {
+      "index": 179,
+      "word": "struggle",
+      "start": 104.316,
+      "end": 104.836,
+      "score": 0.915
+    },
+    {
+      "index": 180,
+      "word": "before",
+      "start": 105.276,
+      "end": 105.736,
+      "score": 0.912
+    },
+    {
+      "index": 181,
+      "word": "that",
+      "start": 105.796,
+      "end": 106.016,
+      "score": 0.985
+    },
+    {
+      "index": 182,
+      "word": "happened",
+      "start": 106.116,
+      "end": 106.576,
+      "score": 0.927
+    },
+    {
+      "index": 183,
+      "word": "on",
+      "start": 106.636,
+      "end": 106.696,
+      "score": 0.993
+    },
+    {
+      "index": 184,
+      "word": "the",
+      "start": 106.716,
+      "end": 106.796,
+      "score": 0.943
+    },
+    {
+      "index": 185,
+      "word": "part",
+      "start": 106.856,
+      "end": 107.116,
+      "score": 0.899
+    },
+    {
+      "index": 186,
+      "word": "of",
+      "start": 107.156,
+      "end": 107.216,
+      "score": 0.996
+    },
+    {
+      "index": 187,
+      "word": "many",
+      "start": 107.336,
+      "end": 107.596,
+      "score": 0.978
+    },
+    {
+      "index": 188,
+      "word": "courageous",
+      "start": 107.736,
+      "end": 108.356,
+      "score": 0.934
+    },
+    {
+      "index": 189,
+      "word": "women",
+      "start": 108.537,
+      "end": 108.837,
+      "score": 0.996
+    },
+    {
+      "index": 190,
+      "word": "and",
+      "start": 109.057,
+      "end": 109.177,
+      "score": 0.994
+    },
+    {
+      "index": 191,
+      "word": "men.",
+      "start": 109.277,
+      "end": 109.537,
+      "score": 0.998
+    },
+    {
+      "index": 192,
+      "word": "It",
+      "start": 110.617,
+      "end": 110.697,
+      "score": 0.996
+    },
+    {
+      "index": 193,
+      "word": "was",
+      "start": 110.737,
+      "end": 110.877,
+      "score": 0.995
+    },
+    {
+      "index": 194,
+      "word": "one",
+      "start": 111.017,
+      "end": 111.157,
+      "score": 0.975
+    },
+    {
+      "index": 195,
+      "word": "of",
+      "start": 111.177,
+      "end": 111.237,
+      "score": 0.988
+    },
+    {
+      "index": 196,
+      "word": "America's",
+      "start": 111.277,
+      "end": 111.857,
+      "score": 0.927
+    },
+    {
+      "index": 197,
+      "word": "most",
+      "start": 111.957,
+      "end": 112.217,
+      "score": 0.768
+    },
+    {
+      "index": 198,
+      "word": "divisive",
+      "start": 112.277,
+      "end": 112.957,
+      "score": 0.816
+    },
+    {
+      "index": 199,
+      "word": "philosophical",
+      "start": 113.137,
+      "end": 113.977,
+      "score": 0.96
+    },
+    {
+      "index": 200,
+      "word": "wars,",
+      "start": 114.077,
+      "end": 114.557,
+      "score": 0.994
+    },
+    {
+      "index": 201,
+      "word": "but",
+      "start": 115.178,
+      "end": 115.318,
+      "score": 0.996
+    },
+    {
+      "index": 202,
+      "word": "it",
+      "start": 115.358,
+      "end": 115.438,
+      "score": 0.986
+    },
+    {
+      "index": 203,
+      "word": "was",
+      "start": 115.518,
+      "end": 115.918,
+      "score": 0.977
+    },
+    {
+      "index": 204,
+      "word": "a",
+      "start": 116.138,
+      "end": 116.158,
+      "score": 0.97
+    },
+    {
+      "index": 205,
+      "word": "bloodless",
+      "start": 116.258,
+      "end": 116.758,
+      "score": 0.911
+    },
+    {
+      "index": 206,
+      "word": "war.",
+      "start": 116.898,
+      "end": 117.178,
+      "score": 0.948
+    },
+    {
+      "index": 207,
+      "word": "Suffrage",
+      "start": 117.858,
+      "end": 118.358,
+      "score": 0.162
+    },
+    {
+      "index": 208,
+      "word": "was",
+      "start": 118.418,
+      "end": 118.538,
+      "score": 0.233
+    },
+    {
+      "index": 209,
+      "word": "achieved",
+      "start": 118.578,
+      "end": 119.138,
+      "score": 0.154
+    },
+    {
+      "index": 210,
+      "word": "without",
+      "start": 119.198,
+      "end": 119.518,
+      "score": 0.112
+    },
+    {
+      "index": 211,
+      "word": "a",
+      "start": 119.538,
+      "end": 119.558,
+      "score": 0.137
+    },
+    {
+      "index": 212,
+      "word": "shot.",
+      "start": 119.678,
+      "end": 119.938,
+      "score": 0.163
+    }
+  ]
+}

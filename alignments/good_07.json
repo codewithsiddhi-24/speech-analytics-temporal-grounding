@@ -1,0 +1,1889 @@
+{
+  "file": "good_07.wav",
+  "duration": 120.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "to",
+      "start": 0.22,
+      "end": 0.28,
+      "score": 0.933
+    },
+    {
+      "index": 1,
+      "word": "encouraging",
+      "start": 0.34,
+      "end": 0.94,
+      "score": 0.905
+    },
+    {
+      "index": 2,
+      "word": "closer",
+      "start": 1.02,
+      "end": 1.38,
+      "score": 0.969
+    },
+    {
+      "index": 3,
+      "word": "cooperation",
+      "start": 1.42,
+      "end": 2.12,
+      "score": 0.971
+    },
+    {
+      "index": 4,
+      "word": "between",
+      "start": 2.16,
+      "end": 2.48,
+      "score": 0.995
+    },
+    {
+      "index": 5,
+      "word": "the",
+      "start": 2.5,
+      "end": 2.58,
+      "score": 0.977
+    },
+    {
+      "index": 6,
+      "word": "IMF",
+      "start": 2.8,
+      "end": 3.161,
+      "score": 0.967
+    },
+    {
+      "index": 7,
+      "word": "and",
+      "start": 3.241,
+      "end": 3.321,
+      "score": 0.949
+    },
+    {
+      "index": 8,
+      "word": "the",
+      "start": 3.321,
+      "end": 3.401,
+      "score": 0.987
+    },
+    {
+      "index": 9,
+      "word": "International",
+      "start": 3.441,
+      "end": 4.001,
+      "score": 0.997
+    },
+    {
+      "index": 10,
+      "word": "Bank",
+      "start": 4.061,
+      "end": 4.301,
+      "score": 0.972
+    },
+    {
+      "index": 11,
+      "word": "for",
+      "start": 4.341,
+      "end": 4.441,
+      "score": 0.994
+    },
+    {
+      "index": 12,
+      "word": "Reconstruction",
+      "start": 4.481,
+      "end": 5.281,
+      "score": 0.969
+    },
+    {
+      "index": 13,
+      "word": "and",
+      "start": 5.321,
+      "end": 5.401,
+      "score": 0.891
+    },
+    {
+      "index": 14,
+      "word": "Development",
+      "start": 5.461,
+      "end": 6.161,
+      "score": 0.942
+    },
+    {
+      "index": 15,
+      "word": "and",
+      "start": 6.581,
+      "end": 6.661,
+      "score": 0.971
+    },
+    {
+      "index": 16,
+      "word": "strengthening",
+      "start": 6.721,
+      "end": 7.321,
+      "score": 0.95
+    },
+    {
+      "index": 17,
+      "word": "the",
+      "start": 7.341,
+      "end": 7.421,
+      "score": 0.993
+    },
+    {
+      "index": 18,
+      "word": "role",
+      "start": 7.501,
+      "end": 7.761,
+      "score": 0.979
+    },
+    {
+      "index": 19,
+      "word": "of",
+      "start": 7.781,
+      "end": 7.841,
+      "score": 0.995
+    },
+    {
+      "index": 20,
+      "word": "the",
+      "start": 7.861,
+      "end": 7.941,
+      "score": 0.89
+    },
+    {
+      "index": 21,
+      "word": "IBRD",
+      "start": 8.101,
+      "end": 8.541,
+      "score": 0.961
+    },
+    {
+      "index": 22,
+      "word": "in",
+      "start": 8.701,
+      "end": 8.781,
+      "score": 0.631
+    },
+    {
+      "index": 23,
+      "word": "fostering",
+      "start": 8.861,
+      "end": 9.322,
+      "score": 0.96
+    },
+    {
+      "index": 24,
+      "word": "development",
+      "start": 9.342,
+      "end": 10.002,
+      "score": 0.991
+    },
+    {
+      "index": 25,
+      "word": "over",
+      "start": 10.362,
+      "end": 10.522,
+      "score": 0.993
+    },
+    {
+      "index": 26,
+      "word": "the",
+      "start": 10.542,
+      "end": 10.622,
+      "score": 0.981
+    },
+    {
+      "index": 27,
+      "word": "medium",
+      "start": 10.682,
+      "end": 11.022,
+      "score": 0.927
+    },
+    {
+      "index": 28,
+      "word": "and",
+      "start": 11.042,
+      "end": 11.142,
+      "score": 0.966
+    },
+    {
+      "index": 29,
+      "word": "long",
+      "start": 11.222,
+      "end": 11.462,
+      "score": 0.908
+    },
+    {
+      "index": 30,
+      "word": "term,",
+      "start": 11.542,
+      "end": 11.862,
+      "score": 0.946
+    },
+    {
+      "index": 31,
+      "word": "and",
+      "start": 13.042,
+      "end": 13.162,
+      "score": 0.933
+    },
+    {
+      "index": 32,
+      "word": "in",
+      "start": 13.222,
+      "end": 13.302,
+      "score": 0.992
+    },
+    {
+      "index": 33,
+      "word": "cases",
+      "start": 13.362,
+      "end": 13.782,
+      "score": 0.998
+    },
+    {
+      "index": 34,
+      "word": "where",
+      "start": 13.842,
+      "end": 13.982,
+      "score": 0.92
+    },
+    {
+      "index": 35,
+      "word": "debtor",
+      "start": 14.142,
+      "end": 14.482,
+      "score": 0.509
+    },
+    {
+      "index": 36,
+      "word": "countries",
+      "start": 14.542,
+      "end": 14.982,
+      "score": 0.996
+    },
+    {
+      "index": 37,
+      "word": "are",
+      "start": 15.043,
+      "end": 15.143,
+      "score": 0.979
+    },
+    {
+      "index": 38,
+      "word": "themselves",
+      "start": 15.163,
+      "end": 15.843,
+      "score": 0.957
+    },
+    {
+      "index": 39,
+      "word": "making",
+      "start": 15.903,
+      "end": 16.223,
+      "score": 0.993
+    },
+    {
+      "index": 40,
+      "word": "successful",
+      "start": 16.303,
+      "end": 16.903,
+      "score": 0.995
+    },
+    {
+      "index": 41,
+      "word": "efforts",
+      "start": 17.023,
+      "end": 17.303,
+      "score": 0.979
+    },
+    {
+      "index": 42,
+      "word": "to",
+      "start": 17.363,
+      "end": 17.423,
+      "score": 0.994
+    },
+    {
+      "index": 43,
+      "word": "improve",
+      "start": 17.483,
+      "end": 17.863,
+      "score": 0.98
+    },
+    {
+      "index": 44,
+      "word": "their",
+      "start": 17.883,
+      "end": 18.043,
+      "score": 0.929
+    },
+    {
+      "index": 45,
+      "word": "position",
+      "start": 18.103,
+      "end": 18.623,
+      "score": 0.994
+    },
+    {
+      "index": 46,
+      "word": "by",
+      "start": 19.283,
+      "end": 19.403,
+      "score": 0.971
+    },
+    {
+      "index": 47,
+      "word": "encouraging",
+      "start": 19.443,
+      "end": 20.103,
+      "score": 0.893
+    },
+    {
+      "index": 48,
+      "word": "more",
+      "start": 20.203,
+      "end": 20.463,
+      "score": 0.87
+    },
+    {
+      "index": 49,
+      "word": "extended",
+      "start": 20.603,
+      "end": 21.304,
+      "score": 0.933
+    },
+    {
+      "index": 50,
+      "word": "multi-year",
+      "start": 21.424,
+      "end": 22.144,
+      "score": 0.947
+    },
+    {
+      "index": 51,
+      "word": "rescheduling",
+      "start": 22.264,
+      "end": 23.144,
+      "score": 0.808
+    },
+    {
+      "index": 52,
+      "word": "of",
+      "start": 23.444,
+      "end": 23.524,
+      "score": 0.988
+    },
+    {
+      "index": 53,
+      "word": "commercial",
+      "start": 23.604,
+      "end": 24.124,
+      "score": 0.976
+    },
+    {
+      "index": 54,
+      "word": "debts,",
+      "start": 24.204,
+      "end": 24.604,
+      "score": 0.779
+    },
+    {
+      "index": 55,
+      "word": "and",
+      "start": 25.064,
+      "end": 25.164,
+      "score": 0.863
+    },
+    {
+      "index": 56,
+      "word": "also",
+      "start": 25.284,
+      "end": 25.604,
+      "score": 0.829
+    },
+    {
+      "index": 57,
+      "word": "by",
+      "start": 26.364,
+      "end": 26.464,
+      "score": 0.986
+    },
+    {
+      "index": 58,
+      "word": "encouraging",
+      "start": 26.504,
+      "end": 27.145,
+      "score": 0.927
+    },
+    {
+      "index": 59,
+      "word": "the",
+      "start": 27.165,
+      "end": 27.245,
+      "score": 0.989
+    },
+    {
+      "index": 60,
+      "word": "flow",
+      "start": 27.365,
+      "end": 27.745,
+      "score": 0.961
+    },
+    {
+      "index": 61,
+      "word": "of",
+      "start": 27.985,
+      "end": 28.065,
+      "score": 0.978
+    },
+    {
+      "index": 62,
+      "word": "long-term",
+      "start": 28.245,
+      "end": 28.865,
+      "score": 0.952
+    },
+    {
+      "index": 63,
+      "word": "direct",
+      "start": 28.945,
+      "end": 29.385,
+      "score": 0.985
+    },
+    {
+      "index": 64,
+      "word": "investment",
+      "start": 29.445,
+      "end": 30.125,
+      "score": 0.929
+    },
+    {
+      "index": 65,
+      "word": "and",
+      "start": 30.745,
+      "end": 30.845,
+      "score": 0.905
+    },
+    {
+      "index": 66,
+      "word": "encouraging",
+      "start": 30.885,
+      "end": 31.565,
+      "score": 0.907
+    },
+    {
+      "index": 67,
+      "word": "the",
+      "start": 31.585,
+      "end": 31.665,
+      "score": 0.95
+    },
+    {
+      "index": 68,
+      "word": "substitution",
+      "start": 31.725,
+      "end": 32.605,
+      "score": 0.941
+    },
+    {
+      "index": 69,
+      "word": "of",
+      "start": 32.725,
+      "end": 32.805,
+      "score": 0.955
+    },
+    {
+      "index": 70,
+      "word": "more",
+      "start": 32.865,
+      "end": 33.066,
+      "score": 0.972
+    },
+    {
+      "index": 71,
+      "word": "stable",
+      "start": 33.146,
+      "end": 33.726,
+      "score": 0.967
+    },
+    {
+      "index": 72,
+      "word": "long-term",
+      "start": 33.826,
+      "end": 34.366,
+      "score": 0.988
+    },
+    {
+      "index": 73,
+      "word": "finance,",
+      "start": 34.446,
+      "end": 35.086,
+      "score": 0.983
+    },
+    {
+      "index": 74,
+      "word": "both",
+      "start": 35.486,
+      "end": 35.666,
+      "score": 0.891
+    },
+    {
+      "index": 75,
+      "word": "direct",
+      "start": 35.706,
+      "end": 36.166,
+      "score": 0.992
+    },
+    {
+      "index": 76,
+      "word": "and",
+      "start": 36.206,
+      "end": 36.306,
+      "score": 0.946
+    },
+    {
+      "index": 77,
+      "word": "portfolio,",
+      "start": 36.346,
+      "end": 36.986,
+      "score": 0.91
+    },
+    {
+      "index": 78,
+      "word": "for",
+      "start": 37.446,
+      "end": 37.546,
+      "score": 0.902
+    },
+    {
+      "index": 79,
+      "word": "short-term",
+      "start": 37.626,
+      "end": 38.286,
+      "score": 0.934
+    },
+    {
+      "index": 80,
+      "word": "bank",
+      "start": 38.386,
+      "end": 38.646,
+      "score": 0.997
+    },
+    {
+      "index": 81,
+      "word": "lending.",
+      "start": 38.726,
+      "end": 39.227,
+      "score": 0.865
+    },
+    {
+      "index": 82,
+      "word": "We",
+      "start": 40.267,
+      "end": 40.347,
+      "score": 0.643
+    },
+    {
+      "index": 83,
+      "word": "agree",
+      "start": 40.427,
+      "end": 40.787,
+      "score": 0.919
+    },
+    {
+      "index": 84,
+      "word": "to",
+      "start": 40.867,
+      "end": 40.927,
+      "score": 0.99
+    },
+    {
+      "index": 85,
+      "word": "invite",
+      "start": 40.987,
+      "end": 41.367,
+      "score": 0.932
+    },
+    {
+      "index": 86,
+      "word": "Finance",
+      "start": 41.387,
+      "end": 41.867,
+      "score": 0.96
+    },
+    {
+      "index": 87,
+      "word": "Ministers",
+      "start": 41.927,
+      "end": 42.327,
+      "score": 0.995
+    },
+    {
+      "index": 88,
+      "word": "to",
+      "start": 42.367,
+      "end": 42.427,
+      "score": 0.988
+    },
+    {
+      "index": 89,
+      "word": "carry",
+      "start": 42.527,
+      "end": 42.787,
+      "score": 0.978
+    },
+    {
+      "index": 90,
+      "word": "forward",
+      "start": 42.907,
+      "end": 43.347,
+      "score": 0.951
+    },
+    {
+      "index": 91,
+      "word": "in",
+      "start": 43.407,
+      "end": 43.467,
+      "score": 0.989
+    },
+    {
+      "index": 92,
+      "word": "an",
+      "start": 43.507,
+      "end": 43.587,
+      "score": 0.972
+    },
+    {
+      "index": 93,
+      "word": "urgent",
+      "start": 43.747,
+      "end": 44.147,
+      "score": 0.993
+    },
+    {
+      "index": 94,
+      "word": "and",
+      "start": 44.187,
+      "end": 44.287,
+      "score": 0.972
+    },
+    {
+      "index": 95,
+      "word": "thorough",
+      "start": 44.387,
+      "end": 44.727,
+      "score": 0.3
+    },
+    {
+      "index": 96,
+      "word": "manner",
+      "start": 44.767,
+      "end": 45.108,
+      "score": 0.975
+    },
+    {
+      "index": 97,
+      "word": "their",
+      "start": 45.668,
+      "end": 45.808,
+      "score": 0.464
+    },
+    {
+      "index": 98,
+      "word": "current",
+      "start": 45.928,
+      "end": 46.308,
+      "score": 0.955
+    },
+    {
+      "index": 99,
+      "word": "work",
+      "start": 46.388,
+      "end": 46.648,
+      "score": 0.999
+    },
+    {
+      "index": 100,
+      "word": "on",
+      "start": 46.748,
+      "end": 46.828,
+      "score": 0.995
+    },
+    {
+      "index": 101,
+      "word": "ways",
+      "start": 46.928,
+      "end": 47.208,
+      "score": 0.94
+    },
+    {
+      "index": 102,
+      "word": "to",
+      "start": 47.268,
+      "end": 47.328,
+      "score": 0.995
+    },
+    {
+      "index": 103,
+      "word": "improve",
+      "start": 47.388,
+      "end": 47.768,
+      "score": 0.997
+    },
+    {
+      "index": 104,
+      "word": "the",
+      "start": 47.788,
+      "end": 47.868,
+      "score": 0.991
+    },
+    {
+      "index": 105,
+      "word": "operation",
+      "start": 47.928,
+      "end": 48.468,
+      "score": 0.996
+    },
+    {
+      "index": 106,
+      "word": "of",
+      "start": 48.508,
+      "end": 48.568,
+      "score": 0.995
+    },
+    {
+      "index": 107,
+      "word": "the",
+      "start": 48.588,
+      "end": 48.668,
+      "score": 0.865
+    },
+    {
+      "index": 108,
+      "word": "international",
+      "start": 48.708,
+      "end": 49.308,
+      "score": 0.989
+    },
+    {
+      "index": 109,
+      "word": "monetary",
+      "start": 49.388,
+      "end": 49.808,
+      "score": 0.863
+    },
+    {
+      "index": 110,
+      "word": "system,",
+      "start": 49.908,
+      "end": 50.348,
+      "score": 0.996
+    },
+    {
+      "index": 111,
+      "word": "including",
+      "start": 50.888,
+      "end": 51.289,
+      "score": 0.979
+    },
+    {
+      "index": 112,
+      "word": "exchange",
+      "start": 51.329,
+      "end": 51.869,
+      "score": 0.76
+    },
+    {
+      "index": 113,
+      "word": "rates,",
+      "start": 51.869,
+      "end": 52.149,
+      "score": 0.469
+    },
+    {
+      "index": 114,
+      "word": "surveillance,",
+      "start": 52.209,
+      "end": 52.809,
+      "score": 0.878
+    },
+    {
+      "index": 115,
+      "word": "the",
+      "start": 52.829,
+      "end": 52.909,
+      "score": 0.917
+    },
+    {
+      "index": 116,
+      "word": "creation,",
+      "start": 52.969,
+      "end": 53.449,
+      "score": 0.972
+    },
+    {
+      "index": 117,
+      "word": "control",
+      "start": 53.529,
+      "end": 54.089,
+      "score": 0.995
+    },
+    {
+      "index": 118,
+      "word": "and",
+      "start": 54.409,
+      "end": 54.509,
+      "score": 0.993
+    },
+    {
+      "index": 119,
+      "word": "distribution",
+      "start": 54.549,
+      "end": 55.209,
+      "score": 0.995
+    },
+    {
+      "index": 120,
+      "word": "of",
+      "start": 55.229,
+      "end": 55.289,
+      "score": 0.993
+    },
+    {
+      "index": 121,
+      "word": "international",
+      "start": 55.349,
+      "end": 55.929,
+      "score": 0.979
+    },
+    {
+      "index": 122,
+      "word": "liquidity",
+      "start": 55.969,
+      "end": 56.589,
+      "score": 0.995
+    },
+    {
+      "index": 123,
+      "word": "and",
+      "start": 57.29,
+      "end": 57.41,
+      "score": 0.947
+    },
+    {
+      "index": 124,
+      "word": "the",
+      "start": 57.43,
+      "end": 57.51,
+      "score": 0.981
+    },
+    {
+      "index": 125,
+      "word": "role",
+      "start": 57.61,
+      "end": 57.97,
+      "score": 0.98
+    },
+    {
+      "index": 126,
+      "word": "of",
+      "start": 58.27,
+      "end": 58.35,
+      "score": 0.979
+    },
+    {
+      "index": 127,
+      "word": "the",
+      "start": 58.39,
+      "end": 58.49,
+      "score": 0.816
+    },
+    {
+      "index": 128,
+      "word": "IMF,",
+      "start": 58.69,
+      "end": 59.11,
+      "score": 0.942
+    },
+    {
+      "index": 129,
+      "word": "and",
+      "start": 59.69,
+      "end": 59.79,
+      "score": 0.966
+    },
+    {
+      "index": 130,
+      "word": "to",
+      "start": 59.81,
+      "end": 59.87,
+      "score": 0.834
+    },
+    {
+      "index": 131,
+      "word": "complete",
+      "start": 59.95,
+      "end": 60.35,
+      "score": 0.995
+    },
+    {
+      "index": 132,
+      "word": "the",
+      "start": 60.37,
+      "end": 60.45,
+      "score": 0.964
+    },
+    {
+      "index": 133,
+      "word": "present",
+      "start": 60.51,
+      "end": 60.85,
+      "score": 0.94
+    },
+    {
+      "index": 134,
+      "word": "phase",
+      "start": 60.93,
+      "end": 61.23,
+      "score": 0.681
+    },
+    {
+      "index": 135,
+      "word": "of",
+      "start": 61.27,
+      "end": 61.33,
+      "score": 0.99
+    },
+    {
+      "index": 136,
+      "word": "their",
+      "start": 61.37,
+      "end": 61.53,
+      "score": 0.91
+    },
+    {
+      "index": 137,
+      "word": "work",
+      "start": 61.61,
+      "end": 61.89,
+      "score": 0.96
+    },
+    {
+      "index": 138,
+      "word": "in",
+      "start": 62.39,
+      "end": 62.43,
+      "score": 0.989
+    },
+    {
+      "index": 139,
+      "word": "the",
+      "start": 62.45,
+      "end": 62.53,
+      "score": 0.98
+    },
+    {
+      "index": 140,
+      "word": "first",
+      "start": 62.57,
+      "end": 62.85,
+      "score": 0.929
+    },
+    {
+      "index": 141,
+      "word": "half",
+      "start": 62.89,
+      "end": 63.091,
+      "score": 0.782
+    },
+    {
+      "index": 142,
+      "word": "of",
+      "start": 63.151,
+      "end": 63.211,
+      "score": 0.97
+    },
+    {
+      "index": 143,
+      "word": "nineteen",
+      "start": 63.211,
+      "end": 63.631,
+      "score": 0.0
+    },
+    {
+      "index": 144,
+      "word": "eighty",
+      "start": 63.691,
+      "end": 63.871,
+      "score": 0.0
+    },
+    {
+      "index": 145,
+      "word": "five,",
+      "start": 63.971,
+      "end": 64.371,
+      "score": 0.008
+    },
+    {
+      "index": 146,
+      "word": "with",
+      "start": 64.831,
+      "end": 64.971,
+      "score": 0.973
+    },
+    {
+      "index": 147,
+      "word": "a",
+      "start": 64.991,
+      "end": 65.011,
+      "score": 0.946
+    },
+    {
+      "index": 148,
+      "word": "view",
+      "start": 65.071,
+      "end": 65.251,
+      "score": 0.837
+    },
+    {
+      "index": 149,
+      "word": "to",
+      "start": 65.351,
+      "end": 65.431,
+      "score": 0.985
+    },
+    {
+      "index": 150,
+      "word": "discussion",
+      "start": 65.491,
+      "end": 66.131,
+      "score": 0.995
+    },
+    {
+      "index": 151,
+      "word": "at",
+      "start": 66.491,
+      "end": 66.591,
+      "score": 0.994
+    },
+    {
+      "index": 152,
+      "word": "an",
+      "start": 66.631,
+      "end": 66.691,
+      "score": 0.989
+    },
+    {
+      "index": 153,
+      "word": "early",
+      "start": 66.791,
+      "end": 67.011,
+      "score": 0.991
+    },
+    {
+      "index": 154,
+      "word": "meeting",
+      "start": 67.091,
+      "end": 67.451,
+      "score": 0.974
+    },
+    {
+      "index": 155,
+      "word": "of",
+      "start": 67.471,
+      "end": 67.531,
+      "score": 0.95
+    },
+    {
+      "index": 156,
+      "word": "the",
+      "start": 67.551,
+      "end": 67.631,
+      "score": 0.981
+    },
+    {
+      "index": 157,
+      "word": "IMF",
+      "start": 67.831,
+      "end": 68.211,
+      "score": 0.992
+    },
+    {
+      "index": 158,
+      "word": "Interim",
+      "start": 68.331,
+      "end": 68.751,
+      "score": 0.945
+    },
+    {
+      "index": 159,
+      "word": "Committee.",
+      "start": 68.831,
+      "end": 69.332,
+      "score": 0.986
+    },
+    {
+      "index": 160,
+      "word": "The",
+      "start": 69.952,
+      "end": 70.032,
+      "score": 0.99
+    },
+    {
+      "index": 161,
+      "word": "question",
+      "start": 70.072,
+      "end": 70.452,
+      "score": 0.998
+    },
+    {
+      "index": 162,
+      "word": "of",
+      "start": 70.492,
+      "end": 70.552,
+      "score": 0.987
+    },
+    {
+      "index": 163,
+      "word": "a",
+      "start": 70.612,
+      "end": 70.632,
+      "score": 0.978
+    },
+    {
+      "index": 164,
+      "word": "further",
+      "start": 70.752,
+      "end": 71.132,
+      "score": 0.982
+    },
+    {
+      "index": 165,
+      "word": "allocation",
+      "start": 71.212,
+      "end": 71.872,
+      "score": 0.989
+    },
+    {
+      "index": 166,
+      "word": "of",
+      "start": 71.932,
+      "end": 71.992,
+      "score": 0.991
+    },
+    {
+      "index": 167,
+      "word": "special",
+      "start": 72.052,
+      "end": 72.472,
+      "score": 0.999
+    },
+    {
+      "index": 168,
+      "word": "drawing",
+      "start": 72.532,
+      "end": 72.872,
+      "score": 0.921
+    },
+    {
+      "index": 169,
+      "word": "rights",
+      "start": 72.932,
+      "end": 73.232,
+      "score": 0.904
+    },
+    {
+      "index": 170,
+      "word": "is",
+      "start": 73.252,
+      "end": 73.332,
+      "score": 0.944
+    },
+    {
+      "index": 171,
+      "word": "to",
+      "start": 73.372,
+      "end": 73.432,
+      "score": 0.977
+    },
+    {
+      "index": 172,
+      "word": "be",
+      "start": 73.492,
+      "end": 73.552,
+      "score": 0.974
+    },
+    {
+      "index": 173,
+      "word": "reconsidered",
+      "start": 74.072,
+      "end": 74.812,
+      "score": 0.997
+    },
+    {
+      "index": 174,
+      "word": "by",
+      "start": 74.852,
+      "end": 74.992,
+      "score": 0.995
+    },
+    {
+      "index": 175,
+      "word": "the",
+      "start": 75.033,
+      "end": 75.133,
+      "score": 0.99
+    },
+    {
+      "index": 176,
+      "word": "IMF",
+      "start": 75.333,
+      "end": 75.653,
+      "score": 0.992
+    },
+    {
+      "index": 177,
+      "word": "Interim",
+      "start": 75.733,
+      "end": 76.073,
+      "score": 0.99
+    },
+    {
+      "index": 178,
+      "word": "Committee",
+      "start": 76.133,
+      "end": 76.593,
+      "score": 0.939
+    },
+    {
+      "index": 179,
+      "word": "in",
+      "start": 77.033,
+      "end": 77.093,
+      "score": 0.994
+    },
+    {
+      "index": 180,
+      "word": "September",
+      "start": 77.153,
+      "end": 77.673,
+      "score": 0.954
+    },
+    {
+      "index": 181,
+      "word": "nineteen",
+      "start": 77.673,
+      "end": 79.853,
+      "score": 0.0
+    },
+    {
+      "index": 182,
+      "word": "eighty",
+      "start": 79.853,
+      "end": 80.013,
+      "score": 0.002
+    },
+    {
+      "index": 183,
+      "word": "four.",
+      "start": 80.013,
+      "end": 80.093,
+      "score": 0.002
+    },
+    {
+      "index": 184,
+      "word": "We",
+      "start": 80.093,
+      "end": 80.133,
+      "score": 0.535
+    },
+    {
+      "index": 185,
+      "word": "have",
+      "start": 80.153,
+      "end": 80.233,
+      "score": 0.281
+    },
+    {
+      "index": 186,
+      "word": "agreed",
+      "start": 80.273,
+      "end": 80.633,
+      "score": 0.746
+    },
+    {
+      "index": 187,
+      "word": "to",
+      "start": 80.693,
+      "end": 80.753,
+      "score": 0.926
+    },
+    {
+      "index": 188,
+      "word": "carry",
+      "start": 80.833,
+      "end": 81.114,
+      "score": 0.953
+    },
+    {
+      "index": 189,
+      "word": "forward",
+      "start": 81.274,
+      "end": 81.734,
+      "score": 0.922
+    },
+    {
+      "index": 190,
+      "word": "the",
+      "start": 81.774,
+      "end": 81.854,
+      "score": 0.972
+    },
+    {
+      "index": 191,
+      "word": "procedures",
+      "start": 81.894,
+      "end": 82.514,
+      "score": 0.987
+    },
+    {
+      "index": 192,
+      "word": "agreed",
+      "start": 82.554,
+      "end": 82.914,
+      "score": 0.972
+    },
+    {
+      "index": 193,
+      "word": "at",
+      "start": 82.954,
+      "end": 83.034,
+      "score": 0.878
+    },
+    {
+      "index": 194,
+      "word": "Versailles,",
+      "start": 83.074,
+      "end": 83.894,
+      "score": 0.425
+    },
+    {
+      "index": 195,
+      "word": "under",
+      "start": 84.494,
+      "end": 84.654,
+      "score": 0.729
+    },
+    {
+      "index": 196,
+      "word": "President",
+      "start": 84.694,
+      "end": 85.034,
+      "score": 0.623
+    },
+    {
+      "index": 197,
+      "word": "Mitraong,",
+      "start": 85.074,
+      "end": 85.674,
+      "score": 0.797
+    },
+    {
+      "index": 198,
+      "word": "and",
+      "start": 85.874,
+      "end": 85.994,
+      "score": 0.823
+    },
+    {
+      "index": 199,
+      "word": "at",
+      "start": 86.014,
+      "end": 86.094,
+      "score": 0.908
+    },
+    {
+      "index": 200,
+      "word": "Williamsburg,",
+      "start": 86.134,
+      "end": 86.814,
+      "score": 0.867
+    },
+    {
+      "index": 201,
+      "word": "under",
+      "start": 86.894,
+      "end": 87.055,
+      "score": 0.962
+    },
+    {
+      "index": 202,
+      "word": "President",
+      "start": 87.115,
+      "end": 87.455,
+      "score": 0.757
+    },
+    {
+      "index": 203,
+      "word": "Reagan,",
+      "start": 87.535,
+      "end": 87.975,
+      "score": 0.616
+    },
+    {
+      "index": 204,
+      "word": "for",
+      "start": 88.535,
+      "end": 88.655,
+      "score": 0.964
+    },
+    {
+      "index": 205,
+      "word": "multilateral",
+      "start": 88.795,
+      "end": 89.675,
+      "score": 0.988
+    },
+    {
+      "index": 206,
+      "word": "monitoring",
+      "start": 89.775,
+      "end": 90.375,
+      "score": 0.931
+    },
+    {
+      "index": 207,
+      "word": "and",
+      "start": 90.455,
+      "end": 90.575,
+      "score": 0.991
+    },
+    {
+      "index": 208,
+      "word": "surveillance",
+      "start": 90.635,
+      "end": 91.295,
+      "score": 0.863
+    },
+    {
+      "index": 209,
+      "word": "of",
+      "start": 91.315,
+      "end": 91.395,
+      "score": 0.993
+    },
+    {
+      "index": 210,
+      "word": "convergence",
+      "start": 91.455,
+      "end": 92.115,
+      "score": 0.997
+    },
+    {
+      "index": 211,
+      "word": "of",
+      "start": 92.135,
+      "end": 92.195,
+      "score": 0.994
+    },
+    {
+      "index": 212,
+      "word": "economic",
+      "start": 92.255,
+      "end": 92.675,
+      "score": 0.999
+    },
+    {
+      "index": 213,
+      "word": "performance",
+      "start": 92.715,
+      "end": 93.336,
+      "score": 0.976
+    },
+    {
+      "index": 214,
+      "word": "toward",
+      "start": 93.376,
+      "end": 93.656,
+      "score": 0.98
+    },
+    {
+      "index": 215,
+      "word": "lower",
+      "start": 93.736,
+      "end": 93.976,
+      "score": 0.63
+    },
+    {
+      "index": 216,
+      "word": "inflation",
+      "start": 94.016,
+      "end": 94.596,
+      "score": 0.831
+    },
+    {
+      "index": 217,
+      "word": "and",
+      "start": 94.636,
+      "end": 94.736,
+      "score": 0.985
+    },
+    {
+      "index": 218,
+      "word": "higher",
+      "start": 94.796,
+      "end": 95.096,
+      "score": 0.95
+    },
+    {
+      "index": 219,
+      "word": "growth.",
+      "start": 95.176,
+      "end": 95.556,
+      "score": 0.79
+    },
+    {
+      "index": 220,
+      "word": "And",
+      "start": 96.436,
+      "end": 96.516,
+      "score": 0.954
+    },
+    {
+      "index": 221,
+      "word": "we",
+      "start": 96.536,
+      "end": 96.596,
+      "score": 0.706
+    },
+    {
+      "index": 222,
+      "word": "have",
+      "start": 96.596,
+      "end": 96.676,
+      "score": 0.609
+    },
+    {
+      "index": 223,
+      "word": "agreed",
+      "start": 96.716,
+      "end": 97.076,
+      "score": 0.982
+    },
+    {
+      "index": 224,
+      "word": "to",
+      "start": 97.116,
+      "end": 97.176,
+      "score": 0.99
+    },
+    {
+      "index": 225,
+      "word": "seek",
+      "start": 97.276,
+      "end": 97.476,
+      "score": 0.997
+    },
+    {
+      "index": 226,
+      "word": "to",
+      "start": 97.516,
+      "end": 97.576,
+      "score": 0.995
+    },
+    {
+      "index": 227,
+      "word": "improve",
+      "start": 97.636,
+      "end": 98.036,
+      "score": 0.996
+    },
+    {
+      "index": 228,
+      "word": "the",
+      "start": 98.036,
+      "end": 98.116,
+      "score": 0.99
+    },
+    {
+      "index": 229,
+      "word": "operation",
+      "start": 98.176,
+      "end": 98.736,
+      "score": 0.945
+    },
+    {
+      "index": 230,
+      "word": "and",
+      "start": 98.756,
+      "end": 98.856,
+      "score": 0.929
+    },
+    {
+      "index": 231,
+      "word": "stability",
+      "start": 98.896,
+      "end": 99.477,
+      "score": 0.961
+    },
+    {
+      "index": 232,
+      "word": "of",
+      "start": 99.517,
+      "end": 99.577,
+      "score": 0.971
+    },
+    {
+      "index": 233,
+      "word": "the",
+      "start": 99.577,
+      "end": 99.657,
+      "score": 0.937
+    },
+    {
+      "index": 234,
+      "word": "international",
+      "start": 99.697,
+      "end": 100.257,
+      "score": 0.899
+    },
+    {
+      "index": 235,
+      "word": "financial",
+      "start": 101.217,
+      "end": 101.777,
+      "score": 0.909
+    },
+    {
+      "index": 236,
+      "word": "system",
+      "start": 101.877,
+      "end": 102.317,
+      "score": 0.984
+    },
+    {
+      "index": 237,
+      "word": "by",
+      "start": 102.997,
+      "end": 103.137,
+      "score": 0.984
+    },
+    {
+      "index": 238,
+      "word": "means",
+      "start": 103.217,
+      "end": 103.477,
+      "score": 0.996
+    },
+    {
+      "index": 239,
+      "word": "of",
+      "start": 103.537,
+      "end": 103.597,
+      "score": 0.991
+    },
+    {
+      "index": 240,
+      "word": "prudent",
+      "start": 103.677,
+      "end": 104.037,
+      "score": 0.912
+    },
+    {
+      "index": 241,
+      "word": "policies",
+      "start": 104.097,
+      "end": 104.597,
+      "score": 0.991
+    },
+    {
+      "index": 242,
+      "word": "among",
+      "start": 104.657,
+      "end": 104.877,
+      "score": 0.944
+    },
+    {
+      "index": 243,
+      "word": "the",
+      "start": 104.917,
+      "end": 104.997,
+      "score": 0.988
+    },
+    {
+      "index": 244,
+      "word": "major",
+      "start": 105.038,
+      "end": 105.378,
+      "score": 0.965
+    },
+    {
+      "index": 245,
+      "word": "countries,",
+      "start": 105.418,
+      "end": 105.998,
+      "score": 0.982
+    },
+    {
+      "index": 246,
+      "word": "by",
+      "start": 106.518,
+      "end": 106.658,
+      "score": 0.995
+    },
+    {
+      "index": 247,
+      "word": "providing",
+      "start": 106.718,
+      "end": 107.238,
+      "score": 0.97
+    },
+    {
+      "index": 248,
+      "word": "an",
+      "start": 107.258,
+      "end": 107.318,
+      "score": 0.987
+    },
+    {
+      "index": 249,
+      "word": "adequate",
+      "start": 107.458,
+      "end": 107.918,
+      "score": 0.95
+    },
+    {
+      "index": 250,
+      "word": "flow",
+      "start": 107.938,
+      "end": 108.158,
+      "score": 0.992
+    },
+    {
+      "index": 251,
+      "word": "of",
+      "start": 108.218,
+      "end": 108.278,
+      "score": 0.976
+    },
+    {
+      "index": 252,
+      "word": "funding",
+      "start": 108.378,
+      "end": 108.838,
+      "score": 0.998
+    },
+    {
+      "index": 253,
+      "word": "to",
+      "start": 108.878,
+      "end": 108.938,
+      "score": 0.99
+    },
+    {
+      "index": 254,
+      "word": "the",
+      "start": 108.958,
+      "end": 109.038,
+      "score": 0.986
+    },
+    {
+      "index": 255,
+      "word": "international",
+      "start": 109.058,
+      "end": 109.658,
+      "score": 0.992
+    },
+    {
+      "index": 256,
+      "word": "financial",
+      "start": 109.678,
+      "end": 110.158,
+      "score": 0.94
+    },
+    {
+      "index": 257,
+      "word": "institutions",
+      "start": 110.198,
+      "end": 111.059,
+      "score": 0.982
+    },
+    {
+      "index": 258,
+      "word": "and",
+      "start": 111.679,
+      "end": 111.759,
+      "score": 0.977
+    },
+    {
+      "index": 259,
+      "word": "by",
+      "start": 111.799,
+      "end": 111.899,
+      "score": 0.982
+    },
+    {
+      "index": 260,
+      "word": "improving",
+      "start": 111.959,
+      "end": 112.459,
+      "score": 0.991
+    },
+    {
+      "index": 261,
+      "word": "international",
+      "start": 112.519,
+      "end": 113.119,
+      "score": 0.979
+    },
+    {
+      "index": 262,
+      "word": "access",
+      "start": 113.219,
+      "end": 113.619,
+      "score": 0.977
+    },
+    {
+      "index": 263,
+      "word": "to",
+      "start": 113.659,
+      "end": 113.719,
+      "score": 0.995
+    },
+    {
+      "index": 264,
+      "word": "capital",
+      "start": 113.839,
+      "end": 114.279,
+      "score": 0.988
+    },
+    {
+      "index": 265,
+      "word": "markets",
+      "start": 114.339,
+      "end": 114.859,
+      "score": 0.995
+    },
+    {
+      "index": 266,
+      "word": "in",
+      "start": 115.199,
+      "end": 115.259,
+      "score": 0.987
+    },
+    {
+      "index": 267,
+      "word": "industrialised",
+      "start": 115.319,
+      "end": 116.199,
+      "score": 0.876
+    },
+    {
+      "index": 268,
+      "word": "countries.",
+      "start": 116.239,
+      "end": 116.899,
+      "score": 0.952
+    }
+  ]
+}

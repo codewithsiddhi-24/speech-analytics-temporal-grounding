@@ -1,0 +1,2582 @@
+{
+  "file": "good_04.wav",
+  "duration": 180.008,
+  "words": [
+    {
+      "index": 0,
+      "word": "daughters,",
+      "start": 0.02,
+      "end": 0.58,
+      "score": 0.635
+    },
+    {
+      "index": 1,
+      "word": "learners,",
+      "start": 1.18,
+      "end": 1.8,
+      "score": 0.859
+    },
+    {
+      "index": 2,
+      "word": "workers,",
+      "start": 2.08,
+      "end": 2.78,
+      "score": 0.701
+    },
+    {
+      "index": 3,
+      "word": "citizens,",
+      "start": 3.34,
+      "end": 4.04,
+      "score": 0.776
+    },
+    {
+      "index": 4,
+      "word": "and",
+      "start": 4.26,
+      "end": 4.54,
+      "score": 0.817
+    },
+    {
+      "index": 5,
+      "word": "leaders.",
+      "start": 4.72,
+      "end": 5.22,
+      "score": 0.834
+    },
+    {
+      "index": 6,
+      "word": "It",
+      "start": 6.32,
+      "end": 6.38,
+      "score": 0.995
+    },
+    {
+      "index": 7,
+      "word": "is",
+      "start": 6.42,
+      "end": 6.52,
+      "score": 0.997
+    },
+    {
+      "index": 8,
+      "word": "also",
+      "start": 6.6,
+      "end": 6.9,
+      "score": 0.999
+    },
+    {
+      "index": 9,
+      "word": "a",
+      "start": 7.1,
+      "end": 7.12,
+      "score": 0.995
+    },
+    {
+      "index": 10,
+      "word": "coming",
+      "start": 7.24,
+      "end": 7.6,
+      "score": 0.999
+    },
+    {
+      "index": 11,
+      "word": "together,",
+      "start": 7.68,
+      "end": 8.22,
+      "score": 0.999
+    },
+    {
+      "index": 12,
+      "word": "much",
+      "start": 8.64,
+      "end": 8.86,
+      "score": 0.952
+    },
+    {
+      "index": 13,
+      "word": "the",
+      "start": 8.96,
+      "end": 9.04,
+      "score": 0.898
+    },
+    {
+      "index": 14,
+      "word": "way",
+      "start": 9.1,
+      "end": 9.32,
+      "score": 0.999
+    },
+    {
+      "index": 15,
+      "word": "women",
+      "start": 9.64,
+      "end": 9.96,
+      "score": 0.998
+    },
+    {
+      "index": 16,
+      "word": "come",
+      "start": 10.18,
+      "end": 10.4,
+      "score": 0.999
+    },
+    {
+      "index": 17,
+      "word": "together",
+      "start": 10.46,
+      "end": 10.96,
+      "score": 0.998
+    },
+    {
+      "index": 18,
+      "word": "every",
+      "start": 11.24,
+      "end": 11.52,
+      "score": 0.998
+    },
+    {
+      "index": 19,
+      "word": "day",
+      "start": 11.6,
+      "end": 11.901,
+      "score": 0.989
+    },
+    {
+      "index": 20,
+      "word": "in",
+      "start": 12.221,
+      "end": 12.321,
+      "score": 0.998
+    },
+    {
+      "index": 21,
+      "word": "every",
+      "start": 12.481,
+      "end": 12.761,
+      "score": 0.998
+    },
+    {
+      "index": 22,
+      "word": "country.",
+      "start": 12.901,
+      "end": 13.321,
+      "score": 0.985
+    },
+    {
+      "index": 23,
+      "word": "We",
+      "start": 14.401,
+      "end": 14.481,
+      "score": 0.999
+    },
+    {
+      "index": 24,
+      "word": "come",
+      "start": 14.561,
+      "end": 14.781,
+      "score": 0.999
+    },
+    {
+      "index": 25,
+      "word": "together",
+      "start": 14.821,
+      "end": 15.321,
+      "score": 0.968
+    },
+    {
+      "index": 26,
+      "word": "in",
+      "start": 15.541,
+      "end": 15.641,
+      "score": 0.998
+    },
+    {
+      "index": 27,
+      "word": "fields",
+      "start": 15.841,
+      "end": 16.441,
+      "score": 0.984
+    },
+    {
+      "index": 28,
+      "word": "and",
+      "start": 16.661,
+      "end": 16.781,
+      "score": 0.994
+    },
+    {
+      "index": 29,
+      "word": "factories,",
+      "start": 16.881,
+      "end": 17.561,
+      "score": 0.999
+    },
+    {
+      "index": 30,
+      "word": "in",
+      "start": 18.381,
+      "end": 18.461,
+      "score": 0.997
+    },
+    {
+      "index": 31,
+      "word": "village",
+      "start": 18.561,
+      "end": 18.941,
+      "score": 0.89
+    },
+    {
+      "index": 32,
+      "word": "markets",
+      "start": 19.001,
+      "end": 19.561,
+      "score": 0.964
+    },
+    {
+      "index": 33,
+      "word": "and",
+      "start": 19.821,
+      "end": 19.961,
+      "score": 0.996
+    },
+    {
+      "index": 34,
+      "word": "supermarkets,",
+      "start": 20.201,
+      "end": 21.101,
+      "score": 0.998
+    },
+    {
+      "index": 35,
+      "word": "in",
+      "start": 21.821,
+      "end": 21.901,
+      "score": 0.998
+    },
+    {
+      "index": 36,
+      "word": "living",
+      "start": 22.001,
+      "end": 22.321,
+      "score": 0.978
+    },
+    {
+      "index": 37,
+      "word": "rooms",
+      "start": 22.381,
+      "end": 22.921,
+      "score": 0.931
+    },
+    {
+      "index": 38,
+      "word": "and",
+      "start": 23.221,
+      "end": 23.441,
+      "score": 0.996
+    },
+    {
+      "index": 39,
+      "word": "board",
+      "start": 23.581,
+      "end": 23.961,
+      "score": 0.97
+    },
+    {
+      "index": 40,
+      "word": "rooms.",
+      "start": 24.081,
+      "end": 24.561,
+      "score": 0.998
+    },
+    {
+      "index": 41,
+      "word": "Whether",
+      "start": 25.381,
+      "end": 25.641,
+      "score": 0.937
+    },
+    {
+      "index": 42,
+      "word": "it",
+      "start": 25.681,
+      "end": 25.761,
+      "score": 0.998
+    },
+    {
+      "index": 43,
+      "word": "is",
+      "start": 25.841,
+      "end": 26.061,
+      "score": 0.998
+    },
+    {
+      "index": 44,
+      "word": "while",
+      "start": 26.181,
+      "end": 26.501,
+      "score": 0.984
+    },
+    {
+      "index": 45,
+      "word": "playing",
+      "start": 26.561,
+      "end": 27.021,
+      "score": 0.968
+    },
+    {
+      "index": 46,
+      "word": "with",
+      "start": 27.081,
+      "end": 27.241,
+      "score": 0.998
+    },
+    {
+      "index": 47,
+      "word": "our",
+      "start": 27.301,
+      "end": 27.461,
+      "score": 0.992
+    },
+    {
+      "index": 48,
+      "word": "children",
+      "start": 27.541,
+      "end": 28.081,
+      "score": 0.977
+    },
+    {
+      "index": 49,
+      "word": "in",
+      "start": 28.241,
+      "end": 28.321,
+      "score": 0.997
+    },
+    {
+      "index": 50,
+      "word": "the",
+      "start": 28.361,
+      "end": 28.461,
+      "score": 0.969
+    },
+    {
+      "index": 51,
+      "word": "park",
+      "start": 28.521,
+      "end": 28.921,
+      "score": 1.0
+    },
+    {
+      "index": 52,
+      "word": "or",
+      "start": 29.041,
+      "end": 29.121,
+      "score": 0.996
+    },
+    {
+      "index": 53,
+      "word": "washing",
+      "start": 29.221,
+      "end": 29.681,
+      "score": 0.961
+    },
+    {
+      "index": 54,
+      "word": "clothes",
+      "start": 29.761,
+      "end": 30.361,
+      "score": 0.729
+    },
+    {
+      "index": 55,
+      "word": "in",
+      "start": 30.481,
+      "end": 30.561,
+      "score": 0.996
+    },
+    {
+      "index": 56,
+      "word": "a",
+      "start": 30.601,
+      "end": 30.621,
+      "score": 0.995
+    },
+    {
+      "index": 57,
+      "word": "river,",
+      "start": 30.761,
+      "end": 31.061,
+      "score": 0.997
+    },
+    {
+      "index": 58,
+      "word": "or",
+      "start": 31.881,
+      "end": 31.961,
+      "score": 0.996
+    },
+    {
+      "index": 59,
+      "word": "taking",
+      "start": 32.021,
+      "end": 32.481,
+      "score": 0.999
+    },
+    {
+      "index": 60,
+      "word": "a",
+      "start": 32.621,
+      "end": 32.641,
+      "score": 0.998
+    },
+    {
+      "index": 61,
+      "word": "break",
+      "start": 32.781,
+      "end": 33.161,
+      "score": 0.852
+    },
+    {
+      "index": 62,
+      "word": "at",
+      "start": 33.521,
+      "end": 33.601,
+      "score": 0.998
+    },
+    {
+      "index": 63,
+      "word": "the",
+      "start": 33.661,
+      "end": 33.761,
+      "score": 0.982
+    },
+    {
+      "index": 64,
+      "word": "office",
+      "start": 33.901,
+      "end": 34.281,
+      "score": 0.964
+    },
+    {
+      "index": 65,
+      "word": "water",
+      "start": 34.361,
+      "end": 34.661,
+      "score": 0.999
+    },
+    {
+      "index": 66,
+      "word": "cooler,",
+      "start": 34.741,
+      "end": 35.121,
+      "score": 0.967
+    },
+    {
+      "index": 67,
+      "word": "we",
+      "start": 35.882,
+      "end": 35.962,
+      "score": 0.999
+    },
+    {
+      "index": 68,
+      "word": "come",
+      "start": 36.082,
+      "end": 36.362,
+      "score": 1.0
+    },
+    {
+      "index": 69,
+      "word": "together",
+      "start": 36.442,
+      "end": 36.962,
+      "score": 0.994
+    },
+    {
+      "index": 70,
+      "word": "and",
+      "start": 37.142,
+      "end": 37.262,
+      "score": 0.997
+    },
+    {
+      "index": 71,
+      "word": "talk",
+      "start": 37.362,
+      "end": 37.722,
+      "score": 0.97
+    },
+    {
+      "index": 72,
+      "word": "about",
+      "start": 37.802,
+      "end": 38.142,
+      "score": 0.998
+    },
+    {
+      "index": 73,
+      "word": "our",
+      "start": 38.322,
+      "end": 38.522,
+      "score": 0.985
+    },
+    {
+      "index": 74,
+      "word": "aspirations",
+      "start": 38.702,
+      "end": 39.782,
+      "score": 0.98
+    },
+    {
+      "index": 75,
+      "word": "and",
+      "start": 40.022,
+      "end": 40.262,
+      "score": 0.994
+    },
+    {
+      "index": 76,
+      "word": "concerns.",
+      "start": 40.402,
+      "end": 41.242,
+      "score": 0.969
+    },
+    {
+      "index": 77,
+      "word": "And",
+      "start": 42.002,
+      "end": 42.122,
+      "score": 0.996
+    },
+    {
+      "index": 78,
+      "word": "time",
+      "start": 42.202,
+      "end": 42.562,
+      "score": 0.979
+    },
+    {
+      "index": 79,
+      "word": "and",
+      "start": 42.582,
+      "end": 42.662,
+      "score": 0.761
+    },
+    {
+      "index": 80,
+      "word": "again,",
+      "start": 42.682,
+      "end": 43.082,
+      "score": 0.99
+    },
+    {
+      "index": 81,
+      "word": "our",
+      "start": 43.422,
+      "end": 43.562,
+      "score": 0.996
+    },
+    {
+      "index": 82,
+      "word": "talk",
+      "start": 43.682,
+      "end": 44.022,
+      "score": 0.997
+    },
+    {
+      "index": 83,
+      "word": "turns",
+      "start": 44.122,
+      "end": 44.702,
+      "score": 0.928
+    },
+    {
+      "index": 84,
+      "word": "to",
+      "start": 44.902,
+      "end": 44.982,
+      "score": 0.997
+    },
+    {
+      "index": 85,
+      "word": "our",
+      "start": 45.082,
+      "end": 45.202,
+      "score": 0.975
+    },
+    {
+      "index": 86,
+      "word": "children",
+      "start": 45.282,
+      "end": 45.762,
+      "score": 0.999
+    },
+    {
+      "index": 87,
+      "word": "and",
+      "start": 46.062,
+      "end": 46.182,
+      "score": 0.978
+    },
+    {
+      "index": 88,
+      "word": "our",
+      "start": 46.242,
+      "end": 46.362,
+      "score": 0.97
+    },
+    {
+      "index": 89,
+      "word": "families.",
+      "start": 46.422,
+      "end": 47.022,
+      "score": 0.996
+    },
+    {
+      "index": 90,
+      "word": "However",
+      "start": 48.302,
+      "end": 48.722,
+      "score": 0.999
+    },
+    {
+      "index": 91,
+      "word": "different",
+      "start": 48.822,
+      "end": 49.302,
+      "score": 0.994
+    },
+    {
+      "index": 92,
+      "word": "we",
+      "start": 49.442,
+      "end": 49.522,
+      "score": 0.998
+    },
+    {
+      "index": 93,
+      "word": "may",
+      "start": 49.602,
+      "end": 49.742,
+      "score": 0.999
+    },
+    {
+      "index": 94,
+      "word": "appear,",
+      "start": 49.802,
+      "end": 50.282,
+      "score": 0.982
+    },
+    {
+      "index": 95,
+      "word": "there",
+      "start": 51.102,
+      "end": 51.282,
+      "score": 0.997
+    },
+    {
+      "index": 96,
+      "word": "is",
+      "start": 51.322,
+      "end": 51.442,
+      "score": 0.994
+    },
+    {
+      "index": 97,
+      "word": "far",
+      "start": 51.702,
+      "end": 51.962,
+      "score": 0.998
+    },
+    {
+      "index": 98,
+      "word": "more",
+      "start": 52.062,
+      "end": 52.402,
+      "score": 0.962
+    },
+    {
+      "index": 99,
+      "word": "that",
+      "start": 52.682,
+      "end": 52.842,
+      "score": 0.972
+    },
+    {
+      "index": 100,
+      "word": "unites",
+      "start": 52.982,
+      "end": 53.442,
+      "score": 0.982
+    },
+    {
+      "index": 101,
+      "word": "us",
+      "start": 53.542,
+      "end": 53.742,
+      "score": 0.997
+    },
+    {
+      "index": 102,
+      "word": "then",
+      "start": 54.082,
+      "end": 54.242,
+      "score": 0.793
+    },
+    {
+      "index": 103,
+      "word": "divides",
+      "start": 54.322,
+      "end": 54.822,
+      "score": 0.99
+    },
+    {
+      "index": 104,
+      "word": "us.",
+      "start": 54.902,
+      "end": 55.102,
+      "score": 0.998
+    },
+    {
+      "index": 105,
+      "word": "We",
+      "start": 55.902,
+      "end": 56.022,
+      "score": 0.998
+    },
+    {
+      "index": 106,
+      "word": "share",
+      "start": 56.422,
+      "end": 56.882,
+      "score": 0.883
+    },
+    {
+      "index": 107,
+      "word": "a",
+      "start": 57.082,
+      "end": 57.102,
+      "score": 0.997
+    },
+    {
+      "index": 108,
+      "word": "common",
+      "start": 57.242,
+      "end": 57.662,
+      "score": 0.999
+    },
+    {
+      "index": 109,
+      "word": "future,",
+      "start": 57.842,
+      "end": 58.382,
+      "score": 0.999
+    },
+    {
+      "index": 110,
+      "word": "and",
+      "start": 58.942,
+      "end": 59.063,
+      "score": 0.997
+    },
+    {
+      "index": 111,
+      "word": "we",
+      "start": 59.103,
+      "end": 59.183,
+      "score": 0.997
+    },
+    {
+      "index": 112,
+      "word": "are",
+      "start": 59.263,
+      "end": 59.423,
+      "score": 0.951
+    },
+    {
+      "index": 113,
+      "word": "here",
+      "start": 59.503,
+      "end": 59.863,
+      "score": 0.886
+    },
+    {
+      "index": 114,
+      "word": "to",
+      "start": 59.983,
+      "end": 60.083,
+      "score": 0.997
+    },
+    {
+      "index": 115,
+      "word": "find",
+      "start": 60.243,
+      "end": 60.723,
+      "score": 0.997
+    },
+    {
+      "index": 116,
+      "word": "common",
+      "start": 60.863,
+      "end": 61.323,
+      "score": 0.994
+    },
+    {
+      "index": 117,
+      "word": "ground",
+      "start": 61.543,
+      "end": 62.223,
+      "score": 0.966
+    },
+    {
+      "index": 118,
+      "word": "so",
+      "start": 62.683,
+      "end": 62.763,
+      "score": 0.999
+    },
+    {
+      "index": 119,
+      "word": "that",
+      "start": 62.803,
+      "end": 62.943,
+      "score": 0.969
+    },
+    {
+      "index": 120,
+      "word": "we",
+      "start": 63.043,
+      "end": 63.143,
+      "score": 0.999
+    },
+    {
+      "index": 121,
+      "word": "may",
+      "start": 63.303,
+      "end": 63.483,
+      "score": 0.999
+    },
+    {
+      "index": 122,
+      "word": "help",
+      "start": 63.643,
+      "end": 63.943,
+      "score": 0.998
+    },
+    {
+      "index": 123,
+      "word": "bring",
+      "start": 64.103,
+      "end": 64.443,
+      "score": 0.997
+    },
+    {
+      "index": 124,
+      "word": "new",
+      "start": 64.563,
+      "end": 64.703,
+      "score": 0.999
+    },
+    {
+      "index": 125,
+      "word": "dignity",
+      "start": 64.843,
+      "end": 65.383,
+      "score": 1.0
+    },
+    {
+      "index": 126,
+      "word": "and",
+      "start": 65.723,
+      "end": 65.883,
+      "score": 0.986
+    },
+    {
+      "index": 127,
+      "word": "respect",
+      "start": 65.983,
+      "end": 66.643,
+      "score": 0.998
+    },
+    {
+      "index": 128,
+      "word": "to",
+      "start": 67.163,
+      "end": 67.243,
+      "score": 0.998
+    },
+    {
+      "index": 129,
+      "word": "women",
+      "start": 67.363,
+      "end": 67.703,
+      "score": 0.996
+    },
+    {
+      "index": 130,
+      "word": "and",
+      "start": 67.923,
+      "end": 68.083,
+      "score": 0.995
+    },
+    {
+      "index": 131,
+      "word": "girls",
+      "start": 68.163,
+      "end": 68.663,
+      "score": 0.961
+    },
+    {
+      "index": 132,
+      "word": "all",
+      "start": 68.883,
+      "end": 69.063,
+      "score": 0.986
+    },
+    {
+      "index": 133,
+      "word": "over",
+      "start": 69.163,
+      "end": 69.383,
+      "score": 0.937
+    },
+    {
+      "index": 134,
+      "word": "the",
+      "start": 69.423,
+      "end": 69.503,
+      "score": 0.998
+    },
+    {
+      "index": 135,
+      "word": "world,",
+      "start": 69.563,
+      "end": 70.003,
+      "score": 0.995
+    },
+    {
+      "index": 136,
+      "word": "and",
+      "start": 70.883,
+      "end": 71.023,
+      "score": 0.999
+    },
+    {
+      "index": 137,
+      "word": "in",
+      "start": 71.063,
+      "end": 71.163,
+      "score": 0.995
+    },
+    {
+      "index": 138,
+      "word": "so",
+      "start": 71.303,
+      "end": 71.423,
+      "score": 0.999
+    },
+    {
+      "index": 139,
+      "word": "doing,",
+      "start": 71.623,
+      "end": 72.003,
+      "score": 0.973
+    },
+    {
+      "index": 140,
+      "word": "bring",
+      "start": 72.403,
+      "end": 72.663,
+      "score": 0.99
+    },
+    {
+      "index": 141,
+      "word": "new",
+      "start": 72.843,
+      "end": 73.023,
+      "score": 0.874
+    },
+    {
+      "index": 142,
+      "word": "strength",
+      "start": 73.163,
+      "end": 73.703,
+      "score": 0.939
+    },
+    {
+      "index": 143,
+      "word": "and",
+      "start": 73.843,
+      "end": 73.963,
+      "score": 0.996
+    },
+    {
+      "index": 144,
+      "word": "stability",
+      "start": 74.063,
+      "end": 74.643,
+      "score": 0.97
+    },
+    {
+      "index": 145,
+      "word": "to",
+      "start": 74.843,
+      "end": 74.963,
+      "score": 0.996
+    },
+    {
+      "index": 146,
+      "word": "families",
+      "start": 75.123,
+      "end": 75.803,
+      "score": 0.98
+    },
+    {
+      "index": 147,
+      "word": "as",
+      "start": 76.103,
+      "end": 76.243,
+      "score": 0.998
+    },
+    {
+      "index": 148,
+      "word": "well.",
+      "start": 76.343,
+      "end": 76.643,
+      "score": 0.97
+    },
+    {
+      "index": 149,
+      "word": "By",
+      "start": 77.823,
+      "end": 77.963,
+      "score": 0.999
+    },
+    {
+      "index": 150,
+      "word": "gathering",
+      "start": 78.043,
+      "end": 78.603,
+      "score": 0.973
+    },
+    {
+      "index": 151,
+      "word": "in",
+      "start": 78.703,
+      "end": 78.783,
+      "score": 0.994
+    },
+    {
+      "index": 152,
+      "word": "Beijing,",
+      "start": 78.863,
+      "end": 79.463,
+      "score": 0.668
+    },
+    {
+      "index": 153,
+      "word": "we",
+      "start": 79.583,
+      "end": 79.643,
+      "score": 0.998
+    },
+    {
+      "index": 154,
+      "word": "are",
+      "start": 79.723,
+      "end": 79.863,
+      "score": 0.954
+    },
+    {
+      "index": 155,
+      "word": "focusing",
+      "start": 79.923,
+      "end": 80.523,
+      "score": 0.996
+    },
+    {
+      "index": 156,
+      "word": "world",
+      "start": 80.643,
+      "end": 81.023,
+      "score": 0.978
+    },
+    {
+      "index": 157,
+      "word": "attention",
+      "start": 81.063,
+      "end": 81.663,
+      "score": 0.981
+    },
+    {
+      "index": 158,
+      "word": "on",
+      "start": 81.823,
+      "end": 81.923,
+      "score": 0.999
+    },
+    {
+      "index": 159,
+      "word": "issues",
+      "start": 82.083,
+      "end": 82.523,
+      "score": 0.999
+    },
+    {
+      "index": 160,
+      "word": "that",
+      "start": 82.583,
+      "end": 82.724,
+      "score": 0.94
+    },
+    {
+      "index": 161,
+      "word": "matter",
+      "start": 82.784,
+      "end": 83.064,
+      "score": 0.934
+    },
+    {
+      "index": 162,
+      "word": "most",
+      "start": 83.164,
+      "end": 83.544,
+      "score": 0.911
+    },
+    {
+      "index": 163,
+      "word": "in",
+      "start": 83.604,
+      "end": 83.684,
+      "score": 0.998
+    },
+    {
+      "index": 164,
+      "word": "our",
+      "start": 83.744,
+      "end": 83.904,
+      "score": 0.982
+    },
+    {
+      "index": 165,
+      "word": "lives,",
+      "start": 84.004,
+      "end": 84.544,
+      "score": 0.998
+    },
+    {
+      "index": 166,
+      "word": "the",
+      "start": 84.644,
+      "end": 84.724,
+      "score": 0.997
+    },
+    {
+      "index": 167,
+      "word": "lives",
+      "start": 84.784,
+      "end": 85.224,
+      "score": 0.999
+    },
+    {
+      "index": 168,
+      "word": "of",
+      "start": 85.284,
+      "end": 85.364,
+      "score": 0.998
+    },
+    {
+      "index": 169,
+      "word": "women",
+      "start": 85.444,
+      "end": 85.744,
+      "score": 0.996
+    },
+    {
+      "index": 170,
+      "word": "and",
+      "start": 85.944,
+      "end": 86.064,
+      "score": 0.995
+    },
+    {
+      "index": 171,
+      "word": "their",
+      "start": 86.084,
+      "end": 86.224,
+      "score": 0.958
+    },
+    {
+      "index": 172,
+      "word": "families,",
+      "start": 86.304,
+      "end": 86.864,
+      "score": 0.998
+    },
+    {
+      "index": 173,
+      "word": "access",
+      "start": 87.644,
+      "end": 88.144,
+      "score": 0.999
+    },
+    {
+      "index": 174,
+      "word": "to",
+      "start": 88.244,
+      "end": 88.324,
+      "score": 0.997
+    },
+    {
+      "index": 175,
+      "word": "education,",
+      "start": 88.424,
+      "end": 89.124,
+      "score": 0.998
+    },
+    {
+      "index": 176,
+      "word": "health",
+      "start": 89.564,
+      "end": 89.884,
+      "score": 0.891
+    },
+    {
+      "index": 177,
+      "word": "care,",
+      "start": 89.964,
+      "end": 90.304,
+      "score": 0.808
+    },
+    {
+      "index": 178,
+      "word": "jobs,",
+      "start": 90.484,
+      "end": 90.984,
+      "score": 0.999
+    },
+    {
+      "index": 179,
+      "word": "and",
+      "start": 91.084,
+      "end": 91.204,
+      "score": 0.997
+    },
+    {
+      "index": 180,
+      "word": "credit,",
+      "start": 91.264,
+      "end": 91.664,
+      "score": 1.0
+    },
+    {
+      "index": 181,
+      "word": "the",
+      "start": 92.284,
+      "end": 92.364,
+      "score": 0.998
+    },
+    {
+      "index": 182,
+      "word": "chance",
+      "start": 92.444,
+      "end": 92.844,
+      "score": 0.957
+    },
+    {
+      "index": 183,
+      "word": "to",
+      "start": 92.884,
+      "end": 92.944,
+      "score": 0.998
+    },
+    {
+      "index": 184,
+      "word": "enjoy",
+      "start": 93.024,
+      "end": 93.444,
+      "score": 0.999
+    },
+    {
+      "index": 185,
+      "word": "basic",
+      "start": 93.604,
+      "end": 94.044,
+      "score": 0.998
+    },
+    {
+      "index": 186,
+      "word": "legal",
+      "start": 94.224,
+      "end": 94.664,
+      "score": 0.999
+    },
+    {
+      "index": 187,
+      "word": "and",
+      "start": 94.924,
+      "end": 95.164,
+      "score": 0.838
+    },
+    {
+      "index": 188,
+      "word": "human",
+      "start": 95.264,
+      "end": 95.604,
+      "score": 0.969
+    },
+    {
+      "index": 189,
+      "word": "rights,",
+      "start": 95.724,
+      "end": 96.184,
+      "score": 0.926
+    },
+    {
+      "index": 190,
+      "word": "and",
+      "start": 96.684,
+      "end": 96.784,
+      "score": 0.997
+    },
+    {
+      "index": 191,
+      "word": "to",
+      "start": 96.824,
+      "end": 96.864,
+      "score": 0.997
+    },
+    {
+      "index": 192,
+      "word": "participate",
+      "start": 96.924,
+      "end": 97.764,
+      "score": 0.997
+    },
+    {
+      "index": 193,
+      "word": "fully",
+      "start": 97.884,
+      "end": 98.224,
+      "score": 0.915
+    },
+    {
+      "index": 194,
+      "word": "in",
+      "start": 98.744,
+      "end": 98.804,
+      "score": 0.999
+    },
+    {
+      "index": 195,
+      "word": "the",
+      "start": 98.824,
+      "end": 98.924,
+      "score": 0.926
+    },
+    {
+      "index": 196,
+      "word": "political",
+      "start": 98.984,
+      "end": 99.544,
+      "score": 0.994
+    },
+    {
+      "index": 197,
+      "word": "life",
+      "start": 99.684,
+      "end": 100.044,
+      "score": 0.983
+    },
+    {
+      "index": 198,
+      "word": "of",
+      "start": 100.184,
+      "end": 100.264,
+      "score": 0.995
+    },
+    {
+      "index": 199,
+      "word": "our",
+      "start": 100.324,
+      "end": 100.444,
+      "score": 0.996
+    },
+    {
+      "index": 200,
+      "word": "countries.",
+      "start": 100.504,
+      "end": 101.124,
+      "score": 0.966
+    },
+    {
+      "index": 201,
+      "word": "There",
+      "start": 102.424,
+      "end": 102.624,
+      "score": 0.99
+    },
+    {
+      "index": 202,
+      "word": "are",
+      "start": 102.724,
+      "end": 102.904,
+      "score": 0.945
+    },
+    {
+      "index": 203,
+      "word": "some",
+      "start": 103.004,
+      "end": 103.284,
+      "score": 0.994
+    },
+    {
+      "index": 204,
+      "word": "who",
+      "start": 103.324,
+      "end": 103.404,
+      "score": 0.995
+    },
+    {
+      "index": 205,
+      "word": "question",
+      "start": 103.504,
+      "end": 104.044,
+      "score": 0.977
+    },
+    {
+      "index": 206,
+      "word": "the",
+      "start": 104.084,
+      "end": 104.164,
+      "score": 0.97
+    },
+    {
+      "index": 207,
+      "word": "reason",
+      "start": 104.224,
+      "end": 104.584,
+      "score": 0.985
+    },
+    {
+      "index": 208,
+      "word": "for",
+      "start": 104.664,
+      "end": 104.764,
+      "score": 0.998
+    },
+    {
+      "index": 209,
+      "word": "this",
+      "start": 104.784,
+      "end": 104.924,
+      "score": 0.997
+    },
+    {
+      "index": 210,
+      "word": "conference.",
+      "start": 105.004,
+      "end": 105.724,
+      "score": 0.857
+    },
+    {
+      "index": 211,
+      "word": "Let",
+      "start": 106.465,
+      "end": 106.645,
+      "score": 0.999
+    },
+    {
+      "index": 212,
+      "word": "them",
+      "start": 106.745,
+      "end": 106.965,
+      "score": 0.942
+    },
+    {
+      "index": 213,
+      "word": "listen",
+      "start": 107.225,
+      "end": 107.605,
+      "score": 0.829
+    },
+    {
+      "index": 214,
+      "word": "to",
+      "start": 107.665,
+      "end": 107.725,
+      "score": 0.997
+    },
+    {
+      "index": 215,
+      "word": "the",
+      "start": 107.765,
+      "end": 107.845,
+      "score": 0.98
+    },
+    {
+      "index": 216,
+      "word": "voices",
+      "start": 107.885,
+      "end": 108.505,
+      "score": 0.999
+    },
+    {
+      "index": 217,
+      "word": "of",
+      "start": 108.645,
+      "end": 108.745,
+      "score": 0.999
+    },
+    {
+      "index": 218,
+      "word": "women",
+      "start": 108.845,
+      "end": 109.205,
+      "score": 0.998
+    },
+    {
+      "index": 219,
+      "word": "in",
+      "start": 109.345,
+      "end": 109.425,
+      "score": 0.999
+    },
+    {
+      "index": 220,
+      "word": "their",
+      "start": 109.465,
+      "end": 109.605,
+      "score": 0.994
+    },
+    {
+      "index": 221,
+      "word": "homes,",
+      "start": 109.725,
+      "end": 110.185,
+      "score": 0.997
+    },
+    {
+      "index": 222,
+      "word": "neighborhoods,",
+      "start": 110.305,
+      "end": 111.005,
+      "score": 0.962
+    },
+    {
+      "index": 223,
+      "word": "and",
+      "start": 111.145,
+      "end": 111.265,
+      "score": 0.998
+    },
+    {
+      "index": 224,
+      "word": "workplaces.",
+      "start": 111.365,
+      "end": 112.225,
+      "score": 0.999
+    },
+    {
+      "index": 225,
+      "word": "There",
+      "start": 112.985,
+      "end": 113.205,
+      "score": 0.96
+    },
+    {
+      "index": 226,
+      "word": "are",
+      "start": 113.305,
+      "end": 113.465,
+      "score": 0.998
+    },
+    {
+      "index": 227,
+      "word": "some",
+      "start": 113.585,
+      "end": 113.925,
+      "score": 0.995
+    },
+    {
+      "index": 228,
+      "word": "who",
+      "start": 114.025,
+      "end": 114.125,
+      "score": 0.943
+    },
+    {
+      "index": 229,
+      "word": "wonder",
+      "start": 114.265,
+      "end": 114.685,
+      "score": 1.0
+    },
+    {
+      "index": 230,
+      "word": "whether",
+      "start": 114.805,
+      "end": 115.085,
+      "score": 0.983
+    },
+    {
+      "index": 231,
+      "word": "the",
+      "start": 115.145,
+      "end": 115.245,
+      "score": 0.963
+    },
+    {
+      "index": 232,
+      "word": "lives",
+      "start": 115.325,
+      "end": 115.785,
+      "score": 0.998
+    },
+    {
+      "index": 233,
+      "word": "of",
+      "start": 115.825,
+      "end": 115.905,
+      "score": 0.998
+    },
+    {
+      "index": 234,
+      "word": "women",
+      "start": 116.025,
+      "end": 116.345,
+      "score": 0.997
+    },
+    {
+      "index": 235,
+      "word": "and",
+      "start": 116.445,
+      "end": 116.565,
+      "score": 0.899
+    },
+    {
+      "index": 236,
+      "word": "girls",
+      "start": 116.625,
+      "end": 117.005,
+      "score": 0.986
+    },
+    {
+      "index": 237,
+      "word": "matter",
+      "start": 117.125,
+      "end": 117.525,
+      "score": 0.982
+    },
+    {
+      "index": 238,
+      "word": "to",
+      "start": 118.065,
+      "end": 118.145,
+      "score": 0.998
+    },
+    {
+      "index": 239,
+      "word": "economic",
+      "start": 118.265,
+      "end": 118.865,
+      "score": 1.0
+    },
+    {
+      "index": 240,
+      "word": "and",
+      "start": 118.945,
+      "end": 119.045,
+      "score": 0.983
+    },
+    {
+      "index": 241,
+      "word": "political",
+      "start": 119.125,
+      "end": 119.705,
+      "score": 0.99
+    },
+    {
+      "index": 242,
+      "word": "progress",
+      "start": 119.785,
+      "end": 120.385,
+      "score": 1.0
+    },
+    {
+      "index": 243,
+      "word": "around",
+      "start": 120.485,
+      "end": 120.825,
+      "score": 0.949
+    },
+    {
+      "index": 244,
+      "word": "the",
+      "start": 120.865,
+      "end": 120.965,
+      "score": 0.892
+    },
+    {
+      "index": 245,
+      "word": "globe.",
+      "start": 120.985,
+      "end": 121.465,
+      "score": 0.92
+    },
+    {
+      "index": 246,
+      "word": "Let",
+      "start": 122.305,
+      "end": 122.505,
+      "score": 0.999
+    },
+    {
+      "index": 247,
+      "word": "them",
+      "start": 122.625,
+      "end": 122.865,
+      "score": 0.999
+    },
+    {
+      "index": 248,
+      "word": "look",
+      "start": 123.085,
+      "end": 123.385,
+      "score": 0.999
+    },
+    {
+      "index": 249,
+      "word": "at",
+      "start": 123.705,
+      "end": 123.785,
+      "score": 0.998
+    },
+    {
+      "index": 250,
+      "word": "the",
+      "start": 123.825,
+      "end": 123.905,
+      "score": 0.996
+    },
+    {
+      "index": 251,
+      "word": "women",
+      "start": 123.965,
+      "end": 124.245,
+      "score": 0.998
+    },
+    {
+      "index": 252,
+      "word": "gathered",
+      "start": 124.365,
+      "end": 124.825,
+      "score": 0.955
+    },
+    {
+      "index": 253,
+      "word": "here",
+      "start": 124.905,
+      "end": 125.265,
+      "score": 0.886
+    },
+    {
+      "index": 254,
+      "word": "and",
+      "start": 125.405,
+      "end": 125.525,
+      "score": 0.99
+    },
+    {
+      "index": 255,
+      "word": "at",
+      "start": 125.545,
+      "end": 125.645,
+      "score": 0.977
+    },
+    {
+      "index": 256,
+      "word": "WYRO,",
+      "start": 125.725,
+      "end": 126.105,
+      "score": 0.737
+    },
+    {
+      "index": 257,
+      "word": "the",
+      "start": 126.865,
+      "end": 126.945,
+      "score": 0.998
+    },
+    {
+      "index": 258,
+      "word": "homemakers",
+      "start": 127.025,
+      "end": 127.685,
+      "score": 0.955
+    },
+    {
+      "index": 259,
+      "word": "and",
+      "start": 127.745,
+      "end": 127.845,
+      "score": 0.966
+    },
+    {
+      "index": 260,
+      "word": "nurses,",
+      "start": 127.885,
+      "end": 128.365,
+      "score": 0.714
+    },
+    {
+      "index": 261,
+      "word": "the",
+      "start": 128.425,
+      "end": 128.485,
+      "score": 0.701
+    },
+    {
+      "index": 262,
+      "word": "teachers",
+      "start": 128.605,
+      "end": 129.085,
+      "score": 0.975
+    },
+    {
+      "index": 263,
+      "word": "and",
+      "start": 129.125,
+      "end": 129.245,
+      "score": 0.993
+    },
+    {
+      "index": 264,
+      "word": "lawyers,",
+      "start": 129.305,
+      "end": 129.785,
+      "score": 0.731
+    },
+    {
+      "index": 265,
+      "word": "the",
+      "start": 129.846,
+      "end": 129.926,
+      "score": 0.998
+    },
+    {
+      "index": 266,
+      "word": "policymakers,",
+      "start": 129.986,
+      "end": 131.066,
+      "score": 0.999
+    },
+    {
+      "index": 267,
+      "word": "and",
+      "start": 131.506,
+      "end": 131.626,
+      "score": 0.994
+    },
+    {
+      "index": 268,
+      "word": "women",
+      "start": 131.686,
+      "end": 131.986,
+      "score": 0.999
+    },
+    {
+      "index": 269,
+      "word": "who",
+      "start": 132.046,
+      "end": 132.146,
+      "score": 0.995
+    },
+    {
+      "index": 270,
+      "word": "run",
+      "start": 132.266,
+      "end": 132.546,
+      "score": 0.999
+    },
+    {
+      "index": 271,
+      "word": "their",
+      "start": 132.646,
+      "end": 132.786,
+      "score": 0.956
+    },
+    {
+      "index": 272,
+      "word": "own",
+      "start": 132.866,
+      "end": 132.986,
+      "score": 0.998
+    },
+    {
+      "index": 273,
+      "word": "businesses.",
+      "start": 133.046,
+      "end": 133.726,
+      "score": 0.988
+    },
+    {
+      "index": 274,
+      "word": "It",
+      "start": 135.166,
+      "end": 135.246,
+      "score": 0.996
+    },
+    {
+      "index": 275,
+      "word": "is",
+      "start": 135.306,
+      "end": 135.446,
+      "score": 0.998
+    },
+    {
+      "index": 276,
+      "word": "conferences",
+      "start": 135.526,
+      "end": 136.286,
+      "score": 0.953
+    },
+    {
+      "index": 277,
+      "word": "like",
+      "start": 136.386,
+      "end": 136.646,
+      "score": 0.991
+    },
+    {
+      "index": 278,
+      "word": "this",
+      "start": 136.686,
+      "end": 137.006,
+      "score": 0.998
+    },
+    {
+      "index": 279,
+      "word": "that",
+      "start": 137.686,
+      "end": 137.846,
+      "score": 0.928
+    },
+    {
+      "index": 280,
+      "word": "compel",
+      "start": 137.906,
+      "end": 138.366,
+      "score": 0.995
+    },
+    {
+      "index": 281,
+      "word": "governments",
+      "start": 138.546,
+      "end": 139.106,
+      "score": 0.995
+    },
+    {
+      "index": 282,
+      "word": "and",
+      "start": 139.286,
+      "end": 139.486,
+      "score": 0.995
+    },
+    {
+      "index": 283,
+      "word": "peoples",
+      "start": 139.606,
+      "end": 140.106,
+      "score": 0.986
+    },
+    {
+      "index": 284,
+      "word": "everywhere",
+      "start": 140.226,
+      "end": 140.866,
+      "score": 0.955
+    },
+    {
+      "index": 285,
+      "word": "to",
+      "start": 141.426,
+      "end": 141.526,
+      "score": 0.998
+    },
+    {
+      "index": 286,
+      "word": "listen,",
+      "start": 141.726,
+      "end": 142.146,
+      "score": 0.814
+    },
+    {
+      "index": 287,
+      "word": "look,",
+      "start": 142.826,
+      "end": 143.106,
+      "score": 0.979
+    },
+    {
+      "index": 288,
+      "word": "and",
+      "start": 143.786,
+      "end": 143.986,
+      "score": 0.995
+    },
+    {
+      "index": 289,
+      "word": "face",
+      "start": 144.186,
+      "end": 144.646,
+      "score": 0.995
+    },
+    {
+      "index": 290,
+      "word": "the",
+      "start": 144.966,
+      "end": 145.046,
+      "score": 0.997
+    },
+    {
+      "index": 291,
+      "word": "world's",
+      "start": 145.086,
+      "end": 145.526,
+      "score": 0.896
+    },
+    {
+      "index": 292,
+      "word": "most",
+      "start": 145.606,
+      "end": 145.866,
+      "score": 0.996
+    },
+    {
+      "index": 293,
+      "word": "pressing",
+      "start": 145.946,
+      "end": 146.406,
+      "score": 0.998
+    },
+    {
+      "index": 294,
+      "word": "problems.",
+      "start": 146.506,
+      "end": 147.146,
+      "score": 0.997
+    },
+    {
+      "index": 295,
+      "word": "Wasn't",
+      "start": 148.026,
+      "end": 148.386,
+      "score": 0.82
+    },
+    {
+      "index": 296,
+      "word": "it,",
+      "start": 148.446,
+      "end": 148.586,
+      "score": 0.996
+    },
+    {
+      "index": 297,
+      "word": "after",
+      "start": 148.686,
+      "end": 148.986,
+      "score": 0.999
+    },
+    {
+      "index": 298,
+      "word": "all,",
+      "start": 149.086,
+      "end": 149.286,
+      "score": 0.998
+    },
+    {
+      "index": 299,
+      "word": "after",
+      "start": 149.426,
+      "end": 149.706,
+      "score": 0.999
+    },
+    {
+      "index": 300,
+      "word": "the",
+      "start": 149.746,
+      "end": 149.846,
+      "score": 0.892
+    },
+    {
+      "index": 301,
+      "word": "women's",
+      "start": 149.886,
+      "end": 150.206,
+      "score": 0.937
+    },
+    {
+      "index": 302,
+      "word": "conference",
+      "start": 150.286,
+      "end": 150.826,
+      "score": 0.956
+    },
+    {
+      "index": 303,
+      "word": "in",
+      "start": 150.846,
+      "end": 150.926,
+      "score": 0.816
+    },
+    {
+      "index": 304,
+      "word": "Nairobi",
+      "start": 151.406,
+      "end": 151.886,
+      "score": 0.764
+    },
+    {
+      "index": 305,
+      "word": "ten",
+      "start": 152.006,
+      "end": 152.226,
+      "score": 0.979
+    },
+    {
+      "index": 306,
+      "word": "years",
+      "start": 152.286,
+      "end": 152.566,
+      "score": 0.982
+    },
+    {
+      "index": 307,
+      "word": "ago,",
+      "start": 152.626,
+      "end": 152.806,
+      "score": 0.97
+    },
+    {
+      "index": 308,
+      "word": "that",
+      "start": 153.487,
+      "end": 153.607,
+      "score": 0.988
+    },
+    {
+      "index": 309,
+      "word": "the",
+      "start": 153.647,
+      "end": 153.727,
+      "score": 0.998
+    },
+    {
+      "index": 310,
+      "word": "world",
+      "start": 153.787,
+      "end": 154.127,
+      "score": 0.998
+    },
+    {
+      "index": 311,
+      "word": "focused",
+      "start": 154.247,
+      "end": 154.727,
+      "score": 0.966
+    },
+    {
+      "index": 312,
+      "word": "for",
+      "start": 154.767,
+      "end": 154.867,
+      "score": 0.998
+    },
+    {
+      "index": 313,
+      "word": "the",
+      "start": 154.887,
+      "end": 154.967,
+      "score": 0.889
+    },
+    {
+      "index": 314,
+      "word": "first",
+      "start": 155.087,
+      "end": 155.427,
+      "score": 0.996
+    },
+    {
+      "index": 315,
+      "word": "time",
+      "start": 155.487,
+      "end": 155.987,
+      "score": 0.962
+    },
+    {
+      "index": 316,
+      "word": "on",
+      "start": 156.127,
+      "end": 156.207,
+      "score": 0.999
+    },
+    {
+      "index": 317,
+      "word": "the",
+      "start": 156.247,
+      "end": 156.327,
+      "score": 0.997
+    },
+    {
+      "index": 318,
+      "word": "crisis",
+      "start": 156.387,
+      "end": 156.987,
+      "score": 0.959
+    },
+    {
+      "index": 319,
+      "word": "of",
+      "start": 157.167,
+      "end": 157.247,
+      "score": 0.976
+    },
+    {
+      "index": 320,
+      "word": "domestic",
+      "start": 157.287,
+      "end": 157.807,
+      "score": 0.999
+    },
+    {
+      "index": 321,
+      "word": "violence?",
+      "start": 157.867,
+      "end": 158.467,
+      "score": 0.996
+    },
+    {
+      "index": 322,
+      "word": "Earlier",
+      "start": 159.467,
+      "end": 159.827,
+      "score": 0.938
+    },
+    {
+      "index": 323,
+      "word": "today,",
+      "start": 159.907,
+      "end": 160.307,
+      "score": 0.998
+    },
+    {
+      "index": 324,
+      "word": "I",
+      "start": 160.627,
+      "end": 160.667,
+      "score": 0.98
+    },
+    {
+      "index": 325,
+      "word": "participated",
+      "start": 160.707,
+      "end": 161.507,
+      "score": 0.998
+    },
+    {
+      "index": 326,
+      "word": "in",
+      "start": 161.547,
+      "end": 161.627,
+      "score": 0.997
+    },
+    {
+      "index": 327,
+      "word": "a",
+      "start": 161.667,
+      "end": 161.687,
+      "score": 0.998
+    },
+    {
+      "index": 328,
+      "word": "World",
+      "start": 161.787,
+      "end": 162.107,
+      "score": 0.988
+    },
+    {
+      "index": 329,
+      "word": "Health",
+      "start": 162.187,
+      "end": 162.487,
+      "score": 0.909
+    },
+    {
+      "index": 330,
+      "word": "Organization",
+      "start": 162.607,
+      "end": 163.407,
+      "score": 0.928
+    },
+    {
+      "index": 331,
+      "word": "forum.",
+      "start": 163.527,
+      "end": 163.967,
+      "score": 0.917
+    },
+    {
+      "index": 332,
+      "word": "In",
+      "start": 165.027,
+      "end": 165.107,
+      "score": 0.994
+    },
+    {
+      "index": 333,
+      "word": "that",
+      "start": 165.147,
+      "end": 165.347,
+      "score": 0.98
+    },
+    {
+      "index": 334,
+      "word": "forum,",
+      "start": 165.427,
+      "end": 165.847,
+      "score": 0.993
+    },
+    {
+      "index": 335,
+      "word": "we",
+      "start": 166.007,
+      "end": 166.087,
+      "score": 0.999
+    },
+    {
+      "index": 336,
+      "word": "talked",
+      "start": 166.187,
+      "end": 166.567,
+      "score": 0.879
+    },
+    {
+      "index": 337,
+      "word": "about",
+      "start": 166.607,
+      "end": 166.887,
+      "score": 0.995
+    },
+    {
+      "index": 338,
+      "word": "ways",
+      "start": 166.967,
+      "end": 167.347,
+      "score": 0.999
+    },
+    {
+      "index": 339,
+      "word": "that",
+      "start": 167.407,
+      "end": 167.567,
+      "score": 0.995
+    },
+    {
+      "index": 340,
+      "word": "government",
+      "start": 168.027,
+      "end": 168.427,
+      "score": 0.923
+    },
+    {
+      "index": 341,
+      "word": "officials,",
+      "start": 168.467,
+      "end": 169.067,
+      "score": 0.959
+    },
+    {
+      "index": 342,
+      "word": "NGOs,",
+      "start": 169.327,
+      "end": 170.007,
+      "score": 0.992
+    },
+    {
+      "index": 343,
+      "word": "and",
+      "start": 170.067,
+      "end": 170.167,
+      "score": 0.988
+    },
+    {
+      "index": 344,
+      "word": "individual",
+      "start": 170.227,
+      "end": 170.827,
+      "score": 0.999
+    },
+    {
+      "index": 345,
+      "word": "citizens",
+      "start": 170.927,
+      "end": 171.507,
+      "score": 0.967
+    },
+    {
+      "index": 346,
+      "word": "are",
+      "start": 171.647,
+      "end": 171.807,
+      "score": 0.84
+    },
+    {
+      "index": 347,
+      "word": "working",
+      "start": 171.867,
+      "end": 172.327,
+      "score": 0.968
+    },
+    {
+      "index": 348,
+      "word": "to",
+      "start": 172.447,
+      "end": 172.547,
+      "score": 0.999
+    },
+    {
+      "index": 349,
+      "word": "address",
+      "start": 172.627,
+      "end": 173.127,
+      "score": 0.921
+    },
+    {
+      "index": 350,
+      "word": "the",
+      "start": 173.247,
+      "end": 173.347,
+      "score": 0.957
+    },
+    {
+      "index": 351,
+      "word": "health",
+      "start": 173.407,
+      "end": 173.667,
+      "score": 0.942
+    },
+    {
+      "index": 352,
+      "word": "problems",
+      "start": 173.747,
+      "end": 174.287,
+      "score": 0.999
+    },
+    {
+      "index": 353,
+      "word": "of",
+      "start": 174.347,
+      "end": 174.427,
+      "score": 0.997
+    },
+    {
+      "index": 354,
+      "word": "women",
+      "start": 174.507,
+      "end": 174.807,
+      "score": 0.996
+    },
+    {
+      "index": 355,
+      "word": "and",
+      "start": 175.027,
+      "end": 175.147,
+      "score": 0.997
+    },
+    {
+      "index": 356,
+      "word": "girls.",
+      "start": 175.247,
+      "end": 175.707,
+      "score": 0.931
+    },
+    {
+      "index": 357,
+      "word": "Tomorrow,",
+      "start": 176.487,
+      "end": 176.967,
+      "score": 0.904
+    },
+    {
+      "index": 358,
+      "word": "I",
+      "start": 177.188,
+      "end": 177.228,
+      "score": 0.979
+    },
+    {
+      "index": 359,
+      "word": "will",
+      "start": 177.248,
+      "end": 177.388,
+      "score": 0.987
+    },
+    {
+      "index": 360,
+      "word": "attend",
+      "start": 177.408,
+      "end": 177.728,
+      "score": 0.998
+    },
+    {
+      "index": 361,
+      "word": "a",
+      "start": 177.788,
+      "end": 177.808,
+      "score": 0.178
+    },
+    {
+      "index": 362,
+      "word": "gathering",
+      "start": 177.888,
+      "end": 178.428,
+      "score": 0.904
+    },
+    {
+      "index": 363,
+      "word": "of",
+      "start": 178.468,
+      "end": 178.508,
+      "score": 0.991
+    },
+    {
+      "index": 364,
+      "word": "the",
+      "start": 178.528,
+      "end": 178.588,
+      "score": 0.926
+    },
+    {
+      "index": 365,
+      "word": "United",
+      "start": 178.628,
+      "end": 179.008,
+      "score": 0.964
+    },
+    {
+      "index": 366,
+      "word": "Nations",
+      "start": 179.068,
+      "end": 179.448,
+      "score": 0.981
+    },
+    {
+      "index": 367,
+      "word": "Development",
+      "start": 179.508,
+      "end": 180.008,
+      "score": 0.661
+    }
+  ]
+}

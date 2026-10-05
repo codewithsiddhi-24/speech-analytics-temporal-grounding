@@ -1,0 +1,1917 @@
+{
+  "file": "good_08.wav",
+  "duration": 120.0,
+  "words": [
+    {
+      "index": 0,
+      "word": "Action",
+      "start": 0.1,
+      "end": 0.34,
+      "score": 0.046
+    },
+    {
+      "index": 1,
+      "word": "Programme",
+      "start": 0.4,
+      "end": 0.82,
+      "score": 0.011
+    },
+    {
+      "index": 2,
+      "word": "for",
+      "start": 0.82,
+      "end": 0.9,
+      "score": 0.01
+    },
+    {
+      "index": 3,
+      "word": "Africa,",
+      "start": 1.02,
+      "end": 1.42,
+      "score": 0.017
+    },
+    {
+      "index": 4,
+      "word": "which",
+      "start": 2.04,
+      "end": 2.18,
+      "score": 0.949
+    },
+    {
+      "index": 5,
+      "word": "is",
+      "start": 2.22,
+      "end": 2.3,
+      "score": 0.944
+    },
+    {
+      "index": 6,
+      "word": "being",
+      "start": 2.34,
+      "end": 2.54,
+      "score": 0.978
+    },
+    {
+      "index": 7,
+      "word": "prepared",
+      "start": 2.58,
+      "end": 3.101,
+      "score": 0.998
+    },
+    {
+      "index": 8,
+      "word": "by",
+      "start": 3.141,
+      "end": 3.281,
+      "score": 0.997
+    },
+    {
+      "index": 9,
+      "word": "the",
+      "start": 3.341,
+      "end": 3.421,
+      "score": 0.993
+    },
+    {
+      "index": 10,
+      "word": "World",
+      "start": 3.481,
+      "end": 3.781,
+      "score": 0.961
+    },
+    {
+      "index": 11,
+      "word": "Bank",
+      "start": 3.881,
+      "end": 4.221,
+      "score": 0.998
+    },
+    {
+      "index": 12,
+      "word": "and",
+      "start": 4.861,
+      "end": 4.981,
+      "score": 0.886
+    },
+    {
+      "index": 13,
+      "word": "should",
+      "start": 5.021,
+      "end": 5.201,
+      "score": 0.926
+    },
+    {
+      "index": 14,
+      "word": "provide",
+      "start": 5.221,
+      "end": 5.641,
+      "score": 0.915
+    },
+    {
+      "index": 15,
+      "word": "renewed",
+      "start": 5.661,
+      "end": 6.081,
+      "score": 0.622
+    },
+    {
+      "index": 16,
+      "word": "impetus",
+      "start": 6.141,
+      "end": 6.581,
+      "score": 0.715
+    },
+    {
+      "index": 17,
+      "word": "to",
+      "start": 6.661,
+      "end": 6.741,
+      "score": 0.92
+    },
+    {
+      "index": 18,
+      "word": "the",
+      "start": 6.781,
+      "end": 6.861,
+      "score": 0.87
+    },
+    {
+      "index": 19,
+      "word": "joint",
+      "start": 6.941,
+      "end": 7.261,
+      "score": 0.874
+    },
+    {
+      "index": 20,
+      "word": "efforts",
+      "start": 7.361,
+      "end": 7.761,
+      "score": 0.972
+    },
+    {
+      "index": 21,
+      "word": "of",
+      "start": 7.861,
+      "end": 7.921,
+      "score": 0.979
+    },
+    {
+      "index": 22,
+      "word": "the",
+      "start": 7.941,
+      "end": 8.001,
+      "score": 0.936
+    },
+    {
+      "index": 23,
+      "word": "international",
+      "start": 8.041,
+      "end": 8.661,
+      "score": 0.982
+    },
+    {
+      "index": 24,
+      "word": "community",
+      "start": 8.721,
+      "end": 9.342,
+      "score": 0.997
+    },
+    {
+      "index": 25,
+      "word": "to",
+      "start": 9.662,
+      "end": 9.762,
+      "score": 0.988
+    },
+    {
+      "index": 26,
+      "word": "help.",
+      "start": 9.882,
+      "end": 10.162,
+      "score": 0.996
+    },
+    {
+      "index": 27,
+      "word": "We",
+      "start": 11.862,
+      "end": 11.942,
+      "score": 0.99
+    },
+    {
+      "index": 28,
+      "word": "have",
+      "start": 12.022,
+      "end": 12.222,
+      "score": 0.959
+    },
+    {
+      "index": 29,
+      "word": "considered",
+      "start": 12.262,
+      "end": 12.842,
+      "score": 0.996
+    },
+    {
+      "index": 30,
+      "word": "another",
+      "start": 13.062,
+      "end": 13.442,
+      "score": 0.955
+    },
+    {
+      "index": 31,
+      "word": "very",
+      "start": 13.482,
+      "end": 13.682,
+      "score": 0.983
+    },
+    {
+      "index": 32,
+      "word": "important",
+      "start": 13.742,
+      "end": 14.342,
+      "score": 0.944
+    },
+    {
+      "index": 33,
+      "word": "topical",
+      "start": 14.942,
+      "end": 15.483,
+      "score": 0.994
+    },
+    {
+      "index": 34,
+      "word": "matter,",
+      "start": 15.843,
+      "end": 16.263,
+      "score": 0.969
+    },
+    {
+      "index": 35,
+      "word": "the",
+      "start": 17.043,
+      "end": 17.123,
+      "score": 0.859
+    },
+    {
+      "index": 36,
+      "word": "possible",
+      "start": 17.183,
+      "end": 17.643,
+      "score": 0.986
+    },
+    {
+      "index": 37,
+      "word": "implications",
+      "start": 17.683,
+      "end": 18.463,
+      "score": 0.962
+    },
+    {
+      "index": 38,
+      "word": "of",
+      "start": 18.503,
+      "end": 18.563,
+      "score": 0.98
+    },
+    {
+      "index": 39,
+      "word": "a",
+      "start": 18.603,
+      "end": 18.623,
+      "score": 0.937
+    },
+    {
+      "index": 40,
+      "word": "further",
+      "start": 18.703,
+      "end": 19.043,
+      "score": 0.925
+    },
+    {
+      "index": 41,
+      "word": "deterioration",
+      "start": 19.083,
+      "end": 19.943,
+      "score": 0.986
+    },
+    {
+      "index": 42,
+      "word": "of",
+      "start": 19.963,
+      "end": 20.023,
+      "score": 0.98
+    },
+    {
+      "index": 43,
+      "word": "the",
+      "start": 20.043,
+      "end": 20.123,
+      "score": 0.961
+    },
+    {
+      "index": 44,
+      "word": "situation",
+      "start": 20.203,
+      "end": 20.823,
+      "score": 0.966
+    },
+    {
+      "index": 45,
+      "word": "in",
+      "start": 20.863,
+      "end": 20.943,
+      "score": 0.904
+    },
+    {
+      "index": 46,
+      "word": "the",
+      "start": 20.963,
+      "end": 21.044,
+      "score": 0.866
+    },
+    {
+      "index": 47,
+      "word": "Gulf",
+      "start": 21.144,
+      "end": 21.464,
+      "score": 0.716
+    },
+    {
+      "index": 48,
+      "word": "for",
+      "start": 21.884,
+      "end": 21.984,
+      "score": 0.872
+    },
+    {
+      "index": 49,
+      "word": "the",
+      "start": 22.004,
+      "end": 22.084,
+      "score": 0.964
+    },
+    {
+      "index": 50,
+      "word": "supply",
+      "start": 22.124,
+      "end": 22.524,
+      "score": 0.915
+    },
+    {
+      "index": 51,
+      "word": "of",
+      "start": 22.564,
+      "end": 22.624,
+      "score": 0.985
+    },
+    {
+      "index": 52,
+      "word": "oil,",
+      "start": 22.764,
+      "end": 23.004,
+      "score": 0.855
+    },
+    {
+      "index": 53,
+      "word": "and",
+      "start": 23.984,
+      "end": 24.084,
+      "score": 0.948
+    },
+    {
+      "index": 54,
+      "word": "we",
+      "start": 24.084,
+      "end": 24.164,
+      "score": 0.948
+    },
+    {
+      "index": 55,
+      "word": "are",
+      "start": 24.204,
+      "end": 24.264,
+      "score": 0.381
+    },
+    {
+      "index": 56,
+      "word": "satisfied",
+      "start": 24.364,
+      "end": 25.304,
+      "score": 0.973
+    },
+    {
+      "index": 57,
+      "word": "that,",
+      "start": 25.844,
+      "end": 26.064,
+      "score": 0.93
+    },
+    {
+      "index": 58,
+      "word": "given",
+      "start": 26.184,
+      "end": 26.464,
+      "score": 0.998
+    },
+    {
+      "index": 59,
+      "word": "the",
+      "start": 26.504,
+      "end": 26.584,
+      "score": 0.985
+    },
+    {
+      "index": 60,
+      "word": "stocks",
+      "start": 26.664,
+      "end": 27.005,
+      "score": 0.955
+    },
+    {
+      "index": 61,
+      "word": "of",
+      "start": 27.045,
+      "end": 27.125,
+      "score": 0.995
+    },
+    {
+      "index": 62,
+      "word": "oil",
+      "start": 27.205,
+      "end": 27.385,
+      "score": 0.839
+    },
+    {
+      "index": 63,
+      "word": "presently",
+      "start": 27.485,
+      "end": 27.925,
+      "score": 0.943
+    },
+    {
+      "index": 64,
+      "word": "available",
+      "start": 27.985,
+      "end": 28.525,
+      "score": 0.996
+    },
+    {
+      "index": 65,
+      "word": "in",
+      "start": 28.565,
+      "end": 28.625,
+      "score": 0.996
+    },
+    {
+      "index": 66,
+      "word": "the",
+      "start": 28.645,
+      "end": 28.725,
+      "score": 0.995
+    },
+    {
+      "index": 67,
+      "word": "world,",
+      "start": 28.785,
+      "end": 29.205,
+      "score": 0.96
+    },
+    {
+      "index": 68,
+      "word": "the",
+      "start": 29.845,
+      "end": 29.905,
+      "score": 0.992
+    },
+    {
+      "index": 69,
+      "word": "availability",
+      "start": 29.945,
+      "end": 30.585,
+      "score": 0.995
+    },
+    {
+      "index": 70,
+      "word": "of",
+      "start": 30.645,
+      "end": 30.705,
+      "score": 0.994
+    },
+    {
+      "index": 71,
+      "word": "other",
+      "start": 30.745,
+      "end": 30.945,
+      "score": 0.968
+    },
+    {
+      "index": 72,
+      "word": "sources",
+      "start": 31.005,
+      "end": 31.405,
+      "score": 0.88
+    },
+    {
+      "index": 73,
+      "word": "of",
+      "start": 31.445,
+      "end": 31.505,
+      "score": 0.994
+    },
+    {
+      "index": 74,
+      "word": "energy,",
+      "start": 31.665,
+      "end": 32.045,
+      "score": 0.942
+    },
+    {
+      "index": 75,
+      "word": "and",
+      "start": 32.725,
+      "end": 32.805,
+      "score": 0.861
+    },
+    {
+      "index": 76,
+      "word": "the",
+      "start": 32.825,
+      "end": 32.885,
+      "score": 0.941
+    },
+    {
+      "index": 77,
+      "word": "scope",
+      "start": 32.965,
+      "end": 33.346,
+      "score": 0.993
+    },
+    {
+      "index": 78,
+      "word": "for",
+      "start": 33.366,
+      "end": 33.466,
+      "score": 0.986
+    },
+    {
+      "index": 79,
+      "word": "conservation",
+      "start": 33.506,
+      "end": 34.206,
+      "score": 0.971
+    },
+    {
+      "index": 80,
+      "word": "and",
+      "start": 34.246,
+      "end": 34.326,
+      "score": 0.332
+    },
+    {
+      "index": 81,
+      "word": "the",
+      "start": 34.326,
+      "end": 34.406,
+      "score": 0.864
+    },
+    {
+      "index": 82,
+      "word": "use",
+      "start": 34.506,
+      "end": 34.686,
+      "score": 0.918
+    },
+    {
+      "index": 83,
+      "word": "of",
+      "start": 34.706,
+      "end": 34.766,
+      "score": 0.994
+    },
+    {
+      "index": 84,
+      "word": "energy,",
+      "start": 34.886,
+      "end": 35.226,
+      "score": 0.999
+    },
+    {
+      "index": 85,
+      "word": "adequate",
+      "start": 36.106,
+      "end": 36.626,
+      "score": 0.944
+    },
+    {
+      "index": 86,
+      "word": "supplies",
+      "start": 36.666,
+      "end": 37.286,
+      "score": 0.87
+    },
+    {
+      "index": 87,
+      "word": "could",
+      "start": 37.366,
+      "end": 37.546,
+      "score": 0.817
+    },
+    {
+      "index": 88,
+      "word": "be",
+      "start": 37.566,
+      "end": 37.646,
+      "score": 0.993
+    },
+    {
+      "index": 89,
+      "word": "maintained",
+      "start": 37.746,
+      "end": 38.406,
+      "score": 0.956
+    },
+    {
+      "index": 90,
+      "word": "for",
+      "start": 38.426,
+      "end": 38.566,
+      "score": 0.993
+    },
+    {
+      "index": 91,
+      "word": "a",
+      "start": 38.666,
+      "end": 38.686,
+      "score": 0.994
+    },
+    {
+      "index": 92,
+      "word": "substantial",
+      "start": 38.826,
+      "end": 39.667,
+      "score": 0.961
+    },
+    {
+      "index": 93,
+      "word": "period",
+      "start": 39.747,
+      "end": 40.087,
+      "score": 0.96
+    },
+    {
+      "index": 94,
+      "word": "of",
+      "start": 40.127,
+      "end": 40.207,
+      "score": 0.996
+    },
+    {
+      "index": 95,
+      "word": "time",
+      "start": 40.267,
+      "end": 40.707,
+      "score": 0.977
+    },
+    {
+      "index": 96,
+      "word": "by",
+      "start": 41.347,
+      "end": 41.467,
+      "score": 0.988
+    },
+    {
+      "index": 97,
+      "word": "international",
+      "start": 41.527,
+      "end": 42.107,
+      "score": 0.969
+    },
+    {
+      "index": 98,
+      "word": "cooperation",
+      "start": 42.147,
+      "end": 42.947,
+      "score": 0.806
+    },
+    {
+      "index": 99,
+      "word": "and",
+      "start": 43.507,
+      "end": 43.607,
+      "score": 0.992
+    },
+    {
+      "index": 100,
+      "word": "mutually",
+      "start": 43.707,
+      "end": 44.147,
+      "score": 0.983
+    },
+    {
+      "index": 101,
+      "word": "supportive",
+      "start": 44.227,
+      "end": 44.747,
+      "score": 0.988
+    },
+    {
+      "index": 102,
+      "word": "action,",
+      "start": 44.847,
+      "end": 45.248,
+      "score": 0.993
+    },
+    {
+      "index": 103,
+      "word": "and",
+      "start": 45.708,
+      "end": 45.788,
+      "score": 0.892
+    },
+    {
+      "index": 104,
+      "word": "we",
+      "start": 45.808,
+      "end": 45.848,
+      "score": 0.493
+    },
+    {
+      "index": 105,
+      "word": "will",
+      "start": 45.848,
+      "end": 45.948,
+      "score": 0.311
+    },
+    {
+      "index": 106,
+      "word": "continue",
+      "start": 45.988,
+      "end": 46.528,
+      "score": 0.981
+    },
+    {
+      "index": 107,
+      "word": "to",
+      "start": 46.568,
+      "end": 46.648,
+      "score": 0.977
+    },
+    {
+      "index": 108,
+      "word": "act",
+      "start": 46.788,
+      "end": 46.988,
+      "score": 0.989
+    },
+    {
+      "index": 109,
+      "word": "together",
+      "start": 47.088,
+      "end": 47.608,
+      "score": 0.945
+    },
+    {
+      "index": 110,
+      "word": "to",
+      "start": 47.928,
+      "end": 48.008,
+      "score": 0.975
+    },
+    {
+      "index": 111,
+      "word": "that",
+      "start": 48.068,
+      "end": 48.288,
+      "score": 0.926
+    },
+    {
+      "index": 112,
+      "word": "end.",
+      "start": 48.408,
+      "end": 48.708,
+      "score": 0.959
+    },
+    {
+      "index": 113,
+      "word": "We",
+      "start": 49.788,
+      "end": 49.868,
+      "score": 0.994
+    },
+    {
+      "index": 114,
+      "word": "note",
+      "start": 50.028,
+      "end": 50.328,
+      "score": 0.798
+    },
+    {
+      "index": 115,
+      "word": "with",
+      "start": 50.368,
+      "end": 50.508,
+      "score": 0.876
+    },
+    {
+      "index": 116,
+      "word": "approval",
+      "start": 50.528,
+      "end": 51.029,
+      "score": 0.927
+    },
+    {
+      "index": 117,
+      "word": "the",
+      "start": 51.109,
+      "end": 51.209,
+      "score": 0.885
+    },
+    {
+      "index": 118,
+      "word": "continuing",
+      "start": 51.249,
+      "end": 51.849,
+      "score": 0.998
+    },
+    {
+      "index": 119,
+      "word": "consensus",
+      "start": 51.889,
+      "end": 52.609,
+      "score": 0.989
+    },
+    {
+      "index": 120,
+      "word": "on",
+      "start": 52.689,
+      "end": 52.769,
+      "score": 0.839
+    },
+    {
+      "index": 121,
+      "word": "the",
+      "start": 52.809,
+      "end": 52.889,
+      "score": 0.825
+    },
+    {
+      "index": 122,
+      "word": "security",
+      "start": 52.949,
+      "end": 53.529,
+      "score": 0.994
+    },
+    {
+      "index": 123,
+      "word": "and",
+      "start": 53.589,
+      "end": 53.669,
+      "score": 0.954
+    },
+    {
+      "index": 124,
+      "word": "other",
+      "start": 53.769,
+      "end": 53.969,
+      "score": 0.992
+    },
+    {
+      "index": 125,
+      "word": "implications",
+      "start": 54.009,
+      "end": 54.669,
+      "score": 0.999
+    },
+    {
+      "index": 126,
+      "word": "of",
+      "start": 54.689,
+      "end": 54.749,
+      "score": 0.864
+    },
+    {
+      "index": 127,
+      "word": "economic",
+      "start": 54.809,
+      "end": 55.249,
+      "score": 0.999
+    },
+    {
+      "index": 128,
+      "word": "relations",
+      "start": 55.329,
+      "end": 55.769,
+      "score": 0.998
+    },
+    {
+      "index": 129,
+      "word": "with",
+      "start": 55.789,
+      "end": 55.889,
+      "score": 0.995
+    },
+    {
+      "index": 130,
+      "word": "Eastern",
+      "start": 55.989,
+      "end": 56.309,
+      "score": 0.989
+    },
+    {
+      "index": 131,
+      "word": "countries",
+      "start": 56.369,
+      "end": 56.949,
+      "score": 0.995
+    },
+    {
+      "index": 132,
+      "word": "and",
+      "start": 57.55,
+      "end": 57.65,
+      "score": 0.969
+    },
+    {
+      "index": 133,
+      "word": "on",
+      "start": 57.69,
+      "end": 57.77,
+      "score": 0.968
+    },
+    {
+      "index": 134,
+      "word": "the",
+      "start": 57.79,
+      "end": 57.87,
+      "score": 0.949
+    },
+    {
+      "index": 135,
+      "word": "need",
+      "start": 57.95,
+      "end": 58.17,
+      "score": 0.997
+    },
+    {
+      "index": 136,
+      "word": "to",
+      "start": 58.21,
+      "end": 58.27,
+      "score": 0.889
+    },
+    {
+      "index": 137,
+      "word": "continue",
+      "start": 58.33,
+      "end": 58.81,
+      "score": 0.934
+    },
+    {
+      "index": 138,
+      "word": "work",
+      "start": 58.85,
+      "end": 59.09,
+      "score": 0.996
+    },
+    {
+      "index": 139,
+      "word": "on",
+      "start": 59.15,
+      "end": 59.23,
+      "score": 0.979
+    },
+    {
+      "index": 140,
+      "word": "this",
+      "start": 59.25,
+      "end": 59.41,
+      "score": 0.958
+    },
+    {
+      "index": 141,
+      "word": "subject",
+      "start": 59.49,
+      "end": 59.95,
+      "score": 0.95
+    },
+    {
+      "index": 142,
+      "word": "in",
+      "start": 59.99,
+      "end": 60.03,
+      "score": 0.947
+    },
+    {
+      "index": 143,
+      "word": "the",
+      "start": 60.05,
+      "end": 60.13,
+      "score": 0.89
+    },
+    {
+      "index": 144,
+      "word": "appropriate",
+      "start": 60.15,
+      "end": 60.67,
+      "score": 0.916
+    },
+    {
+      "index": 145,
+      "word": "organizations.",
+      "start": 60.71,
+      "end": 61.73,
+      "score": 0.795
+    },
+    {
+      "index": 146,
+      "word": "We",
+      "start": 63.311,
+      "end": 63.391,
+      "score": 0.976
+    },
+    {
+      "index": 147,
+      "word": "also",
+      "start": 63.491,
+      "end": 63.791,
+      "score": 0.993
+    },
+    {
+      "index": 148,
+      "word": "welcome",
+      "start": 63.951,
+      "end": 64.391,
+      "score": 0.865
+    },
+    {
+      "index": 149,
+      "word": "the",
+      "start": 64.411,
+      "end": 64.491,
+      "score": 0.96
+    },
+    {
+      "index": 150,
+      "word": "further",
+      "start": 64.571,
+      "end": 64.931,
+      "score": 0.944
+    },
+    {
+      "index": 151,
+      "word": "report",
+      "start": 64.991,
+      "end": 65.411,
+      "score": 0.997
+    },
+    {
+      "index": 152,
+      "word": "of",
+      "start": 65.471,
+      "end": 65.531,
+      "score": 0.981
+    },
+    {
+      "index": 153,
+      "word": "the",
+      "start": 65.551,
+      "end": 65.631,
+      "score": 0.891
+    },
+    {
+      "index": 154,
+      "word": "Working",
+      "start": 65.711,
+      "end": 66.151,
+      "score": 0.995
+    },
+    {
+      "index": 155,
+      "word": "Group",
+      "start": 66.211,
+      "end": 66.431,
+      "score": 0.892
+    },
+    {
+      "index": 156,
+      "word": "on",
+      "start": 66.511,
+      "end": 66.591,
+      "score": 0.991
+    },
+    {
+      "index": 157,
+      "word": "Technology,",
+      "start": 66.691,
+      "end": 67.391,
+      "score": 0.976
+    },
+    {
+      "index": 158,
+      "word": "Growth",
+      "start": 67.551,
+      "end": 67.891,
+      "score": 0.849
+    },
+    {
+      "index": 159,
+      "word": "and",
+      "start": 67.931,
+      "end": 68.031,
+      "score": 0.995
+    },
+    {
+      "index": 160,
+      "word": "Employment,",
+      "start": 68.071,
+      "end": 68.751,
+      "score": 0.996
+    },
+    {
+      "index": 161,
+      "word": "created",
+      "start": 69.232,
+      "end": 69.772,
+      "score": 0.991
+    },
+    {
+      "index": 162,
+      "word": "by",
+      "start": 69.832,
+      "end": 69.972,
+      "score": 0.994
+    },
+    {
+      "index": 163,
+      "word": "the",
+      "start": 70.012,
+      "end": 70.092,
+      "score": 0.961
+    },
+    {
+      "index": 164,
+      "word": "Versailles",
+      "start": 70.152,
+      "end": 70.972,
+      "score": 0.5
+    },
+    {
+      "index": 165,
+      "word": "Economic",
+      "start": 71.292,
+      "end": 71.852,
+      "score": 0.997
+    },
+    {
+      "index": 166,
+      "word": "Summit,",
+      "start": 71.992,
+      "end": 72.472,
+      "score": 0.93
+    },
+    {
+      "index": 167,
+      "word": "and",
+      "start": 72.852,
+      "end": 72.932,
+      "score": 0.985
+    },
+    {
+      "index": 168,
+      "word": "the",
+      "start": 72.932,
+      "end": 73.012,
+      "score": 0.919
+    },
+    {
+      "index": 169,
+      "word": "progress",
+      "start": 73.072,
+      "end": 73.512,
+      "score": 0.999
+    },
+    {
+      "index": 170,
+      "word": "made",
+      "start": 73.612,
+      "end": 73.852,
+      "score": 0.999
+    },
+    {
+      "index": 171,
+      "word": "in",
+      "start": 73.892,
+      "end": 73.952,
+      "score": 0.996
+    },
+    {
+      "index": 172,
+      "word": "the",
+      "start": 73.972,
+      "end": 74.052,
+      "score": 0.986
+    },
+    {
+      "index": 173,
+      "word": "eighteen",
+      "start": 74.172,
+      "end": 74.552,
+      "score": 0.566
+    },
+    {
+      "index": 174,
+      "word": "areas",
+      "start": 74.712,
+      "end": 75.053,
+      "score": 0.981
+    },
+    {
+      "index": 175,
+      "word": "of",
+      "start": 75.093,
+      "end": 75.153,
+      "score": 0.991
+    },
+    {
+      "index": 176,
+      "word": "cooperation.",
+      "start": 75.233,
+      "end": 76.113,
+      "score": 0.97
+    },
+    {
+      "index": 177,
+      "word": "We",
+      "start": 76.893,
+      "end": 76.953,
+      "score": 0.996
+    },
+    {
+      "index": 178,
+      "word": "also",
+      "start": 77.033,
+      "end": 77.273,
+      "score": 0.998
+    },
+    {
+      "index": 179,
+      "word": "welcome",
+      "start": 77.413,
+      "end": 77.793,
+      "score": 0.882
+    },
+    {
+      "index": 180,
+      "word": "the",
+      "start": 77.833,
+      "end": 77.913,
+      "score": 0.978
+    },
+    {
+      "index": 181,
+      "word": "invitation",
+      "start": 77.933,
+      "end": 78.513,
+      "score": 0.999
+    },
+    {
+      "index": 182,
+      "word": "of",
+      "start": 78.553,
+      "end": 78.613,
+      "score": 0.996
+    },
+    {
+      "index": 183,
+      "word": "the",
+      "start": 78.653,
+      "end": 78.733,
+      "score": 0.954
+    },
+    {
+      "index": 184,
+      "word": "Italian",
+      "start": 78.773,
+      "end": 79.353,
+      "score": 0.984
+    },
+    {
+      "index": 185,
+      "word": "government",
+      "start": 79.433,
+      "end": 79.993,
+      "score": 0.956
+    },
+    {
+      "index": 186,
+      "word": "to",
+      "start": 80.553,
+      "end": 80.613,
+      "score": 0.989
+    },
+    {
+      "index": 187,
+      "word": "an",
+      "start": 80.653,
+      "end": 80.713,
+      "score": 0.992
+    },
+    {
+      "index": 188,
+      "word": "international",
+      "start": 80.753,
+      "end": 81.494,
+      "score": 0.956
+    },
+    {
+      "index": 189,
+      "word": "conference",
+      "start": 81.634,
+      "end": 82.234,
+      "score": 0.982
+    },
+    {
+      "index": 190,
+      "word": "to",
+      "start": 82.274,
+      "end": 82.334,
+      "score": 0.985
+    },
+    {
+      "index": 191,
+      "word": "be",
+      "start": 82.374,
+      "end": 82.434,
+      "score": 0.994
+    },
+    {
+      "index": 192,
+      "word": "held",
+      "start": 82.534,
+      "end": 82.794,
+      "score": 0.998
+    },
+    {
+      "index": 193,
+      "word": "in",
+      "start": 82.854,
+      "end": 82.914,
+      "score": 0.996
+    },
+    {
+      "index": 194,
+      "word": "Italy",
+      "start": 83.094,
+      "end": 83.494,
+      "score": 0.999
+    },
+    {
+      "index": 195,
+      "word": "in",
+      "start": 84.334,
+      "end": 84.414,
+      "score": 0.995
+    },
+    {
+      "index": 196,
+      "word": "nineteen",
+      "start": 84.494,
+      "end": 84.854,
+      "score": 0.001
+    },
+    {
+      "index": 197,
+      "word": "eighty",
+      "start": 84.914,
+      "end": 85.114,
+      "score": 0.0
+    },
+    {
+      "index": 198,
+      "word": "five",
+      "start": 85.214,
+      "end": 85.694,
+      "score": 0.001
+    },
+    {
+      "index": 199,
+      "word": "on",
+      "start": 85.734,
+      "end": 85.814,
+      "score": 0.996
+    },
+    {
+      "index": 200,
+      "word": "the",
+      "start": 85.854,
+      "end": 85.934,
+      "score": 0.99
+    },
+    {
+      "index": 201,
+      "word": "theme",
+      "start": 85.994,
+      "end": 86.234,
+      "score": 0.951
+    },
+    {
+      "index": 202,
+      "word": "of",
+      "start": 86.254,
+      "end": 86.314,
+      "score": 0.997
+    },
+    {
+      "index": 203,
+      "word": "technological",
+      "start": 86.394,
+      "end": 87.135,
+      "score": 0.98
+    },
+    {
+      "index": 204,
+      "word": "innovation",
+      "start": 87.175,
+      "end": 87.835,
+      "score": 0.94
+    },
+    {
+      "index": 205,
+      "word": "and",
+      "start": 88.215,
+      "end": 88.315,
+      "score": 0.983
+    },
+    {
+      "index": 206,
+      "word": "the",
+      "start": 88.315,
+      "end": 88.415,
+      "score": 0.853
+    },
+    {
+      "index": 207,
+      "word": "creation",
+      "start": 88.435,
+      "end": 88.875,
+      "score": 0.997
+    },
+    {
+      "index": 208,
+      "word": "of",
+      "start": 88.895,
+      "end": 88.955,
+      "score": 0.988
+    },
+    {
+      "index": 209,
+      "word": "new",
+      "start": 89.015,
+      "end": 89.155,
+      "score": 0.898
+    },
+    {
+      "index": 210,
+      "word": "jobs.",
+      "start": 89.315,
+      "end": 89.835,
+      "score": 0.901
+    },
+    {
+      "index": 211,
+      "word": "We",
+      "start": 90.755,
+      "end": 90.815,
+      "score": 0.981
+    },
+    {
+      "index": 212,
+      "word": "also",
+      "start": 90.895,
+      "end": 91.135,
+      "score": 0.994
+    },
+    {
+      "index": 213,
+      "word": "recognize",
+      "start": 91.295,
+      "end": 91.915,
+      "score": 0.95
+    },
+    {
+      "index": 214,
+      "word": "the",
+      "start": 91.935,
+      "end": 91.995,
+      "score": 0.984
+    },
+    {
+      "index": 215,
+      "word": "international",
+      "start": 92.035,
+      "end": 92.595,
+      "score": 0.964
+    },
+    {
+      "index": 216,
+      "word": "dimension",
+      "start": 92.635,
+      "end": 93.236,
+      "score": 0.993
+    },
+    {
+      "index": 217,
+      "word": "of",
+      "start": 93.276,
+      "end": 93.336,
+      "score": 0.995
+    },
+    {
+      "index": 218,
+      "word": "environmental",
+      "start": 93.376,
+      "end": 94.216,
+      "score": 0.98
+    },
+    {
+      "index": 219,
+      "word": "problems",
+      "start": 94.296,
+      "end": 94.916,
+      "score": 0.999
+    },
+    {
+      "index": 220,
+      "word": "and",
+      "start": 95.336,
+      "end": 95.436,
+      "score": 0.995
+    },
+    {
+      "index": 221,
+      "word": "the",
+      "start": 95.456,
+      "end": 95.536,
+      "score": 0.993
+    },
+    {
+      "index": 222,
+      "word": "role",
+      "start": 95.596,
+      "end": 95.836,
+      "score": 0.98
+    },
+    {
+      "index": 223,
+      "word": "of",
+      "start": 95.856,
+      "end": 95.916,
+      "score": 0.995
+    },
+    {
+      "index": 224,
+      "word": "environmental",
+      "start": 95.956,
+      "end": 96.776,
+      "score": 0.971
+    },
+    {
+      "index": 225,
+      "word": "factors",
+      "start": 96.896,
+      "end": 97.476,
+      "score": 0.992
+    },
+    {
+      "index": 226,
+      "word": "in",
+      "start": 97.816,
+      "end": 97.876,
+      "score": 0.94
+    },
+    {
+      "index": 227,
+      "word": "economic",
+      "start": 97.956,
+      "end": 98.416,
+      "score": 0.997
+    },
+    {
+      "index": 228,
+      "word": "development.",
+      "start": 98.456,
+      "end": 99.097,
+      "score": 0.962
+    },
+    {
+      "index": 229,
+      "word": "We've",
+      "start": 100.217,
+      "end": 100.357,
+      "score": 0.445
+    },
+    {
+      "index": 230,
+      "word": "invited",
+      "start": 100.377,
+      "end": 100.797,
+      "score": 0.984
+    },
+    {
+      "index": 231,
+      "word": "ministers",
+      "start": 100.857,
+      "end": 101.277,
+      "score": 0.993
+    },
+    {
+      "index": 232,
+      "word": "responsible",
+      "start": 101.317,
+      "end": 101.977,
+      "score": 0.992
+    },
+    {
+      "index": 233,
+      "word": "for",
+      "start": 102.017,
+      "end": 102.097,
+      "score": 0.832
+    },
+    {
+      "index": 234,
+      "word": "environmental",
+      "start": 102.137,
+      "end": 102.897,
+      "score": 0.982
+    },
+    {
+      "index": 235,
+      "word": "policies",
+      "start": 102.977,
+      "end": 103.617,
+      "score": 0.995
+    },
+    {
+      "index": 236,
+      "word": "to",
+      "start": 104.037,
+      "end": 104.097,
+      "score": 0.902
+    },
+    {
+      "index": 237,
+      "word": "identify",
+      "start": 104.237,
+      "end": 104.897,
+      "score": 0.942
+    },
+    {
+      "index": 238,
+      "word": "areas",
+      "start": 105.078,
+      "end": 105.518,
+      "score": 0.99
+    },
+    {
+      "index": 239,
+      "word": "for",
+      "start": 105.558,
+      "end": 105.678,
+      "score": 0.993
+    },
+    {
+      "index": 240,
+      "word": "continuing",
+      "start": 105.758,
+      "end": 106.398,
+      "score": 0.985
+    },
+    {
+      "index": 241,
+      "word": "cooperation",
+      "start": 106.438,
+      "end": 107.238,
+      "score": 0.952
+    },
+    {
+      "index": 242,
+      "word": "in",
+      "start": 107.338,
+      "end": 107.418,
+      "score": 0.948
+    },
+    {
+      "index": 243,
+      "word": "this",
+      "start": 107.458,
+      "end": 107.618,
+      "score": 0.996
+    },
+    {
+      "index": 244,
+      "word": "field.",
+      "start": 107.718,
+      "end": 108.138,
+      "score": 0.986
+    },
+    {
+      "index": 245,
+      "word": "And",
+      "start": 108.998,
+      "end": 109.118,
+      "score": 0.994
+    },
+    {
+      "index": 246,
+      "word": "in",
+      "start": 109.178,
+      "end": 109.238,
+      "score": 0.996
+    },
+    {
+      "index": 247,
+      "word": "addition,",
+      "start": 109.278,
+      "end": 109.698,
+      "score": 0.953
+    },
+    {
+      "index": 248,
+      "word": "we've",
+      "start": 109.778,
+      "end": 109.918,
+      "score": 0.403
+    },
+    {
+      "index": 249,
+      "word": "decided",
+      "start": 109.938,
+      "end": 110.458,
+      "score": 0.998
+    },
+    {
+      "index": 250,
+      "word": "to",
+      "start": 110.498,
+      "end": 110.558,
+      "score": 0.989
+    },
+    {
+      "index": 251,
+      "word": "invite",
+      "start": 110.618,
+      "end": 111.019,
+      "score": 0.983
+    },
+    {
+      "index": 252,
+      "word": "the",
+      "start": 111.039,
+      "end": 111.139,
+      "score": 0.962
+    },
+    {
+      "index": 253,
+      "word": "Working",
+      "start": 111.239,
+      "end": 111.599,
+      "score": 0.998
+    },
+    {
+      "index": 254,
+      "word": "Group",
+      "start": 111.639,
+      "end": 111.819,
+      "score": 0.992
+    },
+    {
+      "index": 255,
+      "word": "on",
+      "start": 111.899,
+      "end": 111.979,
+      "score": 0.996
+    },
+    {
+      "index": 256,
+      "word": "Technology",
+      "start": 112.059,
+      "end": 112.819,
+      "score": 0.996
+    },
+    {
+      "index": 257,
+      "word": "to",
+      "start": 113.379,
+      "end": 113.439,
+      "score": 0.995
+    },
+    {
+      "index": 258,
+      "word": "consider",
+      "start": 113.499,
+      "end": 113.999,
+      "score": 0.986
+    },
+    {
+      "index": 259,
+      "word": "what",
+      "start": 114.039,
+      "end": 114.179,
+      "score": 0.878
+    },
+    {
+      "index": 260,
+      "word": "has",
+      "start": 114.219,
+      "end": 114.319,
+      "score": 0.993
+    },
+    {
+      "index": 261,
+      "word": "been",
+      "start": 114.339,
+      "end": 114.479,
+      "score": 0.997
+    },
+    {
+      "index": 262,
+      "word": "done",
+      "start": 114.519,
+      "end": 114.699,
+      "score": 0.838
+    },
+    {
+      "index": 263,
+      "word": "so",
+      "start": 114.779,
+      "end": 114.899,
+      "score": 0.999
+    },
+    {
+      "index": 264,
+      "word": "far",
+      "start": 115.039,
+      "end": 115.339,
+      "score": 0.999
+    },
+    {
+      "index": 265,
+      "word": "and",
+      "start": 115.759,
+      "end": 115.839,
+      "score": 0.988
+    },
+    {
+      "index": 266,
+      "word": "to",
+      "start": 115.859,
+      "end": 115.919,
+      "score": 0.923
+    },
+    {
+      "index": 267,
+      "word": "identify",
+      "start": 116.039,
+      "end": 116.639,
+      "score": 0.996
+    },
+    {
+      "index": 268,
+      "word": "specific",
+      "start": 116.719,
+      "end": 117.32,
+      "score": 0.951
+    },
+    {
+      "index": 269,
+      "word": "areas",
+      "start": 117.48,
+      "end": 117.96,
+      "score": 0.984
+    },
+    {
+      "index": 270,
+      "word": "for",
+      "start": 118.36,
+      "end": 118.52,
+      "score": 0.989
+    },
+    {
+      "index": 271,
+      "word": "further",
+      "start": 118.74,
+      "end": 119.18,
+      "score": 0.972
+    },
+    {
+      "index": 272,
+      "word": "research.",
+      "start": 119.52,
+      "end": 120.0,
+      "score": 0.863
+    }
+  ]
+}
