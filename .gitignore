@@ -1,26 +1,27 @@
-
-
-@"
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 venv/
 
-# Audio files
-*.wav
-*.mp3
-*.ogg
-*.flac
+# Regenerable project data
+/alignments/
+/clean_reference/
+/features/
+/generated_flaw_features/
+/generated_flaws/
+/standardized_reference/
+/transcripts_draft/
+
+# Generated exports
+/alignment_quality_report.csv
+/features_frames.csv
+/features_summary.csv
+/training_frames.csv
 
 # Large datasets
 *.zip
 marathi_dataset/
 
-# Generated analysis files
-*.json
-*.csv
-
 # VS Code
 .vscode/
-"@ | Set-Content .gitignore
