@@ -8,8 +8,6 @@ venv/
 /alignments/
 /clean_reference/
 /features/
-/generated_flaw_features/
-/generated_flaws/
 /standardized_reference/
 /transcripts_draft/
 

@@ -1,0 +1,314 @@
+{
+  "file": "good_16_pause_1s.wav",
+  "feature_version": "2.0",
+  "sample_rate": 16000,
+  "duration_sec": 61.0,
+  "alignment": {
+    "quality": "UNKNOWN",
+    "file": null,
+    "word_count": 0
+  },
+  "frame_configuration": {
+    "frame_length_ms": 25,
+    "hop_length_ms": 10,
+    "n_fft": 512,
+    "n_mfcc": 13
+  },
+  "pitch": {
+    "f0_hz": {
+      "mean": 168.3697,
+      "median": 158.9706,
+      "min": 75.8959,
+      "max": 340.761,
+      "std": 45.8671,
+      "q25": 134.4522,
+      "q75": 190.1441,
+      "mad": 26.8282
+    },
+    "f0_semitone": {
+      "mean": 88.157,
+      "median": 87.7514,
+      "min": 74.9514,
+      "max": 100.9514,
+      "std": 4.4445,
+      "q25": 84.8514,
+      "q75": 90.8514,
+      "mad": 2.9
+    },
+    "f0_normalized": {
+      "mean": 0.0943,
+      "median": 0.0,
+      "min": -2.9771,
+      "max": 3.0701,
+      "std": 1.0337,
+      "q25": -0.6745,
+      "q75": 0.721,
+      "mad": 0.6745
+    },
+    "voiced_frame_ratio": 0.4942,
+    "mean_voiced_probability": 0.0715
+  },
+  "energy": {
+    "rms": {
+      "mean": 0.0412,
+      "median": 0.0267,
+      "min": 0.0,
+      "max": 0.1824,
+      "std": 0.0412,
+      "q25": 0.0053,
+      "q75": 0.0692,
+      "mad": 0.0247
+    },
+    "rms_db": {
+      "mean": -20.981,
+      "median": -16.697,
+      "min": -80.0,
+      "max": 0.0,
+      "std": 15.6998,
+      "q25": -30.7092,
+      "q75": -8.4166,
+      "mad": 9.651
+    },
+    "rms_normalized": {
+      "mean": -0.2994,
+      "median": 0.0,
+      "min": -4.4241,
+      "max": 1.1669,
+      "std": 1.0972,
+      "q25": -0.9793,
+      "q75": 0.5787,
+      "mad": 0.6745
+    }
+  },
+  "spectral": {
+    "centroid_hz": {
+      "mean": 1417.0756,
+      "median": 1070.3764,
+      "min": 0.0,
+      "max": 5965.0159,
+      "std": 1057.0728,
+      "q25": 853.0663,
+      "q75": 1461.2537,
+      "mad": 263.0895
+    },
+    "bandwidth_hz": {
+      "mean": 1323.3731,
+      "median": 1177.8066,
+      "min": 0.0,
+      "max": 3019.3489,
+      "std": 571.726,
+      "q25": 894.4061,
+      "q75": 1690.725,
+      "mad": 348.9404
+    },
+    "rolloff_hz": {
+      "mean": 2498.3609,
+      "median": 1843.75,
+      "min": 0.0,
+      "max": 7468.75,
+      "std": 1818.3508,
+      "q25": 1250.0,
+      "q75": 2875.0,
+      "mad": 718.75
+    },
+    "flatness": {
+      "mean": 0.0324,
+      "median": 0.0015,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.128,
+      "q25": 0.0004,
+      "q75": 0.016,
+      "mad": 0.0014
+    },
+    "zero_crossing_rate": {
+      "mean": 0.1218,
+      "median": 0.0775,
+      "min": 0.0,
+      "max": 0.79,
+      "std": 0.1384,
+      "q25": 0.0625,
+      "q75": 0.105,
+      "mad": 0.02
+    },
+    "centroid_normalized": {
+      "mean": 0.8888,
+      "median": 0.0,
+      "min": -2.7442,
+      "max": 12.5485,
+      "std": 2.7101,
+      "q25": -0.5571,
+      "q75": 1.0021,
+      "mad": 0.6745
+    }
+  },
+  "mfcc": {
+    "coefficient_count": 13,
+    "mean": [
+      -476.1707,
+      115.5257,
+      -0.7057,
+      4.419,
+      -9.1629,
+      -25.2781,
+      -18.4122,
+      -15.3896,
+      -8.128,
+      4.4377,
+      -10.9255,
+      0.7321,
+      -7.6175
+    ],
+    "std": [
+      112.0524,
+      56.3751,
+      41.6633,
+      25.8048,
+      27.3426,
+      19.8564,
+      16.6064,
+      17.1882,
+      17.2102,
+      14.5624,
+      12.7673,
+      11.7315,
+      11.902
+    ],
+    "mad": [
+      83.0914,
+      38.4408,
+      27.7659,
+      16.5313,
+      15.0747,
+      14.348,
+      11.3955,
+      12.3475,
+      11.3944,
+      8.7859,
+      8.6726,
+      7.8008,
+      7.5091
+    ],
+    "delta_mean": [
+      -0.0191,
+      0.0027,
+      0.0207,
+      -0.0109,
+      -0.0043,
+      -0.0017,
+      0.0055,
+      0.0069,
+      -0.0045,
+      -0.0036,
+      -0.0009,
+      0.0036,
+      0.003
+    ],
+    "delta2_mean": [
+      0.0015,
+      -0.0052,
+      0.0007,
+      -0.0028,
+      0.0039,
+      0.0016,
+      0.0003,
+      0.0008,
+      -0.0013,
+      -0.0022,
+      0.0024,
+      -0.0009,
+      0.0025
+    ]
+  },
+  "speech_rate": {
+    "global": {
+      "word_count": 0,
+      "speaking_span_sec": null,
+      "words_per_minute": null
+    },
+    "local_10sec": []
+  },
+  "pauses": {
+    "method": "adaptive_noise_floor",
+    "noise_floor_db": -44.418,
+    "pause_threshold_db": -36.418,
+    "acoustic_statistics": {
+      "count": 10,
+      "mean_duration": 0.722,
+      "median_duration": 0.52,
+      "min_duration": 0.35,
+      "max_duration": 2.4,
+      "total_duration": 7.22
+    },
+    "acoustic_intervals": [
+      {
+        "start": 0.72,
+        "end": 1.12,
+        "duration": 0.4
+      },
+      {
+        "start": 3.61,
+        "end": 4.35,
+        "duration": 0.74
+      },
+      {
+        "start": 4.86,
+        "end": 5.39,
+        "duration": 0.53
+      },
+      {
+        "start": 6.15,
+        "end": 6.53,
+        "duration": 0.38
+      },
+      {
+        "start": 20.98,
+        "end": 23.38,
+        "duration": 2.4
+      },
+      {
+        "start": 29.02,
+        "end": 29.55,
+        "duration": 0.53
+      },
+      {
+        "start": 33.29,
+        "end": 33.8,
+        "duration": 0.51
+      },
+      {
+        "start": 36.64,
+        "end": 37.57,
+        "duration": 0.93
+      },
+      {
+        "start": 39.28,
+        "end": 39.73,
+        "duration": 0.45
+      },
+      {
+        "start": 58.57,
+        "end": 58.92,
+        "duration": 0.35
+      }
+    ],
+    "alignment_word_gaps": [],
+    "alignment_gap_statistics": {
+      "count": 0,
+      "mean_duration": null,
+      "median_duration": null,
+      "min_duration": null,
+      "max_duration": null,
+      "total_duration": 0.0
+    }
+  },
+  "notes": {
+    "pitch": "F0 estimated using librosa.pyin.",
+    "spectral": "FFT-derived spectral features.",
+    "mfcc": "13 MFCC coefficients with first and second derivatives.",
+    "normalization": "Robust median/MAD normalization is stored for later comparison.",
+    "pause_detection": "Pause threshold is recording-specific: P10 RMS dB + margin.",
+    "comparison": "No participant/reference frame subtraction is performed during extraction.",
+    "alignment": "Alignment quality affects confidence in word-level timing, not acoustic features."
+  }
+}

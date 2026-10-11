@@ -1,0 +1,2 @@
+generated_flaws/**/*.wav filter=lfs diff=lfs merge=lfs -text
+generated_flaw_features/**/*.npz filter=lfs diff=lfs merge=lfs -text
