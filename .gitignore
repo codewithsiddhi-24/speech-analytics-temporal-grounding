@@ -23,3 +23,15 @@ marathi_dataset/
 
 # VS Code
 .vscode/
+
+# Refit classifier artifacts from the exploratory grouped-comparison experiment.
+# The upload dashboard uses the timestamp-review model under reports/ instead.
+/best_model_grouped.joblib
+/best_model_grouped_v2.joblib
+/model_evaluation_grouped.csv
+/model_evaluation_grouped.json
+/model_evaluation_grouped_v2.csv
+/model_evaluation_grouped_v2.json
+/reports/best_model_grouped_cap500.joblib
+/reports/timestamp_review_dashboard.html
+/original_audio_review.csv

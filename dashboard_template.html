@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SpeechLens · Temporal review</title>
+<style>
+:root{--ink:#202235;--muted:#686a7c;--line:#e4e4ed;--paper:#f1f1f8;--white:#fff;--slate:#242638;--violet:#7257d8;--violet-soft:#eeeaff;--pause:#e2a447;--candidate:#c44d71;--speech:#9a91e8;--good:#3b936f;--panel-shadow:0 12px 30px #27234d0b,0 2px 7px #27234d08}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 62% -18%,#ebe6ff 0,transparent 38%),var(--paper);color:var(--ink);font:14px/1.55 Inter,ui-sans-serif,system-ui,"Segoe UI",sans-serif}
+button,select,input{font:inherit}
+button{cursor:pointer}
+.app{min-height:100vh;display:grid;grid-template-columns:238px minmax(0,1fr)}
+aside{background:var(--slate);color:#f5f4ff;padding:22px 14px;position:sticky;top:0;height:100vh}
+.brand{padding:3px 13px 28px}.brand b{font-size:21px;letter-spacing:-.04em}.brand p{color:#a8a7b9;font-size:11px;margin:3px 0}
+nav{display:grid;gap:5px}nav button{text-align:left;border:0;background:transparent;color:#c8c7d4;padding:11px 13px;border-radius:9px}nav button.active,nav button:hover{background:#36384d;color:#fff}nav small{display:block;color:#9293a6;font-size:11px}
+.side-note{position:absolute;bottom:20px;left:20px;right:20px;color:#b9b9c8;font-size:11px;border-top:1px solid #45475a;padding-top:12px}
+main{max-width:1680px;width:100%;padding:32px clamp(16px,3vw,52px);margin:auto}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:21px}.topbar h1{font-size:26px;margin:0;letter-spacing:-.04em}.topbar p{margin:2px 0;color:var(--muted)}.pill{display:inline-flex;padding:5px 10px;border-radius:999px;background:var(--violet-soft);color:#5942bb;font-size:11px;font-weight:700}
+.page{display:none}.page.active{display:block}.panel{background:linear-gradient(145deg,#fff 0%,#fdfcff 100%);border:1px solid #e6e4f0;border-radius:17px;padding:21px;margin-bottom:17px;min-width:0;box-shadow:var(--panel-shadow)}.panel h2,.panel h3{margin:0 0 10px}.panel h2{font-size:17px}.panel h3{font-size:14px}.muted{color:var(--muted)}.small{font-size:12px}.eyebrow{text-transform:uppercase;letter-spacing:.09em;color:#7560cf;font-size:10px;font-weight:750}.row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.between{justify-content:space-between}.grid{display:grid;gap:14px}.grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.four{grid-template-columns:repeat(4,minmax(0,1fr))}
+.metric{padding:13px;border:1px solid var(--line);border-radius:11px;background:#fff}.metric strong{display:block;font-size:23px;letter-spacing:-.04em}.metric span{color:var(--muted);font-size:11px}.notice{padding:12px 14px;background:#fff7e8;border:1px solid #f2dfb9;border-radius:10px;color:#725725;margin:12px 0}.notice.red{background:#fff0f2;border-color:#f0cbd4;color:#78384a}
+select,.control{background:#fff;border:1px solid var(--line);border-radius:8px;padding:8px 10px;color:var(--ink)}audio{width:100%;height:42px;margin:14px 0}.canvas-wrap{width:100%;overflow:hidden;background:linear-gradient(135deg,#fff,#f5f3fc);border:1px solid #e7e4f1;border-radius:12px;box-shadow:inset 0 1px 3px #30276608}canvas{display:block;width:100%;height:150px}canvas.timeline{height:230px;cursor:crosshair}canvas.chart{height:200px}canvas.spectrogram{height:280px}
+.score-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:16px 0 4px}.score-card{display:flex;align-items:center;gap:12px;min-height:118px;padding:14px;border:1px solid #e7e3f4;border-radius:14px;background:linear-gradient(135deg,#fff,#f8f6ff);box-shadow:0 8px 20px #4b397e0a}.score-ring{--score:0%;--score-color:#745ce0;position:relative;display:grid;place-items:center;flex:none;width:66px;height:66px;border-radius:50%;background:conic-gradient(var(--score-color) var(--score),#eeedf5 0);box-shadow:0 3px 10px #46377b1c}.score-ring:before{content:"";position:absolute;inset:6px;border-radius:50%;background:#fff}.score-ring strong{position:relative;font-size:17px;letter-spacing:-.04em}.score-copy{min-width:0}.score-copy b{display:block;font-size:13px}.score-copy small{display:block;margin-top:3px;color:var(--muted);font-size:10px;line-height:1.4}
+.legend{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:11px;margin:8px 0}.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px}.dot.speech{background:var(--speech)}.dot.pause{background:var(--pause)}.dot.candidate{background:var(--candidate)}.range-controls{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:12px 0}.range-controls label{font-size:11px;color:var(--muted)}input[type=range]{width:100%;accent-color:var(--violet)}
+.dot.gap{background:#4c9b80}.dot.unclear{background:#cc6b42}.upload-panel{border-color:#d9d1fb;background:#fdfcff}.upload-panel input[type=file]{max-width:min(100%,360px)}
+.causal-list{display:grid;gap:8px}.causal-card{width:100%;text-align:left;border:1px solid var(--line);border-radius:9px;background:#fafaff;padding:11px}.causal-card:hover{border-color:#9887e4;background:#f7f5ff}.causal-card header{display:flex;align-items:center;justify-content:space-between;gap:8px}.causal-card b{font-size:11px;letter-spacing:.04em}.causal-card p{margin:5px 0 0;font-size:11px}.causal-card .causal-transcript{color:#3e3b58;font-style:italic}.causal-card .causal-evidence{color:var(--muted)}
+.analyzer-layout{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(290px,.8fr);gap:14px;align-items:start}.word-timeline{height:116px;overflow:auto;padding:8px;border:1px solid var(--line);border-radius:8px;display:flex;align-items:flex-start;gap:3px;flex-wrap:wrap}.word-chip{border:0;border-radius:5px;background:#f0eff8;color:#3b3754;padding:3px 5px;font-size:10px}.word-chip.flagged{background:#ffedf1;color:#973d59}.word-chip.selected{outline:2px solid var(--violet)}.word-chip small{display:block;color:#747185;font-size:9px}
+.transcript{max-height:310px;overflow:auto;padding:13px;background:#fafaff;border:1px solid var(--line);border-radius:9px;font-size:15px;line-height:2.1;white-space:pre-wrap}.transcript-word{border-radius:4px;padding:2px 1px;cursor:pointer}.transcript-word.flagged{background:#ffedf1}.transcript-word.active{background:#e9e3ff;outline:1px solid #cfc3ff}
+.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.detail-field{padding:9px;background:#fafaff;border-radius:8px;min-width:0}.detail-field span{display:block;font-size:10px;color:var(--muted)}.detail-field b{font-size:12px;overflow-wrap:anywhere}.event-list{max-height:430px;overflow:auto;display:grid;gap:7px}.event-row{display:flex;align-items:center;gap:8px;text-align:left;background:white;border:1px solid var(--line);border-radius:8px;padding:9px}.event-row:hover,.event-row.selected{border-color:#9887e4;background:#faf9ff}.event-row span:nth-child(2){flex:1}.event-row small{display:block;color:var(--muted)}
+.table-wrap{overflow:auto;border:1px solid var(--line);border-radius:9px}table{border-collapse:collapse;width:100%;font-size:12px}td,th{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{position:sticky;top:0;background:#f4f3f9}tbody tr{cursor:pointer}tbody tr:hover{background:#f8f7ff}.scrollbox{max-height:410px;overflow:auto}
+.comparison-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.recording-mini{padding:14px;border:1px solid var(--line);border-radius:10px}.recording-mini canvas{height:110px}.steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.step{padding:15px;border:1px solid var(--line);border-radius:10px;background:white}.step b{display:block;color:var(--violet);font-size:18px}.step h3{margin:4px 0}
+@media(max-width:1000px){.app{grid-template-columns:190px minmax(0,1fr)}.analyzer-layout{grid-template-columns:1fr}.grid.four{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:680px){.app{display:block}aside{height:auto;position:relative;padding:10px}.brand{padding:4px 8px 8px}nav{display:flex;overflow:auto}nav button{white-space:nowrap}nav small,.side-note{display:none}main{padding:17px 12px}.panel{padding:15px;border-radius:14px}.grid.two,.grid.four,.comparison-cards,.steps,.score-grid{grid-template-columns:1fr}.topbar{align-items:flex-start;flex-direction:column}.range-controls{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+<aside><div class="brand"><b>◈ SpeechLens</b><p>Speech analytics · Temporal review</p></div>
+<nav aria-label="Main navigation">
+<button class="active" data-page="analyzer">Analyzer<small>Main workspace</small></button>
+<button data-page="spectrum">Dataset Spectrum<small>Dataset patterns</small></button>
+<button data-page="evaluation">Evaluation<small>Model performance</small></button>
+<button data-page="explorer">Event Explorer<small>Findings by timestamp</small></button>
+<button data-page="comparison">Recording Comparison<small>Compare recordings</small></button>
+<button data-page="method">How It Works<small>Methodology</small></button>
+</nav></aside>
+<main>
+<div class="topbar"><div><div class="eyebrow">Speech analytics</div><h1 id="pageTitle">Analyzer</h1><p id="pageSubtitle"></p></div><span class="pill">LOCAL ANALYSIS</span></div>
+<section id="page-analyzer" class="page active">
+<div class="panel upload-panel"><div class="row between"><div><span class="eyebrow">New recording</span><h2>Upload a recording</h2></div><input id="uploadAudio" type="file" accept=".wav,audio/wav"></div><p class="small muted" id="uploadStatus" role="status" hidden></p></div>
+<div id="analyzerOutput" hidden>
+<div class="panel"><div class="row between"><div><span class="eyebrow">Uploaded recording</span><h2 id="recordingName"></h2></div><span class="pill" id="baselineLabel"></span></div>
+<div class="grid four" id="summaryMetrics"></div><audio id="audioPlayer" controls preload="metadata"></audio><div class="row small"><span class="pill" id="analysisStatus"></span></div></div>
+<div class="panel"><div class="row between"><div><span class="eyebrow">At-a-glance</span><h2>Recording scores</h2></div><span class="pill">MEASURED · NOT ACCURACY</span></div><div id="scoreCards" class="score-grid"></div><p class="small muted">Recognition confidence is the recognizer's own estimate, not verified transcript accuracy. Other scores show the share of words/windows meeting their displayed thresholds.</p></div>
+<div class="panel" id="intervalExplanationPanel"><div class="row between"><div><span class="eyebrow">Timestamped results</span><h2>Speech and interval findings</h2></div><span class="small muted">Select a finding to play</span></div><div id="causalFindings" class="causal-list"></div></div>
+<div class="analyzer-layout"><div>
+<div class="panel"><div class="row between"><div><span class="eyebrow">Synchronized audio</span><h2>Waveform & event timeline</h2></div><span class="small muted" id="currentTime">00:00.00</span></div>
+<div class="legend"><span><i class="dot speech"></i>Word intervals</span><span><i class="dot pause"></i>Low-energy interval</span><span><i class="dot gap"></i>Inter-word gap</span><span><i class="dot unclear"></i>Possible unclear speech</span><span><i class="dot candidate"></i>Baseline-deviation review candidate</span></div>
+<div class="canvas-wrap"><canvas class="timeline" id="timelineCanvas" aria-label="Audio waveform and timestamps"></canvas></div>
+<div class="range-controls"><label>Zoom <input type="range" id="zoomControl" min="1" max="12" value="1"></label><label>Pan <input type="range" id="panControl" min="0" max="100" value="0"></label></div>
+<div class="row between"><h3>Timestamped words</h3><span class="small muted" id="timelineScale"></span></div><div class="word-timeline" id="wordTimeline"></div></div>
+<div class="panel"><div class="row between"><div><span class="eyebrow">Transcript</span><h2>Recognized speech · synchronized</h2></div><span class="small muted">Select a word to play</span></div><div class="transcript" id="transcript"></div></div>
+<div class="panel"><span class="eyebrow">Acoustic evidence</span><h2>Signal views · shared time axis</h2>
+<div class="grid two"><div><h3>Pitch contour · Hz</h3><div class="canvas-wrap"><canvas class="chart" id="pitchChart"></canvas></div></div><div><h3>Energy contour · dB</h3><div class="canvas-wrap"><canvas class="chart" id="energyChart"></canvas></div></div>
+<div><h3>Speaking rate · words/min by 10 seconds</h3><div class="canvas-wrap"><canvas class="chart" id="rateChart"></canvas></div></div><div><h3>Spectrogram · frequency by time</h3><div class="canvas-wrap"><canvas class="spectrogram" id="spectrogramChart"></canvas></div></div></div>
+</div>
+</div><div>
+<div class="panel"><span class="eyebrow">Selected finding</span><h2 id="detailTitle">Select a word or event</h2><div id="detailContent" class="muted small">The panel shows event evidence and transcript context.</div></div>
+<div class="panel"><div class="row between"><div><span class="eyebrow">Findings</span><h2>Detected events</h2></div><span id="eventCount" class="pill"></span></div><div class="event-list" id="eventList"></div></div>
+</div></div></div></section>
+
+<section id="page-spectrum" class="page">
+<div class="panel"><span class="eyebrow">Dataset overview</span><h2>Dataset Spectrum</h2><p class="muted">Descriptive measurements from recordings with alignments and extracted acoustic features. Reference comparisons are not proof of flaws.</p><div class="grid four" id="datasetMetrics"></div></div>
+<div class="grid two"><div class="panel"><h2>Recording lengths · seconds</h2><div class="canvas-wrap"><canvas class="chart" id="durationChart"></canvas></div></div><div class="panel"><h2>Review candidates and pause intervals</h2><div class="canvas-wrap"><canvas class="chart" id="categoryChart"></canvas></div></div>
+<div class="panel"><h2>Word-duration distribution · seconds</h2><div class="canvas-wrap"><canvas class="chart" id="wordDurationChart"></canvas></div></div><div class="panel"><h2>Inter-word gap distribution · seconds</h2><div class="canvas-wrap"><canvas class="chart" id="gapChart"></canvas></div></div>
+<div class="panel"><h2>Alignment confidence · provided scores</h2><div class="canvas-wrap"><canvas class="chart" id="confidenceChart"></canvas></div><p class="small muted">Alignment confidence is the aligner-provided score, not verified timestamp correctness.</p></div><div class="panel"><h2>Speaking-rate distribution · words/min</h2><div class="canvas-wrap"><canvas class="chart" id="rateDistributionChart"></canvas></div></div>
+<div class="panel"><h2>Pitch variation · F0 standard deviation (Hz)</h2><div class="canvas-wrap"><canvas class="chart" id="pitchVariationChart"></canvas></div><p class="small muted">Pitch variation describes the signal; it is not a monotone-speech classification.</p></div></div>
+<div class="panel"><h2>Per-recording summary</h2><div class="table-wrap"><table><thead><tr><th>Recording</th><th>Duration</th><th>Words</th><th>Mean align score</th><th>Local rate</th><th>Pause intervals</th><th>Review candidates</th></tr></thead><tbody id="spectrumTable"></tbody></table></div></div>
+<div class="panel"><h2>Data quality & reference corpus</h2><p id="dataQuality" class="small"></p><p class="small muted">Uploaded recordings are compared automatically with the combined reference recordings. Source recordings remain pending human review; deviation candidates are not verified speech flaws.</p></div>
+</section>
+
+<section id="page-evaluation" class="page"><div class="panel"><span class="eyebrow">Model performance</span><h2>Evaluation status</h2>
+<div class="notice red"><strong>Accuracy, precision, recall, F1, and boundary overlap are unavailable.</strong> No manually verified correct/incorrect timestamp labels exist for a held-out evaluation set. An 80–85% target cannot honestly be asserted from unlabeled data.</div>
+<div class="grid four" id="evaluationMetrics"></div></div>
+<div class="grid two"><div class="panel"><h2>Current model</h2><p><strong>Isolation Forest · multi-recording reference deviation</strong></p><p class="small">Fitted on word intervals from every available source recording. Features include alignment score, word duration and neighboring gaps, local energy/voicing/centroid changes, and zero-crossing rate. The source set is not human-verified clean ground truth.</p><p id="thresholdDescription" class="small"></p></div>
+<div class="panel"><h2>What is needed for accuracy</h2><ol class="small"><li>Annotate timestamps as correct or incorrect using audio review.</li><li>Keep recordings/speakers separate between training and held-out test sets.</li><li>Report precision, recall, F1, and timestamp-boundary error on that held-out set.</li><li>Tune only on training/validation data, then measure test performance once.</li></ol><p class="muted small">Candidate counts are prioritization totals, not correctness metrics.</p></div></div></section>
+
+<section id="page-explorer" class="page"><div class="panel"><div class="row between"><div><span class="eyebrow">Timestamped findings</span><h2>Event Explorer</h2><p class="muted small">Filter by recording and event type, then open a finding in the Analyzer.</p></div><div class="row"><select id="explorerRecording"></select><select id="eventFilter"><option value="all">All event types</option><option value="candidate">Baseline-deviation candidate</option><option value="unclear">Possible unclear speech</option><option value="gap">Inter-word gap</option><option value="pause">Low-energy interval</option></select></div></div>
+<div class="table-wrap scrollbox"><table><thead><tr><th>Recording</th><th>Type</th><th>Start</th><th>End</th><th>Duration</th><th>Transcript context</th><th>Model score</th><th>Evidence</th></tr></thead><tbody id="explorerTable"></tbody></table></div></div></section>
+
+<section id="page-comparison" class="page"><div class="panel"><span class="eyebrow">Measurable patterns · not copied timestamps</span><h2>Recording Comparison</h2><div class="row"><label>Recording A <select id="compareA"></select></label><label>Recording B <select id="compareB"></select></label></div></div>
+<div class="comparison-cards" id="comparisonCards"></div><div class="panel"><h2>Side-by-side statistics</h2><div class="table-wrap"><table><thead><tr><th>Measure</th><th id="compareNameA"></th><th id="compareNameB"></th></tr></thead><tbody id="comparisonTable"></tbody></table></div></div>
+<div class="panel"><h2>Reference context</h2><p class="small">Upload-time deviation scores use the combined source recordings. A recording comparison shows acoustic measurements side by side; it does not copy timestamps between recordings.</p></div></section>
+
+<section id="page-method" class="page"><div class="panel"><span class="eyebrow">Transparent methodology</span><h2>How It Works</h2><p class="muted">Processing stages and the limits of each output.</p><div class="steps">
+<div class="step"><b>01</b><h3>Audio input</h3><p class="small">Local uploads accept 16-bit PCM WAV and are analyzed on this computer. Uploaded samples are removed after processing.</p></div><div class="step"><b>02</b><h3>Transcript & timestamps</h3><p class="small">The English small.en speech recognizer returns word-level timestamps and confidence cues. These are not forced-alignment confidence scores.</p></div><div class="step"><b>03</b><h3>Acoustic cues</h3><p class="small">Frame energy and a spectrogram are computed from the uploaded samples. Gaps are timed between recognized words.</p></div><div class="step"><b>04</b><h3>Review cues</h3><p class="small">Low ASR confidence can mean unclear speech, but noise and accents can also lower it. Energy cannot reliably tell breath from silence.</p></div><div class="step"><b>05</b><h3>Reference comparison</h3><p class="small">Word timing and acoustic features are scored automatically against the combined reference recordings. Missing forced-alignment scores are imputed for uploads.</p></div><div class="step"><b>06</b><h3>Temporal grounding</h3><p class="small">Words, detected gaps, and low-energy intervals are shown with timestamps, transcript context, and audio playback. Deviation candidates prioritize review; they are not validated flaw predictions.</p></div></div></div>
+<div class="panel"><h2>Event meanings & caveats</h2><div class="grid two"><div><p><i class="dot candidate"></i><strong>Reference-deviation candidate</strong><br><span class="small muted">A word interval unusual relative to the combined source corpus; review needed, not a confirmed flaw.</span></p><p><i class="dot pause"></i><strong>Low-energy interval</strong><br><span class="small muted">An acoustic cue that may be a natural pause, breath, or silence. This detector cannot reliably identify which.</span></p></div><div><p class="small"><strong>Hesitation, rushing, dragging, monotone, mumbling:</strong> there are no human-verified labels for these natural flaw types. Upload-time low ASR confidence is only a cue to listen, not a diagnosis.</p><p class="small"><strong>Severity and review status:</strong> not provided by the model; no confirmed/dismissed workflow is claimed.</p></div></div></div></section>
+</main></div>
+<script id="report-data" type="application/json">__REPORT_DATA__</script>
+<script>
+"use strict";
+const DATA=JSON.parse(document.getElementById("report-data").textContent);
+const RECORDINGS=DATA.recordings,BY_ID=Object.fromEntries(RECORDINGS.map(r=>[r.recording_id,r]));
+const C={violet:"#7257d8",pause:"#e2a447",candidate:"#c44d71",speech:"#9a91e8",muted:"#77788b",grid:"#e6e5ed"};
+const $=id=>document.getElementById(id),esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const n=(v,d=2)=>v===null||v===undefined||v===""?"—":Number.isFinite(Number(v))?Number(v).toFixed(d):"—";
+const clock=v=>{v=Math.max(0,Number(v)||0);return String(Math.floor(v/60)).padStart(2,"0")+":"+(v%60).toFixed(2).padStart(5,"0")};
+let activeId=null,selectedWord=null,selectedPause=null,zoom=1,pan=0,uploadInProgress=false;
+const player=$("audioPlayer");
+function eventsFor(r,filter="all"){
+ const events=[
+  ...r.words.filter(w=>w.model_review_candidate).map(w=>({kind:"candidate",start:w.start,end:w.end,word:w})),
+  ...r.words.filter(w=>w.asr_unclear_candidate).map(w=>({kind:"unclear",start:w.start,end:w.end,word:w})),
+  ...r.analysis.pauses.map((pause,index)=>({kind:"pause",start:pause.start,end:pause.end,pause,index})),
+  ...(r.analysis.gaps||[]).map((gap,index)=>({kind:"gap",start:gap.start,end:gap.end,gap,index}))
+ ];
+ return events.filter(e=>(filter==="all"||filter===e.kind)&&Number.isFinite(e.start)&&Number.isFinite(e.end)).sort((a,b)=>a.start-b.start);
+}
+function contextFor(r,w,p=null){
+ if(p){
+  if(p.kind==="gap")return `Between “${p.before_word||"recording start"}” and “${p.after_word||"recording end"}” · ${p.reason}`;
+  const before=r.words.filter(v=>Number.isFinite(v.end)&&v.end<=p.start).at(-1),after=r.words.find(v=>Number.isFinite(v.start)&&v.start>=p.end);
+  return `Before: ${before?.word||"recording start"} · during: ${p.reason||"acoustic pause"} · after: ${after?.word||"recording end"}`;
+ }
+ if(!w)return "Acoustic interval; no flaw is inferred from the pause.";
+ const i=r.words.indexOf(w);return r.words.slice(Math.max(0,i-3),Math.min(r.words.length,i+4)).map(v=>v.word).join(" ");
+}
+function options(select,selected,includeAll=false){
+ select.innerHTML=(includeAll?'<option value="all">All recordings</option>':"")+RECORDINGS.map(r=>`<option value="${esc(r.recording_id)}" ${r.recording_id===selected?"selected":""}>${esc(r.recording_id)}${r.is_baseline?" · human reference":""}</option>`).join("");
+}
+function metric(value,label){return `<div class="metric"><strong>${esc(value)}</strong><span>${esc(label)}</span></div>`}
+function setRecording(id){
+ activeId=id;selectedWord=null;selectedPause=null;const r=BY_ID[id];$("recordingName").textContent=r.display_name||id; $("baselineLabel").textContent=`Compared with ${r.reference_comparison?.recording_count||DATA.baseline_training_recording_ids.length} reference recordings`;
+ player.src=r.audio_path;player.load();const pauses=r.analysis.pause_summary.count??r.analysis.pauses.length;
+ $("summaryMetrics").innerHTML=metric(n(r.analysis.duration_seconds,1)+" s","Audio duration")+metric(r.words.length,r.is_upload?"Timestamped words":"Aligned words")+metric(eventsFor(r).length,"Timestamped findings")+metric(`${pauses} · ${n(r.analysis.pause_summary.total_duration,1)} s`,"Low-energy intervals · duration");
+ renderScores(r.analysis.scores||{});
+ $("analysisStatus").textContent=`${r.words.length} timestamped words · ${r.review_candidate_count} reference review candidates`;
+ $("wordTimeline").innerHTML=r.words.map((w,i)=>`<button class="word-chip ${w.model_review_candidate||w.asr_unclear_candidate?"flagged":""}" data-word-index="${i}" title="${esc(w.word)} · ${clock(w.start)}–${clock(w.end)}">${esc(w.word)}<small>${clock(w.start)}</small></button>`).join("");
+ const parts=(r.transcript||"").split(/(\s+)/);let cursor=0;
+ $("transcript").innerHTML=parts.map(part=>{
+  if(/^\s+$/.test(part))return esc(part);
+  const norm=part.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,"").toLocaleLowerCase();let match=-1;
+  for(let j=cursor;j<Math.min(r.words.length,cursor+6);j++){const word=r.words[j].word.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,"").toLocaleLowerCase();if(norm&&norm===word){match=j;break}}
+  if(match<0)return esc(part);cursor=match+1;const w=r.words[match];
+  return `<span class="transcript-word ${w.model_review_candidate||w.asr_unclear_candidate?"flagged":""}" data-word-index="${match}" title="${clock(w.start)}–${clock(w.end)} · ${w.asr_confidence===undefined?"alignment score "+n(w.alignment_score,3):"ASR confidence "+n(w.asr_confidence,2)}">${esc(part)}</span>`;
+ }).join("");
+ renderEvents();renderDetail();renderTimeline();renderAcoustics();renderCausalFindings(r);renderExplorer();
+}
+function renderScores(scores){
+ const cards=[
+  ["Recognition confidence",scores.recognition_confidence,"Average recognizer confidence · not calibrated accuracy","#745ce0"],
+  ["High-confidence words",scores.high_confidence_words,"Words at or above the 0.45 ASR review threshold","#3b936f"],
+  ["Phrase pace in range",scores.phrase_pace_in_range,`${scores.phrase_pace_window_count||0} phrase windows · 90–190 words/min`,"#d18b37"]
+ ];
+ $("scoreCards").innerHTML=cards.map(([label,score,detail,color])=>`<article class="score-card"><div class="score-ring" style="--score:${Number.isFinite(score)?Math.max(0,Math.min(100,score)):0}%;--score-color:${color}"><strong>${Number.isFinite(score)?`${Math.round(score)}%`:"—"}</strong></div><div class="score-copy"><b>${esc(label)}</b><small>${esc(detail)}</small></div></article>`).join("");
+}
+function renderCausalFindings(r){
+ const findings=r.analysis.causal_findings||[];
+ $("causalFindings").innerHTML=findings.length?findings.map((finding,index)=>`<button class="causal-card" data-causal-index="${index}" type="button"><header><b>${esc(finding.category)}</b><span class="small muted">${clock(finding.start)}–${clock(finding.end)} · ${n(finding.end-finding.start,2)} s</span></header><p class="causal-transcript">“${esc(finding.transcript)}”</p><p>${esc(finding.reason)}</p><p class="causal-evidence">${esc(finding.evidence)}</p></button>`).join(""):`<p class="muted small">${r.is_upload?"No interval review cues were detected in this upload. Word timestamps and audio charts are still available below.":"No interval explanations in this reference report. Upload a WAV to analyze its word times, gaps, and review cues."}</p>`;
+ $("causalFindings").querySelectorAll("[data-causal-index]").forEach(button=>button.addEventListener("click",()=>{
+  const finding=findings[Number(button.dataset.causalIndex)],word=r.words.find(item=>item.start===finding.start&&item.end===finding.end);
+  const gap=(r.analysis.gaps||[]).find(item=>item.start===finding.start&&item.end===finding.end);
+  const pause=r.analysis.pauses.find(item=>item.start===finding.start&&item.end===finding.end);
+  selectedWord=word||null;selectedPause=gap||pause||null;
+  seek(finding.listen_start??finding.start,finding.listen_end??finding.end);
+  if(word||gap||pause){renderEvents();renderDetail();renderTimeline();highlightTranscript()}
+ }));
+}
+function renderEvents(){
+ const r=BY_ID[activeId],events=eventsFor(r);$("eventCount").textContent=events.length+" events";
+ $("eventList").innerHTML=events.length?events.map((e,i)=>{const interval=e.pause||e.gap;const label={pause:"Low-energy interval",gap:"Inter-word gap",unclear:"Possible unclear speech",candidate:"Baseline-deviation candidate"}[e.kind];const reason=interval?.reason||e.word?.review_cues?.join(", ")||"Listen and review";return `<button class="event-row ${selectedWord===e.word||selectedPause===interval?"selected":""}" data-event="${i}"><i class="dot ${e.kind}"></i><span><strong>${label} · ${esc(e.word?.word||reason)}</strong><small>${clock(e.start)}–${clock(e.end)} · ${n(e.end-e.start,2)} s</small></span><small>${e.kind==="candidate"?"score "+n(e.word.baseline_anomaly_score,3):e.kind==="unclear"?"ASR "+n(e.word.asr_confidence,2):"review cue"}</small></button>`}).join(""):'<p class="muted small">No timestamped findings in this recording.</p>';
+ $("eventList").querySelectorAll("[data-event]").forEach(button=>button.addEventListener("click",()=>selectEvent(events[Number(button.dataset.event)])));
+}
+function seek(start,end){
+ player.currentTime=Math.max(0,start);player.play().catch(()=>{});
+ if(Number.isFinite(end)){const stop=()=>{if(player.currentTime>=end){player.pause();player.removeEventListener("timeupdate",stop)}};player.addEventListener("timeupdate",stop)}
+}
+function selectEvent(e){selectedWord=e.word||null;selectedPause=e.pause||e.gap||null;seek(e.start,e.end);renderEvents();renderDetail();renderTimeline();highlightTranscript()}
+function selectWord(w){if(!w)return;selectedWord=w;selectedPause=null;if(Number.isFinite(w.start))seek(w.start);renderEvents();renderDetail();renderTimeline();highlightTranscript()}
+function renderDetail(){
+ const r=BY_ID[activeId],w=selectedWord,p=selectedPause;
+ if(!w&&!p){$("detailTitle").textContent="Select a word or event";$("detailContent").innerHTML="<p>Click a flagged interval, pause, timeline point, or transcript word to inspect it.</p>";return}
+ const start=w?.start??p.start,end=w?.end??p.end,duration=end-start;
+ $("detailTitle").textContent=w?(w.model_review_candidate?"Reference-deviation review candidate · "+w.word:w.asr_unclear_candidate?"Possible unclear / mumbled speech · "+w.word:"Timestamped word · "+w.word):p?.kind==="gap"?"Inter-word gap":"Low-energy interval";
+ const evidence=w?(w.asr_confidence!==undefined?`Speech-recognition confidence: ${n(w.asr_confidence,2)}. Word duration: ${n(w.duration_seconds,3)} s. Gap before: ${n(w.gap_before_seconds,3)} s.`:`Aligner score: ${n(w.alignment_score,3)}. Word duration: ${n(w.duration_seconds,3)} s. Gap before: ${n(w.gap_before_seconds,3)} s. Local energy: ${n(w.word_rms_db_median,2)} dB; voiced fraction: ${n(w.word_voiced_fraction,2)}.`):p?.kind==="gap"?`Inter-word gap: ${n(duration,3)} s. Low-energy fraction: ${n(p.quiet_fraction,2)}.`:`Energy threshold: ${n(r.analysis.pause_threshold_db,1)} dB. Detector: ${esc(r.analysis.pause_method)}.`;
+ const explanation=w?(w.model_review_candidate?"Timing and acoustic features differ from the combined reference recordings.":w.asr_unclear_candidate?"Recognition confidence is low in this word interval.":"No review cue was detected for this word."):(p?.reason||"");
+ $("detailContent").innerHTML=`<div class="detail-grid"><div class="detail-field"><span>Event type</span><b>${w?(w.asr_unclear_candidate?"Possible unclear speech":w.model_review_candidate?"Baseline-deviation candidate":"Word timestamp"):p?.kind==="gap"?"Inter-word gap":"Low-energy interval"}</b></div><div class="detail-field"><span>Review status</span><b>Not tracked</b></div><div class="detail-field"><span>Start</span><b>${n(start,3)} s · ${clock(start)}</b></div><div class="detail-field"><span>End / duration</span><b>${n(end,3)} s · ${n(duration,3)} s</b></div><div class="detail-field"><span>Confidence / model score</span><b>${w?w.asr_confidence!==undefined?"ASR "+n(w.asr_confidence,2):n(w.baseline_anomaly_score,4)+" / "+n(w.baseline_score_threshold,4):"Not applicable"}</b></div><div class="detail-field"><span>Severity</span><b>Not provided</b></div></div><p class="small"><strong>Transcript context</strong><br>${esc(contextFor(r,w,p))}</p><p class="small"><strong>Evidence</strong><br>${esc(evidence)}</p><p class="small"><strong>Explanation</strong><br>${esc(explanation)}</p><button class="control" id="playSegment">▶ Play this segment</button>`;
+ $("playSegment").addEventListener("click",()=>seek(start,end));
+}
+function setupCanvas(canvas,height,draw){
+ if(!canvas)return;const width=Math.max(canvas.getBoundingClientRect().width,120),dpr=window.devicePixelRatio||1;
+ canvas.width=width*dpr;canvas.height=height*dpr;const ctx=canvas.getContext("2d");ctx.scale(dpr,dpr);draw(ctx,width,height);
+}
+function renderTimeline(){
+ const r=BY_ID[activeId],duration=r.audio_visual.duration_seconds||1;
+ setupCanvas($("timelineCanvas"),205,(ctx,width,height)=>{
+  ctx.fillStyle="#fbfaff";ctx.fillRect(0,0,width,height);const view=duration/zoom,start=pan/100*Math.max(0,duration-view),end=start+view,x=t=>(t-start)/view*width;
+  for(let t=Math.ceil(start/10)*10;t<=end;t+=10){ctx.strokeStyle=C.grid;ctx.beginPath();ctx.moveTo(x(t),0);ctx.lineTo(x(t),height);ctx.stroke();ctx.fillStyle=C.muted;ctx.font="10px system-ui";ctx.fillText(clock(t),x(t)+3,12)}
+  ctx.fillStyle=C.pause;ctx.globalAlpha=.22;for(const p of r.analysis.pauses)if(p.end>=start&&p.start<=end)ctx.fillRect(x(p.start),20,Math.max(1,x(p.end)-x(p.start)),height-38);ctx.globalAlpha=1;
+  ctx.fillStyle=C.gap;ctx.globalAlpha=.16;for(const gap of r.analysis.gaps||[])if(gap.end>=start&&gap.start<=end)ctx.fillRect(x(gap.start),20,Math.max(1,x(gap.end)-x(gap.start)),height-38);ctx.globalAlpha=1;
+  const wave=r.audio_visual.waveform_minmax;ctx.save();ctx.strokeStyle="#7868c5";ctx.lineWidth=1.5;ctx.shadowColor="#8874df99";ctx.shadowBlur=5;ctx.beginPath();wave.forEach((pair,i)=>{const t=i/(wave.length-1)*duration;if(t<start||t>end)return;const px=x(t),mid=height*.48;ctx.moveTo(px,mid+pair[0]*height*.32);ctx.lineTo(px,mid+pair[1]*height*.32)});ctx.stroke();ctx.restore();
+  for(const w of r.words){if(!Number.isFinite(w.start)||w.end<start||w.start>end)continue;ctx.fillStyle=w.model_review_candidate?C.candidate:w.asr_unclear_candidate?"#cc6b42":C.speech;ctx.globalAlpha=w.model_review_candidate||w.asr_unclear_candidate?.95:.58;const px=x(w.start);ctx.fillRect(px,height-17,Math.max(1,Math.min(x(w.end)-px,width-px)),9)}ctx.globalAlpha=1;
+  const t=player.currentTime||0;if(t>=start&&t<=end){ctx.strokeStyle="#2b2941";ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x(t),15);ctx.lineTo(x(t),height-5);ctx.stroke()}
+  ctx.fillStyle=C.muted;ctx.font="10px system-ui";ctx.fillText(`${clock(start)} – ${clock(Math.min(end,duration))}`,6,height-3)
+ });
+ const durationView=duration/zoom,from=pan/100*Math.max(0,duration-durationView);$("timelineScale").textContent=`${clock(from)} – ${clock(Math.min(duration,from+durationView))}`;
+}
+function drawSeries(canvas,points,color){
+ setupCanvas(canvas,180,(ctx,width,height)=>{
+  ctx.fillStyle="#fff";ctx.fillRect(0,0,width,height);ctx.strokeStyle=C.grid;
+  for(let i=1;i<4;i++){const y=i*height/4;ctx.beginPath();ctx.moveTo(34,y);ctx.lineTo(width-8,y);ctx.stroke()}
+  const valid=points.filter(p=>p.value!==null&&Number.isFinite(p.value));if(!valid.length){ctx.fillStyle=C.muted;ctx.font="12px system-ui";ctx.fillText("No measurements available",12,24);return}
+  let lo=Math.min(...valid.map(p=>p.value)),hi=Math.max(...valid.map(p=>p.value));if(lo===hi){lo--;hi++}
+  const maxTime=BY_ID[activeId].analysis.duration_seconds||valid.at(-1).time||1,plotBottom=height-24,plotTop=15,plotWidth=width-44,plotHeight=plotBottom-plotTop;
+  const coords=valid.map(p=>({x:34+p.time/maxTime*plotWidth,y:plotBottom-(p.value-lo)/(hi-lo)*plotHeight}));
+  const fill=ctx.createLinearGradient(0,plotTop,0,plotBottom);fill.addColorStop(0,color+"35");fill.addColorStop(1,color+"00");
+  ctx.beginPath();coords.forEach((p,i)=>i?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y));ctx.lineTo(coords.at(-1).x,plotBottom);ctx.lineTo(coords[0].x,plotBottom);ctx.closePath();ctx.fillStyle=fill;ctx.fill();
+  ctx.save();ctx.strokeStyle=color;ctx.lineWidth=2.2;ctx.lineJoin="round";ctx.lineCap="round";ctx.shadowColor=color+"66";ctx.shadowBlur=6;ctx.beginPath();coords.forEach((p,i)=>i?ctx.lineTo(p.x,p.y):ctx.moveTo(p.x,p.y));ctx.stroke();ctx.restore();
+  ctx.fillStyle=C.muted;ctx.font="10px system-ui";ctx.fillText(n(hi,1),3,14);ctx.fillText(n(lo,1),3,height-8);ctx.fillText("0 s",35,height-5);ctx.fillText(n(maxTime,0)+" s",width-45,height-5);
+ });
+}
+function drawBars(canvas,items,color,unit){
+ setupCanvas(canvas,180,(ctx,width,height)=>{
+  ctx.fillStyle="#fff";ctx.fillRect(0,0,width,height);if(!items.length){ctx.fillStyle=C.muted;ctx.fillText("No measurements",12,24);return}
+  const max=Math.max(...items.map(v=>Number(v.value)||0),1),left=38,bottom=height-24,plot=width-left-8,step=plot/items.length,bw=Math.max(2,step*.62);
+  items.forEach((v,i)=>{const h=Math.max(1,(Number(v.value)||0)/max*(height-50)),x=left+i*step+(step-bw)/2;ctx.fillStyle=color;ctx.fillRect(x,bottom-h,bw,h);if(items.length<20){ctx.fillStyle=C.muted;ctx.font="9px system-ui";ctx.save();ctx.translate(x+bw/2,bottom+4);ctx.rotate(-Math.PI/4);ctx.fillText(String(v.label),0,0);ctx.restore()}});
+  ctx.fillStyle=C.muted;ctx.font="10px system-ui";ctx.fillText(unit,3,12);ctx.fillText(n(max,1),3,25);ctx.fillText("0",12,bottom)
+ });
+}
+function histogram(values,bins=12){
+ const finite=values.filter(Number.isFinite);if(!finite.length)return[];let lo=Math.min(...finite),hi=Math.max(...finite);if(lo===hi)hi=lo+1;const counts=Array(bins).fill(0);
+ finite.forEach(v=>counts[Math.min(bins-1,Math.floor((v-lo)/(hi-lo)*bins))]++);return counts.map((value,i)=>({label:n(lo+(hi-lo)*i/bins,1),value}));
+}
+function drawSpectrogram(canvas,spec){
+ setupCanvas(canvas,230,(ctx,width,height)=>{
+  const bytes=Uint8Array.from(atob(spec.png_data),c=>c.charCodeAt(0)),image=document.createElement("canvas");image.width=spec.width;image.height=spec.height;const ic=image.getContext("2d"),data=ic.createImageData(spec.width,spec.height),stops=[[0,8,13,34],[.28,34,42,105],[.55,88,64,173],[.76,45,174,205],[1,255,218,116]];
+  for(let y=0;y<spec.height;y++)for(let x=0;x<spec.width;x++){const v=bytes[y*spec.width+x]/255,i=(y*spec.width+x)*4;let a=stops[0],b=stops.at(-1);for(let k=1;k<stops.length;k++)if(v<=stops[k][0]){a=stops[k-1];b=stops[k];break}const t=(v-a[0])/(b[0]-a[0]||1);for(let channel=0;channel<3;channel++)data.data[i+channel]=Math.round(a[channel+1]+(b[channel+1]-a[channel+1])*t);data.data[i+3]=255}
+  ic.putImageData(data,0,0);const left=45,right=10,top=12,bottom=27,plotWidth=width-left-right,plotHeight=height-top-bottom;
+  const background=ctx.createLinearGradient(0,top,0,height);background.addColorStop(0,"#10152d");background.addColorStop(1,"#080d20");ctx.fillStyle=background;ctx.fillRect(left,top,plotWidth,plotHeight);ctx.save();ctx.beginPath();ctx.roundRect(left,top,plotWidth,plotHeight,8);ctx.clip();ctx.imageSmoothingEnabled=true;ctx.drawImage(image,left,top,plotWidth,plotHeight);ctx.restore();
+  ctx.font="10px system-ui";ctx.strokeStyle="#ffffff26";ctx.fillStyle="#d9d9eb";ctx.lineWidth=1;
+  for(let i=0;i<=4;i++){const y=top+i*plotHeight/4;ctx.beginPath();ctx.moveTo(left,y);ctx.lineTo(left+plotWidth,y);ctx.stroke();ctx.fillText(n(spec.nyquist_hz*(1-i/4)/1000,1)+"k",4,y+3)}
+  for(let i=0;i<=4;i++){const x=left+i*plotWidth/4;ctx.beginPath();ctx.moveTo(x,top);ctx.lineTo(x,top+plotHeight);ctx.stroke();ctx.fillText(clock(BY_ID[activeId].analysis.duration_seconds*i/4),x-12,height-7)}
+ });
+}
+function renderAcoustics(){
+ const r=BY_ID[activeId],s=r.analysis.feature_series;drawSeries($("pitchChart"),s.f0_hz||[],C.violet);drawSeries($("energyChart"),s.rms_db||[],"#3d8c79");
+ drawBars($("rateChart"),(r.analysis.local_10sec||[]).map(v=>({label:clock(v.start),value:v.wpm})),"#7e68d6","WPM");drawSpectrogram($("spectrogramChart"),r.audio_visual.spectrogram);
+}
+function renderSpectrum(){
+ const d=DATA.dataset;$("datasetMetrics").innerHTML=metric(d.recording_count,"Recordings")+metric(n(d.total_duration_seconds/60,1)+" min","Total audio")+metric(d.total_word_count,"Aligned words")+metric(d.review_candidate_count,"Baseline-deviation candidates");
+ drawBars($("durationChart"),RECORDINGS.map(r=>({label:r.recording_id,value:r.analysis.duration_seconds})),"#7e68d6","seconds");
+ drawBars($("categoryChart"),[{label:"Review candidates",value:d.review_candidate_count},{label:"Acoustic pauses",value:d.acoustic_pause_count}],"#bd7b4b","intervals");
+ drawBars($("wordDurationChart"),histogram(RECORDINGS.flatMap(r=>r.words.map(w=>w.duration_seconds).filter(Number.isFinite))),"#7662ce","words");
+ drawBars($("gapChart"),histogram(RECORDINGS.flatMap(r=>r.words.map(w=>w.gap_before_seconds).filter(Number.isFinite))),"#bd7b4b","gaps");
+ drawBars($("confidenceChart"),histogram(RECORDINGS.flatMap(r=>r.words.map(w=>w.alignment_score).filter(Number.isFinite))),"#3b936f","scores");
+ drawBars($("rateDistributionChart"),histogram(RECORDINGS.map(r=>r.analysis.global_wpm).filter(Number.isFinite)),"#417c9b","recordings");
+ drawBars($("pitchVariationChart"),histogram(RECORDINGS.map(r=>r.analysis.pitch_std_hz).filter(Number.isFinite)),"#9a6aaa","recordings");
+ $("spectrumTable").innerHTML=RECORDINGS.map(r=>`<tr data-record="${esc(r.recording_id)}"><td>${esc(r.recording_id)}${r.is_baseline?" · reference":""}</td><td>${n(r.analysis.duration_seconds,1)} s</td><td>${r.words.length}</td><td>${n(r.analysis.alignment_score_mean,3)}</td><td>${n(r.analysis.global_wpm,1)} wpm</td><td>${r.analysis.pause_summary.count??r.analysis.pauses.length}</td><td>${r.review_candidate_count}</td></tr>`).join("");
+ $("dataQuality").textContent=`Alignment confidence present for ${d.alignment_score_count} of ${d.total_word_count} words; missing for ${d.missing_alignment_score_count}. Acoustic pauses: ${d.acoustic_pause_count} intervals (${n(d.acoustic_pause_duration_seconds,1)} s total). Speaking-rate and pitch summaries appear where available.`;
+}
+function eventRows(r,filter){
+ return eventsFor(r,filter).map(e=>{const w=e.word,interval=e.pause||e.gap,label={pause:"Low-energy interval",gap:"Inter-word gap",unclear:"Possible unclear speech",candidate:"Baseline-deviation candidate"}[e.kind],reason=interval?.reason||w?.review_cues?.join(", ")||"Review audio";return `<tr data-record="${esc(r.recording_id)}" data-kind="${e.kind}" data-index="${w?r.words.indexOf(w):e.index}" data-word="${w?r.words.indexOf(w):""}"><td>${esc(r.recording_id)}</td><td>${label}</td><td>${n(e.start,3)} s</td><td>${n(e.end,3)} s</td><td>${n(e.end-e.start,3)} s</td><td>${esc(contextFor(r,w,interval))}</td><td>${w?n(w.asr_confidence??w.baseline_anomaly_score,4):"—"}</td><td>${esc(reason)}</td></tr>`});
+}
+function renderExplorer(){
+ const id=$("explorerRecording").value||"all",filter=$("eventFilter").value,recs=id==="all"?RECORDINGS:[BY_ID[id]],rows=recs.flatMap(r=>eventRows(r,filter));
+ $("explorerTable").innerHTML=rows.join("")||'<tr><td colspan="8" class="muted">No events match this filter.</td></tr>';
+ $("explorerTable").querySelectorAll("tr[data-record]").forEach(row=>row.addEventListener("click",()=>{
+  setRecording(row.dataset.record);document.querySelector('[data-page="analyzer"]').click();
+  const recording=BY_ID[row.dataset.record],kind=row.dataset.kind,index=Number(row.dataset.index);
+  if(kind==="pause"){const p=recording.analysis.pauses[index];selectEvent({kind,start:p.start,end:p.end,pause:p,index})}
+  else if(kind==="gap"){const gap=recording.analysis.gaps[index];selectEvent({kind,start:gap.start,end:gap.end,gap,index})}
+  else selectWord(recording.words[Number(row.dataset.word)])
+ }));
+}
+function drawMini(canvas,r){
+ setupCanvas(canvas,110,(ctx,width,height)=>{const d=r.audio_visual.duration_seconds||1;ctx.fillStyle="#fbfaff";ctx.fillRect(0,0,width,height);
+  for(const p of r.analysis.pauses){ctx.fillStyle=C.pause;ctx.globalAlpha=.7;ctx.fillRect(p.start/d*width,8,Math.max(1,(p.end-p.start)/d*width),height-16)}
+  r.words.filter(w=>w.model_review_candidate).forEach(w=>{ctx.fillStyle=C.candidate;ctx.fillRect(w.start/d*width,20,Math.max(2,(w.end-w.start)/d*width),height-40)});
+  ctx.globalAlpha=1;ctx.fillStyle=C.muted;ctx.font="10px system-ui";ctx.fillText("0 s",4,height-3);ctx.fillText(n(d,0)+" s",width-43,height-3)
+ });
+}
+function renderComparison(){
+ const a=BY_ID[$("compareA").value],b=BY_ID[$("compareB").value];if(!a||!b)return;
+ $("compareNameA").textContent=a.recording_id;$("compareNameB").textContent=b.recording_id;
+ $("comparisonCards").innerHTML=[a,b].map((r,i)=>`<div class="recording-mini"><span class="eyebrow">${i?"Comparison side":"Reference side"}</span><h2>${esc(r.recording_id)}${r.is_baseline?" · human baseline":""}</h2><div class="small muted">${n(r.analysis.duration_seconds,1)} s · ${r.words.length} words · ${r.review_candidate_count} candidates · ${r.analysis.pause_summary.count??r.analysis.pauses.length} pauses</div><div class="canvas-wrap"><canvas id="compareCanvas${i}"></canvas></div></div>`).join("");
+ drawMini($("compareCanvas0"),a);drawMini($("compareCanvas1"),b);
+ const rows=[["Duration (s)",a.analysis.duration_seconds,b.analysis.duration_seconds],["Word count",a.words.length,b.words.length],["Mean word duration (s)",a.analysis.mean_word_duration_seconds,b.analysis.mean_word_duration_seconds],["Median inter-word gap (s)",a.analysis.median_gap_seconds,b.analysis.median_gap_seconds],["Mean alignment score",a.analysis.alignment_score_mean,b.analysis.alignment_score_mean],["Speaking rate (wpm)",a.analysis.global_wpm,b.analysis.global_wpm],["Pitch variation (F0 std, Hz)",a.analysis.pitch_std_hz,b.analysis.pitch_std_hz],["Acoustic pauses",a.analysis.pause_summary.count??a.analysis.pauses.length,b.analysis.pause_summary.count??b.analysis.pauses.length],["Review candidates (not errors)",a.review_candidate_count,b.review_candidate_count]];
+ $("comparisonTable").innerHTML=rows.map(row=>`<tr><td>${esc(row[0])}</td><td>${n(row[1],2)}</td><td>${n(row[2],2)}</td></tr>`).join("");
+}
+function highlightTranscript(){
+ const r=BY_ID[activeId],t=player.currentTime;$("transcript").querySelectorAll("[data-word-index]").forEach(node=>{const w=r.words[Number(node.dataset.wordIndex)];node.classList.toggle("active",Boolean(w&&t>=w.start&&t<=w.end))});
+}
+function init(){
+ options($("explorerRecording"),"all",true);options($("compareA"),DATA.baseline_recording_id);options($("compareB"),DATA.comparison_recording_ids[0]||RECORDINGS[1]?.recording_id);
+ $("evaluationMetrics").innerHTML=metric("Not measured","Timestamp accuracy")+metric("Not measured","Precision / recall / F1")+metric("Not measured","Boundary overlap")+metric(`${DATA.baseline_training_words} · ${(DATA.baseline_training_recording_ids||[DATA.baseline_recording_id]).length} recordings`,"reference word intervals used to fit");
+ $("thresholdDescription").textContent=`Review threshold: the ${DATA.baseline_review_percentile}th percentile of combined-reference scores (${n(DATA.baseline_score_threshold,4)}). Lower scores are more unusual relative to the corpus. Scores are not probabilities.`;
+ renderSpectrum();renderComparison();renderExplorer();
+}
+document.querySelectorAll("nav [data-page]").forEach(button=>button.addEventListener("click",()=>{
+ document.querySelectorAll("nav [data-page]").forEach(b=>b.classList.toggle("active",b===button));document.querySelectorAll(".page").forEach(s=>s.classList.toggle("active",s.id==="page-"+button.dataset.page));
+ const names={analyzer:["Analyzer","Understand this recording, timestamp by timestamp."],spectrum:["Dataset Spectrum","Explore recording patterns and data quality."],evaluation:["Evaluation","See what has—and has not—been measured."],explorer:["Event Explorer","Find and inspect timestamped findings."],comparison:["Recording Comparison","Compare patterns without copying timestamps."],method:["How It Works","Processing stages, evidence, and limits."]};
+ $("pageTitle").textContent=names[button.dataset.page][0];$("pageSubtitle").textContent=names[button.dataset.page][1];
+ if(button.dataset.page==="comparison")renderComparison();if(button.dataset.page==="explorer")renderExplorer();if(button.dataset.page==="spectrum")renderSpectrum();
+}));
+async function analyzeUpload(file){
+if(!file||uploadInProgress)return;
+uploadInProgress=true;$("uploadStatus").hidden=false;$("uploadStatus").textContent="Analyzing recording…";$("analyzerOutput").hidden=true;
+try{
+  const response=await fetch("/api/analyze",{method:"POST",headers:{"Content-Type":file.type||"audio/wav","X-Filename":encodeURIComponent(file.name)},body:file});
+  const result=await response.json();if(!response.ok)throw new Error(result.error||"Audio analysis failed.");
+  result.audio_path=URL.createObjectURL(file);DATA.recordings.push(result);BY_ID[result.recording_id]=result;
+  options($("explorerRecording"),$("explorerRecording").value||"all",true);options($("compareA"),$("compareA").value||DATA.baseline_recording_id);options($("compareB"),$("compareB").value||DATA.comparison_recording_ids[0]);
+  DATA.dataset.recording_count+=1;DATA.dataset.total_duration_seconds+=result.analysis.duration_seconds;DATA.dataset.total_word_count+=result.words.length;DATA.dataset.review_candidate_count+=result.review_candidate_count;DATA.dataset.acoustic_pause_count+=result.analysis.pauses.length;DATA.dataset.acoustic_pause_duration_seconds+=result.analysis.pauses.reduce((sum,p)=>sum+p.duration,0);DATA.dataset.missing_alignment_score_count+=result.words.length;
+  $("analyzerOutput").hidden=false;setRecording(result.recording_id);renderSpectrum();renderComparison();$("uploadStatus").textContent=`${result.display_name} · ${result.words.length} words · ${result.analysis.gaps.length} gaps · ${result.reference_comparison.review_candidate_count} reference review candidates.`;$("intervalExplanationPanel").scrollIntoView({behavior:"smooth",block:"start"});
+ }catch(error){$("uploadStatus").textContent=`Could not analyze audio: ${error.message}`}
+ finally{uploadInProgress=false;$("uploadAudio").value=""}
+}
+$("uploadAudio").addEventListener("change",event=>{if(event.target.files[0])analyzeUpload(event.target.files[0])});
+$("zoomControl").addEventListener("input",e=>{zoom=Number(e.target.value);renderTimeline()});$("panControl").addEventListener("input",e=>{pan=Number(e.target.value);renderTimeline()});
+player.addEventListener("timeupdate",()=>{$("currentTime").textContent=clock(player.currentTime);renderTimeline();highlightTranscript()});
+player.addEventListener("loadedmetadata",()=>{$("analysisStatus").textContent=`Audio ready · ${clock(player.duration)}`;renderTimeline()});
+$("timelineCanvas").addEventListener("click",event=>{
+ const rect=event.currentTarget.getBoundingClientRect(),duration=BY_ID[activeId].audio_visual.duration_seconds,visible=duration/zoom,start=pan/100*Math.max(0,duration-visible),time=start+(event.clientX-rect.left)/rect.width*visible;
+ player.currentTime=Math.max(0,Math.min(duration,time));player.play().catch(()=>{});const w=BY_ID[activeId].words.find(word=>word.start<=time&&word.end>=time);if(w)selectWord(w)
+});
+$("wordTimeline").addEventListener("click",e=>{const chip=e.target.closest("[data-word-index]");if(chip)selectWord(BY_ID[activeId].words[Number(chip.dataset.wordIndex)])});
+$("transcript").addEventListener("click",e=>{const word=e.target.closest("[data-word-index]");if(word)selectWord(BY_ID[activeId].words[Number(word.dataset.wordIndex)])});
+$("explorerRecording").addEventListener("change",renderExplorer);$("eventFilter").addEventListener("change",renderExplorer);
+$("compareA").addEventListener("change",renderComparison);$("compareB").addEventListener("change",renderComparison);
+window.addEventListener("resize",()=>{renderTimeline();renderAcoustics();if($("page-comparison").classList.contains("active"))renderComparison()});
+init();
+</script>
+</body>
+</html>
